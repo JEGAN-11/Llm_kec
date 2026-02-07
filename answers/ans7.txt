@@ -1,0 +1,283 @@
+COMPREHENSIVE ANSWERS FOR MSC 5-YEAR PROGRAMME (R2024 REGULATIONS)
+All answers derived from R2024-MSC-Regulations.pdf via RAG tool
+
+Questions 1-15: Programme Duration & Credits
+1. If I joined this programme in 2024, which regulation applies to me?
+R2024 MSc Regulations apply to students admitted from 2024-2025 onward.
+
+2. Will these regulations change if I take a break of study?
+Yes. After rejoining from break of study, you are governed by the rules and regulations in force at the time of rejoining.
+
+3. What is the normal duration of this programme?
+10 consecutive semesters (5 years).
+
+4. What is the maximum time allowed to complete the programme?
+16 semesters (8 years).
+
+5. Is break of study counted within the maximum duration?
+Yes. The total duration includes the period of break of study.
+
+6. What happens if I exceed the maximum duration?
+You become ineligible for the award of the degree.
+
+7. Can I request extension beyond the maximum duration?
+No. Extension beyond the prescribed period shall not be permitted.
+
+8. How many total credits are required to complete this programme?
+The specific total credit requirement is defined in the curriculum (not explicitly stated in retrieved sections).
+
+9. Can I graduate if I am short of one or two credits?
+No. You must successfully gain the required number of total credits specified in the curriculum.
+
+10. Are all courses in the curriculum mandatory?
+The curriculum includes various categories of courses. Course categorization and mandates are specified in the curriculum.
+
+11. Are there electives in this programme?
+Yes. Elective courses are part of the curriculum.
+
+12. How many elective credits are required?
+Elective credit requirements are specified in the curriculum (not explicitly stated in retrieved sections).
+
+13. Can I choose electives from different areas?
+Yes. If attendance is short in an elective, you may register for the same or any other elective course.
+
+14. Can I skip one elective category and compensate with another?
+Not explicitly addressed in retrieved sections. Refer to curriculum specifications.
+
+15. Is there a minimum credit requirement per semester?
+Not explicitly stated in retrieved sections.
+
+Questions 16-30: Add/Drop & Online Courses
+16. Can I overload credits in a semester to finish early?
+You can earn more than the prescribed credits, but maximum credit enrollment per semester is capped.
+
+17. Is there a maximum credit limit per semester?
+Yes. Maximum 30 credits per semester.
+
+18. What happens if I register for fewer credits in a semester?
+Not explicitly addressed, but you must meet curriculum requirements for degree eligibility.
+
+19. Is add/drop option available?
+Yes. Add/Drop is available.
+
+20. When can I apply for add/drop?
+Within two weeks from the start of the semester (from first to ninth semesters).
+
+21. Is add/drop compulsory or optional?
+Optional. It's an option given to candidates.
+
+22. Is there a limit on add/drop credits during the programme?
+Yes. Total cannot exceed 8 credits during the entire programme.
+
+23. Are online courses allowed?
+Yes.
+
+24. Which platforms are approved for online courses?
+NPTEL, SWAYAM, Universities, and Other Agencies approved by Board of Studies.
+
+25. Do online course credits count towards degree completion?
+Yes. Credits earned may be transferred.
+
+26. Do online course grades affect GPA or CGPA?
+Yes. If grades are assigned, they are included in GPA/CGPA calculations.
+
+27. Are self-study courses allowed?
+Yes.
+
+28. How many self-study courses can I take?
+One per semester.
+
+29. Are self-study courses evaluated like regular courses?
+Yes. Same assessment mode as other courses.
+
+30. Are audit courses available in this programme?
+Yes.
+
+Questions 31-45: Audit Courses & Attendance
+31. Do audit courses affect GPA or CGPA?
+No. Audit courses have no grade points assigned and are not counted for GPA/CGPA.
+
+32. What grade is given for audit courses?
+SC (Successfully Completed) if performance grade is obtained.
+
+33. What happens if I fail an audit course?
+If you don't obtain a performance grade, the course won't be listed on your grade sheet.
+
+34. How is attendance calculated – semester-wise or course-wise?
+Both. Overall semester attendance AND per-course attendance must be satisfied.
+
+35. What is the minimum overall attendance required?
+Not less than 80% (after rounding) of overall attendance in a semester.
+
+36. What is the minimum attendance required in each course?
+Not less than 60% in each course.
+
+37. If my overall attendance is fine but one subject attendance is low, what happens?
+You cannot appear for that specific course's end semester examination. You must repeat that course when offered next.
+
+38. Can I write exams for other subjects if one subject attendance is insufficient?
+Yes, if attendance requirements are met for those other subjects.
+
+39. Is medical attendance condonation available?
+Yes. With hospitalization/accident/specific illness and medical certificate.
+
+40. What is the minimum attendance required for medical condonation?
+Not less than 70% in the current semester.
+
+41. How many times can medical condonation be used?
+Only twice during the entire duration of the programme.
+
+42. Is startup attendance concession allowed?
+Yes. For entrepreneurship/startup activities.
+
+43. What is the minimum attendance required for startup concession?
+Not less than 60% in the current semester.
+
+44. Who approves startup attendance concession?
+Review committee recommendation + Principal's approval.
+
+45. Do lab courses have separate attendance requirements?
+Yes. Each course (including practical/lab) has the 60% minimum attendance requirement.
+
+Questions 46-60: Exam Registration & Evaluation
+46. What happens if I lack lab attendance but meet theory attendance?
+Attendance is calculated per course. If lab attendance is below 60%, you cannot appear for that lab course examination.
+
+47. Is exam registration mandatory?
+Yes. Registration is mandatory for current semester and arrear courses.
+
+48. What happens if I do not register for exams?
+You will not be permitted to move on to the higher semester.
+
+49. Is separate registration needed for arrear courses?
+Yes. Registration is mandatory for arrear courses as well.
+
+50. Can I move to the next semester without exam registration?
+No.
+
+51. How are theory courses evaluated?
+CA 40 marks (average of best two tests out of three, plus tutorial/others, plus assignment) + ESE 60 marks (conducted for 100, reduced to 60). Total rounded to nearest integer. Note: Document shows CA 50 + ESE 50 in one section, with tests reduced to 30 marks each for CA.
+
+52. How many marks are for continuous assessment?
+40 marks (or 50 marks based on specific clause - verify with programme curriculum).
+
+53. How many marks are for end semester examination?
+60 marks (or 50 marks based on specific clause - verify with programme curriculum).
+
+54. Is passing the end semester exam mandatory?
+Yes. Minimum 45% of ESE marks is required.
+
+55. What is the minimum mark required to pass a course?
+Not less than 50% total (CA + ESE) with minimum 45% in ESE.
+
+56. Are internal marks carried forward for arrear attempts?
+Yes. CA marks from first attempt are retained for subsequent attempts through the third attempt.
+
+57. Can I improve my grade after passing a course?
+No.
+
+58. Is grade improvement allowed in this programme?
+No. Once passed, reappearance for improvement is not permitted.
+
+59. Is withdrawal from examination allowed?
+Yes, for valid reasons.
+
+60. How many times can I withdraw during the programme?
+Only once during the entire duration.
+
+Questions 61-75: Withdrawal, Break & GPA/CGPA
+61. Can I withdraw from final semester examinations?
+Yes. Final semester candidates who withdraw from project viva-voce can appear for supplementary viva-voce.
+
+62. Does withdrawal count as an appearance?
+No. Withdrawal is not considered an appearance for classification purposes.
+
+63. What happens if I am absent for an exam?
+Absence after registration is considered an appearance for classification purposes.
+
+64. Is absence treated as a failed attempt?
+Yes, absence counts as an attempt.
+
+65. Does absence affect degree classification?
+Yes. Absence after registration is treated as an appearance for classification.
+
+66. Is break of study permitted?
+Yes, for valid reasons (accident, hospitalization, prolonged ill health, etc.).
+
+67. How many times can break of study be taken?
+Once for one year maximum. In extraordinary situations, additional break not exceeding one more year may be granted.
+
+68. What is the maximum duration of break of study?
+One year normally; up to two years total in extraordinary situations.
+
+69. Which regulation applies after rejoining from break?
+Regulations in force at the time of rejoining.
+
+70. Can additional courses be prescribed after rejoining?
+Yes. Additional/equivalent courses may be prescribed to bridge curriculum differences.
+
+71. What happens if I do not report for two consecutive semesters?
+Your name shall be deleted permanently from college enrollment.
+
+72. Can my admission be cancelled permanently?
+Yes. After two consecutive semesters of non-reporting, permanent deletion occurs with no readmission rights.
+
+73. How is GPA calculated?
+GPA = (Sum of course credits × grade points for all courses in the semester) / (Sum of course credits for all courses in that semester)
+
+74. How is CGPA calculated?
+CGPA = (Sum of course credits × grade points for all courses from first to final semester) / (Sum of course credits for all courses from first to final semester)
+
+75. Is GPA or CGPA calculated if I have arrears?
+No. GPA and CGPA are computed only for candidates with a pass in all courses.
+
+Questions 76-90: Classification, Revaluation & Degree Award
+76. How is CGPA converted into percentage?
+Not explicitly mentioned in the retrieved sections.
+
+77. What CGPA is required for First Class?
+Not less than 6.50 (must pass all courses within 12 consecutive semesters excluding authorized break).
+
+78. What CGPA is required for First Class with Distinction?
+Not less than 8.50 (for regular students passing all courses in first appearance within 10 semesters).
+Not less than 9.00 (for transfer/readmitted students).
+
+79. Do arrears affect degree classification?
+Yes. Distinction requires passing all courses in first appearance.
+
+80. Does withdrawal affect classification?
+No. Withdrawal is not considered an appearance for classification.
+
+81. Can grades be withheld?
+Yes.
+
+82. Under what conditions can grades be withheld?
+If dues are not cleared, or if disciplinary case is pending, or for any other reason.
+
+83. What happens if a disciplinary case is pending?
+Grades may be withheld and you won't be eligible for degree award.
+
+84. Can results be changed after publication?
+Results can be changed through revaluation if applied for and approved.
+
+85. Is revaluation allowed?
+Yes, for Theory courses and Theory cum Practical courses where ESE is involved. Must first obtain photocopy, get recommendation from faculty and course coordinator.
+
+86. Is photocopy of answer script allowed?
+Yes, on payment of prescribed fee.
+
+87. Are supplementary exams conducted?
+Yes. For Project Work I/II failures (if ESE marks < 50%), candidate must resubmit report within 30 days and appear for supplementary viva-voce.
+
+88. What are the final eligibility conditions for award of the degree?
+
+Successfully completed all courses under different categories
+Gained required total credits within stipulated time
+Passed any additional courses prescribed after readmission
+No disciplinary action pending
+89. Who has the authority to amend these regulations?
+Academic Council (through the institution).
+
+90. When is the degree officially awarded?
+After satisfying all eligibility conditions. Specific timing not mentioned in retrieved sections.
+

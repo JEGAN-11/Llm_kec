@@ -1,0 +1,90 @@
+1. Which regulation applies if I joined MCA in 2024?
+2. Can my regulation change if I take a break of study?
+3. What is the normal and maximum duration to complete MCA?
+4. What happens if I exceed the maximum duration?
+5. How many total credits are required to get the MCA degree?
+6. Are bridge courses compulsory for non-CS students?
+7. Do bridge courses carry credits?
+8. If I fail a bridge course, can I continue regular semesters?
+9. Are bridge course marks included in CGPA?
+10. How many electives do I need to complete in MCA?
+11. Can I choose electives from different elective groups?
+12. Can I skip electives if I complete extra credits elsewhere?
+13. What is the maximum number of credits I can take in one semester?
+14. Can I overload credits to finish early?
+15. What happens if I underload credits in a semester?
+16. Is attendance calculated semester-wise or subject-wise?
+17. If overall attendance is fine but one subject attendance is low, what happens?
+18. What is the minimum attendance required to write exams?
+19. Can medical reasons reduce attendance requirement?
+20. How many times can medical attendance condonation be used?
+21. Is startup attendance concession allowed for MCA students?
+22. What is the minimum attendance for startup students?
+23. If I have 62% attendance due to startup, am I eligible?
+24. Who approves startup attendance concession?
+25. Do lab courses also have attendance rules?
+26. Can I write theory exam if I lack lab attendance?
+27. What is Mini Project I?
+28. In which semester is Mini Project I offered?
+29. What is Mini Project II?
+30. What happens if I fail Mini Project I?
+31. Can Mini Project I be repeated?
+32. Is internship allowed instead of project?
+33. How is project work evaluated?
+34. Are project marks included in CGPA?
+35. What happens if I don’t submit project report on time?
+36. What happens if I score less than 50% in project internal?
+37. Can I resubmit project if I fail viva?
+38. Is publication mandatory for project?
+39. Are online courses allowed in MCA?
+40. Is there a limit for online course credits?
+41. Do online courses affect CGPA?
+42. What are audit courses?
+43. How many audit courses can I take?
+44. Do audit courses affect GPA or CGPA?
+45. What grade is given for audit courses?
+46. What is the minimum mark to pass a subject?
+47. Is end semester exam passing mandatory?
+48. Are internal marks carried forward for arrears?
+49. Can I withdraw from exams?
+50. How many times can I withdraw?
+51. Can I withdraw in final semester?
+52. Does withdrawal count as an attempt?
+53. What happens if I am absent for exam?
+54. Is absence counted for classification?
+55. Can I improve grade after passing a subject?
+56. How many times can I attempt grade improvement?
+57. How is GPA calculated?
+58. How is CGPA calculated?
+59. Is CGPA calculated if I have arrears?
+60. How is CGPA converted to percentage?
+61. What CGPA is needed for First Class?
+62. What CGPA is needed for Distinction?
+63. Do arrears affect distinction?
+64. Does withdrawal affect distinction?
+65. Can I take break of study?
+66. How many times can I take break of study?
+67. Is break counted in maximum duration?
+68. Which regulation applies after rejoining?
+69. Can additional courses be prescribed after rejoining?
+70. What happens if I don’t report for two semesters?
+71. Can my name be removed from rolls?
+72. Can grades be withheld?
+73. Under what conditions grades are withheld?
+74. What happens if disciplinary case is pending?
+75. Can results be changed after publication?
+76. Is revaluation allowed?
+77. Is photocopy of answer script allowed?
+78. Are supplementary exams allowed?
+79. Can I graduate with one pending course?
+80. What are the final eligibility conditions for MCA degree?
+81. Who approves the MCA regulations?
+82. Can rules be relaxed for special cases?
+83. Can regulations be changed mid-course?
+84. Who resolves rule interpretation conflicts?
+85. Are students informed about regulation changes?
+86. Is ignorance of rules accepted?
+87. Can department override regulations?
+88. Is degree certificate issued immediately?
+89. Can degree be cancelled later?
+90. When is MCA degree officially awarded?

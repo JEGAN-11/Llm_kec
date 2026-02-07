@@ -1,0 +1,3989 @@
+KONGU ENGINEERING COLLEGE
+
+(Autonomous Institution Affiliated to Anna University, Chennai)
+PERUNDURAI ERODE — 638 060
+TAMILNADU INDIA
+
+excrvc
+PCRUND UR A
+
+Estd : 1984
+
+REGULATIONS, CURRICULUM & SYLLABI -
+2024
+
+(CHOICE BASED CREDIT SYSTEM AND
+OUTCOME BASED EDUCATION)
+
+(For the students admitted from the academic year 2024 - 2025 )
+
+BACHELOR OF TECHNOLOGY DEGREE
+IN
+ARTIFICIAL INTELLIGENCE AND DATA
+SCIENCE
+
+DEPARTMENT OF ARTIFICIAL INTELLIGENCE
+AND DATA SCIENCE
+
+( KONGU
+Puauring the Bert
+
+
+
+B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE — R2024
+(For the students admitted from the academic year 2024-25 onwards)
+
+SEMESTER - |
+
+Course Title
+
+Theory/Theory with Practical
+
+aaa
+
+raen fomwenereom[alol>[ elo lo] >f=[=[™ =| =
+reclame [ely]e[e [ofa -lol= [fel =
+rs mwomemee —[e[e]>[= [>] s[ole[@ [=| =
+rece mms Lelef [=| fmf [m= |e
+poemeemen [olf fatale =| ===
+a left llt=[= [= pele
+
+Practical / Employability Enhancement Pf ft |
+Physics banoratary for Computer
+24PHL11 Systems 40 100 | BS
+Function beeps J -
+Yoga and Values for Holistic
+
+24MNT11 | Student Induction Program
+
+Total Credits to be earned
+
+Cl — Classroom Instructions, LI — Laboratory Instructions, TW — Term Work, SL — Self Learning, L — Lecture, T —
+Tutorial, P — Practical, C — Credit, TH — Total Hours, CA — Continuous Assessment, ESE — End Semester
+Examination.
+
+Type: A — Analytical, D —- Design using Hardware, S — Simulation using Coding, C — Concept, OC — Online
+course, OT - others
+
+oe temeemtnme eee
+Es acetas w
+
+x
+
+th & *
+G x
+hairman Sb
+*
+
+
+
+B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE CURRICULUM — R2024
+(For the students admitted from the academic year 2024-25 onwards)
+
+SEMESTER - Il
+
+Course Course Title Cl LI
+Code
+TW | SL | TH
+Gua
+Theory/Theory with Practical | b Hi 2]
+
+English For Effective
+24EGT21 Communication - II
+
+Probability Theory and Inferential
+
+24MAC24 Statistics
+
+Chemistry for Electronics and
+aeNT8 Computer Systems
+
+24ADC21_ ‘| Python Programming
+
+Foundations of Artificial
+Intelligence
+
+45
+24TAMO02_ | Tamils and Technology
+E
+a
+|
+
+24ADC22
+
+Practical / Employability Enhancement
+
+Chemistry Laboratory for
+24CYL13 | Electronics and Computer
+
+Systems
+
+Foundation Laboratory -
+24GCL12 | Electrical, loT and Web
+
+Technologies
+
+24MNT21 ‘| Quantitative Aptitude - II
+
+Total Credits to be earned 23]
+
+Cl — Classroom Instructions, LI — Laboratory Instructions, TW - Term Work, SL — Self Learning, L — Lecture, T —
+Tutorial, P — Practical, C — Credit, TH — Total Hours, CA — Continuous Assessment, ESE — End Semester
+Examination
+
+Type: A — Analytical, D - Design using Hardware, S — Simulation using Coding, C — Concept, OC — Online
+course, OT - others _——
+
+
+
+B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE CURRICULUM — R2024
+(For the students admitted from the academic year 2024-25 onwards)
+
+SEMESTER - Ill
+
+po
+Bog
+Machine Learning
+
+24MNT31
+
+Data Structures
+
+=
+a
+
+Environmental Science
+
+Practical / Employability Enhancement
+
+24ADL31
+
+24ADL32 | Data Structures Laboratory
+
+24GEP31
+
+Cl — Classroom Instructions, Ll ~ Laboratory Instructions, TW — Term Work, SL — Self Learning, L — Lecture, T —
+Tutorial, P — Practical, C — Credit, TH — Total Hours, CA — Continuous Assessment, ESE — End Semester
+Examination.
+
+Mini Project — |
+
+Total Credits to be earned
+
+Type: A— Analytical, D—- Design using. Hardware, S — Simulation using Coding, C — Concept, OC — Online course,
+OT - others
+
+spent CALL LINED LED DDE LEE LOO TLE ENON oo
+raant
+
+4
+
+SEE ELLE LTE NEEDS ARAL OIE 4
+
+Signature of the Chaiman
+
+Board of Studies - TDS cconpanmtnnne|
+
+a
+
+
+
+B.Tech ARTIFICIAL INTELLIGENCE AND DATA SCIENCE CURRICULUM — R2024
+
+(For the students admitted from the academic year 2024-25)
+
+SEMESTER - IV
+
+Hours / Semester
+
+Maximum Marks
+
+'
+Theory/Theory with Practical | |
+
+CA | ESE
+
+Total
+
+Cate
+gory
+
+Type
+
+24ADT41 Design and Analysis of Algorithms ie 60 0 A
+
+SOGoCOOGGoE
+BOOCSUGEIGE
+
+BOOCOOEIG
+
+Practical / Employability Enhancement
+
+Course Code Course Title che
+TW | SL | TH
+0
+
+Database Management Systems
+Laboratory
+
+24ADL41
+
+P
+
+Cc
+
+24EGL41 Communication Skills Laboratory
+
+24GCL41/_ | Professional Skills Training — | /
+24GCl41 Industrial Training — | $
+
+24GEP41 Mini Project - II
+
+Total Credits to be earned
+
+$ 80 hours of Training
+
+60 40 100
+
+1 60 40 100
+
+45 35 80 | 2 | 100 0 100
+
+30 0 30 | 1 |} 100 0 100
+o
+
+m x U
+
+Cl — Classroom Instructions, LI — Laboratory Instructions, TW — Term Work, SL — Self Learning, L — Lecture, T —
+Tutorial, P — Practical, C — Credit, TH — Total Hours, CA — Continuous Assessment, ESE — End Semester
+
+Examination.
+
+Type: A— Analytical, D—- Design using Hardware, S — Simulation using Coding, C — Concept, OC — Online course,
+
+OT - others
+
+F c: 3
+‘| . ; : na
+a Board of §
+
+
+
+24EGT11 - ENGLISH FOR EFFECTIVE COMMUNICATION - |
+
+(Common to all Engineering and Technology Branches)
+
+-
+Bie hry & | All B.E/B.Tech Branches Sem | Category | L | T | P | SL* | Total | Credit
+Prerequisites _ | Nil 1 HS 45|0|0|45| 9 | 3
+
+| Preamble This course is designed to enhance the communication skills and verbal aptitude in English language required
+
+for various workplace communication and social interactions.
+Unit —1 Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing [ 9
+
+Grammar: Parts of Speech — Articles — Determiners — Verbal Aptitude: Synonyms and Antonyms — Selecting Words —
+Listening: Listening and Filling in Information-— Speech Units — Speaking: Introducing Oneself — Discussion on Social Media
+Etiquette — Reading: Importance of Good Communication — Comprehension and Inference, Reading for facts and opinions —
+Building a Positive Attitude: An Excerpt from You Can Win — Writing: Email Etiquette — Email Writing — Responding to Emails
+Unit - Il | Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing | | 9
+Grammar: Types of Sentences — Assertive, Interrogative, Imperative and Exclamatory — Question Tags— Verbal Aptitude:
+Prefixes and Suffixes — Collocations — Idiomatic Expressions — Listening: Identifying main and Secondary Points — Speaking:
+Asking Questions — Role Play — Reading: Reading for Comprehension — Verbal and Non-Verbal Communication — Winning
+Strategies: An Excerpt from You Can Win- Writing: Descriptive Writing — Product/Process Description — Letter Writing: Formal
+Letters — Seeking Permission and Inviting Chief Guest
+
+Unit — Ill Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing | 9
+Grammar: Tenses — Phrasal Verbs— Verbal Aptitude: Jumbled Sentences — Sentence Formation— Listening: Taking Notes
+from a Discussion — Speaking: Retelling an Incident — Discussing Tourist Destinations — Reading: Process of
+Communication—Scanning - Motivating Yourself and Others Every Day: An Excerpt from You Can Win — Writing: Paragraph
+
+Writing: Narrative and Compare & Contrast
+Unit —IV Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing | 9
+Grammar: Prepositions — Transitional Words/Phrases — Discourse Markers — Verbal Aptitude: One Word Substitution -
+
+Sentence Completion — Listening: Listening for Specific Information — Speaking: Small Talk—Telephonic Conversations—
+Reading: Channels of communication — Building Positive Self-Esteem and Image: An Excerpt from You Can Win — Writing:
+Instructions — Recommendations and Suggestions
+
+Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writin
+Grammar: Subject Verb Agreement — Gerunds and Infinitives- Verbal Aptitude: Homonyms, Homophones and Homographs
+— Cloze Test using Verb Forms, Prepositions and Articles — Listening: Listening and Identifying Parts from a Description —
+Speaking: Agreeing and Disagreeing — Reading: Skimming — Reading to Summarize — Setting and Achieving your Goals: An
+Excerpt from You Can Win — Writing: Transcoding: Identifying Trends and Patterns in Graphs and Expressing with Graph
+
+Specific Vocabulary
+TEXT BOOK:
+
+F Sudharshana N P and Savitha C, English for Technical Communication, 2") Edition, Cambridge University Press, New
+; Delhi, 2016.
+
+REFERENCES:
+
+1. | Ashraf Rizvi. Effective Technical Communication, 2"? Edition, McGraw-Hill India, 2017.
+
+| S. P. Dhanavel. English and Communication Skills for Students of Science and Engineering, Orient Black Swan
+Publishers, Hyderabad, 2009.
+
+3. Shiv Khera. You Can Win: A Step-by-Step Tool for Top Achievers. Bloomsbury Publishing, 2018.
+
+* includes Term Work (TW) & Assignments, Tutorials and Case Studies
+
+
+Test /
+Bloom’s
+
+Category*
+CAT1
+
+Remembering
+(K1) %
+
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+learn and use various aspects of English vocabulary to perform well in verbal aptitude tests of .
+CO1 | different types Applying (K3)
+| CO2 listen and understand different spoken discourses | Applying (K3)
+CO3 | present ideas clearly and confidently in formal and informal conversations and discussions Creating (K6)
+cos | comprehend the given text and respond appropriately for technical and professional purposes Understanding (K2)
+select appropriate words , phrases and grammatical units and apply them in both spoken and .
+CO5 written communication Analyzing (K4)
+Mapping of COs with POs and PSOs
+[C0s7 Ton, Toon 7 = Toens |
+S' | P01 | PO2 | PO3 | PO4 PSO1 | PSO2
+POs
+L cot
+CO2
+
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Analyzing
+(K4) %
+
+Evaluating
+(K5) %
+
+Creating
+(K6) %
+
+15
+
+r Aenean Stee eee
+
+~
+
+Reece nee neem ae ee ee
+
+;
+
+Signature of the Chairman
+
+| Board of Stucties - 8+ 4 C
+
+ach)
+
+* +3% may be varied (CAT 1,2& 3 — 50 marks & ESE — 100 marks)
+
+20
+
+- we
+
+20
+
+Total %
+
+100
+100
+
+100
+
+
+
+24MAC11 - MATRICES AND ORDINARY DIFFERENTIAL EQUATIONS
+
+| (Common to all Engineering and Technology branches)
+
+Programme &
+
+Branch All B.E/B.Tech Branches Sem. | Category | L | T | P | SL* | Total | Credit
+
+Prerequisites | Nil ; 1 Bs |45|7|16| 52 | 120 4
+
+Preamble To provide the skills to the students for solving different real time problems by applying matrices
+and ordinary differential equations.
+
+Unit — | Matrices: | 9
+
+Introduction — Characteristic equation — Eigen values and Eigen vectors of a real matrix — Properties of Eigen values
+and Eigen vectors (without proof) — Cayley - Hamilton theorem (Statement and applications only) - Orthogonal
+matrices — Orthogonal transformation of a symmetric matrix to diagonal form — Quadratic form — Nature of Quadratic
+forms - Reduction of quadratic form to canonical form by orthogonal transformation.
+
+Unit — Il | Ordinary Differential Equations: ) | 9
+
+Introduction — Solution of First order differential equations: Exact differential equations — Leibnitz's Linear Equation
+— Bernoulli's equation — Clairaut's equation - Applications: Law of natural growth and decay.
+
+Unit — Ill | Ordinary Differential Equations of Higher Order: [9
+Linear differential equations of second and higher order with constant coefficients - Particular Integrals for the types:
+e*—  cosax/sinax— x" — ex", e% sinbx and e® cosbx — Differential Equations with variable coefficients: Euler-
+Cauchy's equation — Legendre's equation.
+
+Unit - IV | Applications of Ordinary Differential Equations: | 9
+
+Method of variation of parameters — Simultaneous first order linear equations with constant coefficients —
+Applications of differential equations: Simple harmonic motion — Electric circuits (Differential equations and
+associated conditions need to be given).
+
+Unit — V | Laplace Transform: [ 9
+Introduction — Conditions for existence — Laplace transform of elementary functions — Basic properties — Derivatives
+and integrals of transforms — Transform of periodic functions - Inverse Laplace transform: Inverse Laplace transform
+of elementary functions — Partial fraction method — Convolution Theorem — Applications: Solution of linear ODE of
+second order with constant coefficients.
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+Introduction to MATLAB
+
+Computation of eigen values and eigen vectors
+
+Solving first order ordinary differential equations
+
+Solving higher order ordinary differential equations
+
+A) me) |S
+
+Solution of Simultaneous first order ODEs
+
+Solving second order ODE by variation of parameters
+
+Determining Laplace and inverse Laplace transform of basic functions
+
+Ops | &
+
+Solution of Second order ODE by employing Laplace transforms
+
+| Text BOOK:
+
+Kandasamy P., Thilagavathy K. and Gunavathy K., “Engineering Mathematics For First Year B.E/B.Tech”,
+
+1. Reprint Edition 2016, S.Chand and Co., New Delhi.
+
+REFERENCES/ MANUAL / SOFTWARE:
+1. Kreyszig E, "Advanced Engineering Mathematics ", 10‘ Edition, John Wiley, New Delhi, India, 2016.
+
+Ramana B V, “Higher Engineering Mathematics", 1st Edition, Tata McGraw-Hill Publishing Company
+
+2. | Limited, New Delhi, 2018.
+
+Duraisamy C., Vengataasalam S., Arun Prakash K. and Suresh M., "Engineering Mathematics - |", 2"
+Edition, Pearson India Education, New Delhi, 2018.
+
+4. Grewal B.S., “Higher Engineering Mathematics" 44thEdition, Knanna Publishers, New Delhi, 2018.
+
+5. Matrices and Ordinary Differential Equations Laboratory Manual.
+
+*includes Term Work (TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+BT Mapped
+(Highest Level)
+
+: . : Applying (K3)
+CO1 Use the matrix algebra methods and MATLAB for solving practical problems. Manipulation ($2)
+. . . . . . . Applying (K3)
+CO2_ | Identify the appropriate method for solving first order ordinary differential equations. Manipulation ($2)
+CO3 | Solve higher order linear differential equations with constant and variable coefficients. Applying (K3)
+Manipulation (S2)
+co4 Apply the concept of ordinary differential equations for modeling and finding solutions Applying (K3)
+to engineering problems. Manipulation (S2) |
+COS _ | Apply Laplace Transform to solve complex engineering problems. Applying (Ks)
+
+Manipulation (S2)
+
+Mapping of COs with POs and PSOs
+
+COs/POs
+
+PO11 | PSO1 | PSO2
+
+m’'s Taxonomy
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloo
+
+ASSESSMENT PATTERN - THEORY
+Test / Bloom’s
+
+T=
+
+* +3% may be varied (CAT 1, 2 & 3— 50 marks & ESE — 100 marks)
+
+Remembering Applying | Analyzing Evaluating Creating | Total
+
+Category* K1) % K2) % K3) % K4) % K5) % K6) % %
+CAT 60 100
+CAT2 40 60 100
+CAT3 : 30 70 7 100
+ESE 70 100
+
+
+
+24PHT11 - PHYSICS FOR COMPUTER SYSTEMS
+
+(Common to CSE, IT, CSD, AIDS & AIML branches)
+Programme& BE/B.Tech - CSE, IT, CSD, AIDS and AIML
+
+Sem. | Category | L | T P | SL* | Total | Credit
+
+Branch branches
+Prerequisites Nil 1 BS 45 | 0 0 45 90 3
+Preamble This course aims to impart the knowledge on crystal physics, quantum physics, acoustics, ultrasonics, laser,
+fiber optics, and semiconductors. It also describes the applications of aforementioned topics in computer
+systems.
+Unit — I | Crystal Physics: 9
+
+Classification of solids — Space lattice — Unit cell — Crystal structure — Bravais lattice — Single and polycrystalline materials — Lattice
+planes — Miller indices — Interplanar spacing in cubic crystal - Number of atoms per unit cell — Atomic radius — Coordination
+number — Atomic packing factor —- Body centered cubic— Face centered cubic — Hexagonal close packed crystal structure — Crystal
+imperfections: line, surface and volume imperfections.
+Unit — Il Quantum Physics and Applications: [9
+Blackbody radiation — Planck's theory — Compton scattering — Matter waves — Properties — Heisenberg uncertainty principle —
+Schrodinger’s time-independent and time-dependent wave equations — Physical significance of wave function — Particle in a one-
+dimensional box.
+
+Unit — Ill | Acoustics and Ultrasonics: [og
+Classification of sound — Characteristics of sound — Reverberation and reverberation time — Growth and decay of sound — Sabine's
+formula for reverberation time — Determination of sound absorption coefficient — Factors affecting acoustics of buildings and their
+remedies — Ultrasonics — Properties of ultrasonic waves — Generation of ultrasonic waves — Magnetostrictive generator and
+Piezoelectric generator — Non-destructive testing — Flaw detection.
+Unit —IV Laser and Fiber optics: 9
+Stimulated absorption — Spontaneous emission — Stimulated emission — Einstein's coefficients and their relations — Population
+inversion — Pumping — CO2 laser — Holography — Fiber optics — Numerical aperture and acceptance angle — Classification of
+optical fibers based on refractive index, modes and materials — Fiber optic communication system — Temperature and
+displacement sensors. a4
+Unit —V Semiconducting Materials: | 9
+Intrinsic semiconductor — Carrier concentration — Fermi level — Variation of conductivity with temperature — Determination of band
+gap — Extrinsic semiconductors — Carrier concentration in n-type and p-type semiconductors — Hall effect - Determination of Hall
+coefficient — Applications — Solar cell: Principle, construction and working.
+
+TEXT BOOK:
+
+Katiyar A.K, Pandey C.K, “Engineering Physics: Theory and Practical”, 2" Edition, Wiley, 2015 (Unit |, Il).
+
+Tamilarasan K and Prabu K, “Physics for Engineering |”, 1° Edition, McGraw Hill Education Pvt. Ltd., New Delhi, 2023
+(Unit Ill, IV, V).
+
+REFERENCES:
+
+Avadhanulu M.N, Kshirsagar P.G and Arun Murthy T.V.S, “A Textbook of Engineering Physics’, 11" Edition, S Chand,
+
+2021.
+2. | Malik H.K and Singh A.K., “Engineering Physics”, 2™ Edition McGraw-Hill Education, New Delhi, 2022.
+
+*includes Term Work (TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+co1
+
+BT Mapped
+(Highest Level)
+
+analyze seven crystal systems, interplanar spacing in cubic lattice, BCC, FCC, HCP crystal
+systems and the types of crystal imperfections and their impacts.
+
+Analyzing (K4)
+
+CcO2
+
+investigate the concepts of quantum mechanics to describe Planck's theory, Compton effect and
+the behavior of electrons in a metal by solving Schrodinger’s wave equations.
+
+CO3
+
+Analyzing (K4)
+
+explore the concepts of growth and decay of sound energy in a hall to compute Sabine’s formula |’
+
+and to recognize the requirements of acoustically good buildings and also to describe the
+production of ultrasonic wave and testing of materials by non-destructive method.
+
+C04
+
+examine the concepts of stimulated emission of radiation to explain the working and the
+applications of laser in engineering and technology. To apply the principle of propagation of light
+through optical fiber to compute acceptance angle and numerical aperture and also to explain
+fiber optic communication system and the working of fiber optic sensors.
+
+CO5
+
+Inspect the concept of density of states to compute the carrier concentration and band gap of
+
+intrinsic semiconductors and to compute the carrier concentration of extrinsic semiconductors,
+
+and also to explain the phenomenon related to Hall Effect and the working of solar cell.
+
+Analyzing (K4)
+
+Analyzing (K4)
+
+Analyzing (K4)
+
+Mapping of COs with POs and PSOs
+
+cot
+co2
+CO3
+CO4
+
+COsiPos | PO1 | poz | Po3 | Po4 | Pos | Pos | PO7 | Pos | Pog | PO10 | PO1t
+
+PSO1 PSO2
+
+N |] NM
+
+NM} NM] NM
+
+CO5
+
+Test
+
+Wl]wl] wl] w lo
+
+NN} ND
+Nh] ND
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+! Bloom’s Remembering Understanding | Applying pe Evaluating
+Category* K1) % K2) % K3) % K5) %
+CAT ee ee ee
+
+So [0
+cAT2 |_| so | 0
+
+4) %
+CAT3 40
+ESE 40
+
+* +3% may be varied (CAT 1,2,3 — 50 marks & ESE — 100 a
+
+| ' 1
+
+a 1
+ee
+ee
+
+| | tt at
+
+Creating Total
+K6) % %
+100
+100
+100
+100
+
+
+
+24CSC12- PROGRAMMING IN C
+(Common to CSE, IT, CSD, AIDS & AIML branches)
+
+Programme & B BE/B.Tech - CSE, IT, CSD, AIDS and AIML Seni Cate L|ti psi Tot Credit
+Branch branches gory al
+Prerequisites _| Nil 1 | ES | 45/0| 30| 45 |120| 4
+Preamble The course aims to provide exposure to problem-solving through programming. It introduces all the
+
+fundamental concepts of C Programming. This course provides adequate knowledge to solve
+
+problems in various domains
+Unit —I Introduction to C and Control Statements 9
+The structure of a C program - Data - Variables — Declaring, assigning, and printing variables — Data Types —
+Constants — Enumeration Constants — Keywords — Operators: Precedence and Associativity — Expressions —
+Input/Output statements, - Control Structure: Decision-making statements
+Unit - Il | Arrays 9
+Control Structure: Repetitive statements — for loop, while loop, and do-while loop-Arrays: Declaring and initializing 1D
+array — Two-dimensional arrays —Array Operations and Manipulations.
+
+Unit — Ill il Strings and Pointers 9
+Strings: Basics, declaring and initializing strings — string handling functions: standard and user-defined functions —
+character-oriented functions, Two-dimensional array of strings
+
+Pointers: Memory access and pointers, pointer basics, declaring, initializing, and dereferencing a pointer, parameter
+
+passing mechanisms, operations on pointers
+Unit —IV Functions ; 9
+
+Functions: Basics, The anatomy of a function — Types of functions based on arguments and return types — Passing |
+1D and 2Darrays as arguments to functions — Calling function from another function — recursive functions -Variable
+scope and lifetime - Storage classes- Pre-processor directives: #define: macros with and without arguments
+
+Unit -V User Defined data types 9
+
+Structure basics —declaring and defining a structure — nested structures —Union-typedef— File Handling: Introduction —
+File operations: File opening and closing files — reading and writing data to files
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+1 Programs for demonstrating the use of different types of operators like arithmetic, logical, relational, and
+ternary operators (Sequential structures)
+
+2 Programs to Illustrate the different formatting options for input and output
+
+r Programs using decision-making statements like ‘if’, ‘else if, ‘switch’, and conditional, unconditional ‘goto’
+
+Selective structures :
+
+4 Programs for demonstrating repetitive control statements like ‘for’, ‘while’, and ‘do-while’ (Iterative structures)
+
+5 Programs for demonstrating one- and two dimensional arrays
+
+6 Programs to implement various character and string operations with and without built-in library functions.
+
+7 Programs to demonstrate the use of pointers
+
+8 Programs to demonstrate modular programming concepts using built-in and user-defined functions
+
+9 Programs to illustrate the use of user-defined data types
+
+10 | Programs to implement file handling |
+
+*includes Term Work(TW) & Online / Certification course hours ©
+
+
+TEXT BOOKS
+
+1. Sumitabha Das, Computer Fundamentals and C Programming, ist Edition, McGraw Hill, 2018:
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+1. YashavantKanetkar,"LetusC",1 eth, BPBpublications,2018.
+
+2. Reemathareja.,“ProgramminginC’ ,2ndEdition, OxfordUniversityPress,NewDelhi,2018
+3. E.Balagurusamy,"ProgramminginANSIC",seventhedition,McGrawHillEducation,2017.
+4 https://nptel.ac.in/courses/106/105/106105171/
+7
+COURSE OUTCOMES: , BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+F 5: P sige Applying(K3),
+CO1 | make use of control and iterative statements to develop simple applications Precision(S3) _|
+' ; : Applying(K3),
+CO2 | develop simple C programs using the concepts of arrays and modular programming Precision(S3)
+. . Applying(K3),
+CO3 | demonstrate the concepts of strings and pointers | Precision(S3)
+_ : Applying(K3),
+CO4 | apply user-defined data types to solve given problems Precision(S3)
+CO5 | implement functions and structures with pointer Applying(Ks),
+Precision(S3)
+
+———
+COs/POs | PO1
+
+Cco1
+
+ne wie
+
+3 CS. E
+ond on
+UID hae ennai VA Re aS eA VS DT
+
+RW
+
+PF. Kalotvow’ Vy!
+
+
+24ITT11-DIGITAL LOGIC PRINCIPLES AND DESIGN
+
+L ; (Common to IT,AIML,AIDS branches)
+
+Programme B.Tech., Information Technology,
+
+& Branch Artificial Intelligence and Machine Learning & Sem. | Category | L | T | P | SL* | Total | Credit
+Artificial Intelligence and Data science
+
+Prerequisites [ Nil 1 ES 45|0|0]| 45 | 90 3
+
+Preamble This course enables the students to acquire the knowledge of binary logic, Boolean algebra, Boolean function its
+forms and their minimization methods and implementation using logic gates. Also, this course covers the analysis and
+synthesis of various combinational, clocked sequential circuits, shift registers and various types of counters.
+
+Unit -I -_| Number Systems and Boolean Algebra | 9
+
+Number Systems - Complements — Signed Binary Numbers —Binary Codes — Binary Logic - Boolean Algebra: Definitions — Basic and
+Axiomatic -Theorems of Boolean Algebra — Boolean functions: Realization of functions using Logic gates — case study.
+
+Unit — Il | Gate Level Minimization [9
+Canonical and Standard Forms of Boolean functions — Minimization of functions using Karnaugh Map — Don’t-Care Conditions — NAND
+and NOR Implementation— Exclusive-OR function — case study.
+
+Unit - Ill | Combinational Logic 9
+Analysis procedure — Design procedure — Half Adder — Full Adder - Half Subtractor — Full Subtractor — Binary Adder-Subtractor — Code
+Converters - Magnitude Comparator — Decoders — Encoders — Multiplexers — Demultiplexers — Boolean Functions implementation using
+Multiplexers and Decoders-— case study.
+
+Unit - IV Sequential Logic 9
+Introduction — Flip-flops — Triggering — Analysis of clocked sequential circuits: State Equations — State Table — State Diagram- State
+Reduction and Assignment— Mealy and Moore machines and their circuit design procedure— case study.
+
+| Unit -V Register, Counter and Programmable Logic : 9
+Shift Registers: SISO— SIPO— PISO—PIPO-Universal Shift register— Synchronous Counters: Binary Counter — up-down Binary Counter
+— BCD Counter — modulo-N Counter — Programmable Logic devices: PROM — PLA — PAL- case study.
+
+TEXT BOOK:
+
+Morris Mano M., MichealD.Ciletti,“Digital Design: With an Introduction to the Verilog HDL,VHDL, and System Verilog”, 6"
+| Edition, Pearson Education, Noida, 2020.
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+1. Charles H. Roth, “Fundamentals of Logic Design”, 6th Edition, Thomson Learning, UK, 2013.
+
+Thomas L. Floyd, "Digital Fundamentals", 10 Edition, Pearson Education, New Delhi , 2011.
+
+*includes Term Work(TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+
+co1 summarize the different number systems and binary codes and apply Boolean algebra to Applying (K3)
+minimize the Boolean functions .
+
+co2 organize the Boolean functions in various forms, demonstrate their minimization using Map Applying (K3)
+technique and show their implementation using universal logic gates.
+
+CO3 build various combinational logic circuits like adders, subtractors, comparator, code converters, Applying (K3)
+decoders, encoders, multiplexers and demultiplexers and make use of their applications
+
+CO4 | construct sequential logic circuits with various Flip flops Applying (3)
+
+=
+
+identify various types of shift registers, build various types of synchronous counters and
+
+COS illustrate the applications of programmable logic devices Applying (K3)
+Mapping of COs with POs and PSOs
+osc | PO1 | Po2 | Pos | Po4 | POS | POs | PO7 | Pos | Pos | Po10 | Pott | PSo1 | Pso2
+coz 3 | 2 1 3 | 3 | 3 | 2 3 3 2
+cos | 3 | 2 [4/1 | 3 | 3 |3|]2| 2 3 3 | 2
+coos [| 3/2{[%{1] |3]3 3 3
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Remembering Understanding | Applying Analyzing | Evaluating Creating
+K2) % K3) % K4) % K5) % K6) %
+
+Board of Soulless a
+
+
+
+24TAM01- HERITAGE OF TAMILS
+
+(Common to All Engineering and Technology Branches)
+
+Programme e ,
+
+& Branch | All B.E/B.Tech Branches Sem. | Category | L | T | P SL | Total | Credit
+
+Prerequisites | NIL 1 Hs |15|/0/0} 15 | 30 1
+
+Preamble The objective of this course is to impart knowledge about Tamil language, literature, paintings, sculptures, folk
+arts, heroic games, doctrines, contribution of Tamils to Indian culture.
+
+UNIT I Language and Literature | 3
+
+Language families in india -.dravidian languages — tamil as a classical language - classical literature in tamil — secular nature of
+sangam literature — distributive justice in sangam literature - management principles in thirukural - tamil epics and impact of
+buddhism & jainism in tamil land - bakthi literature azhwars and nayanmars - forms of minor poetry - development of modern
+literature in tamil - contribution of bharathiyar and bharathidhasan.
+
+UNIT Il Heritage - Rock Art Paintings to Modern Art — Sculpture | 3
+
+Hero stone to modern sculpture - bronze icons - tribes and their handicrafts - art of temple car making - - massive terracotta
+sculptures, village deities, thiruvalluvar statue at kanyakumari, making of musical instruments - mridhangam, parai, veenai,
+yazh and nadhaswaranm - role of temples in social and economic life of tamils.
+
+UNIT Ill Folk and Martial Arts ;
+Therukoothu — karagattam - villu pattu - kaniyan koothu — oyillattam - i i - ti
+
+leather puppetry — silambattam — valari - tiger dance -
+sports and games of tamils.
+
+UNIT IV Thinai Concept of Tamils 3
+
+Flora and fauna of tamils & aham and puram concept from tholkappiyam and sangam literature - aram concept of tamils -
+education and literacy during sangam age - ancient cities and ports of sangam age - export and import = sangam age -
+overseas conquest of cholas.
+
+UNIT V Contribution of Tamils to Indian National Movement and Indian Culture 3
+
+Contribution of tamils to indian freedom struggle - the cultural influence of tamils over the other parts of india — self-respect
+movement - role of siddha medicine in indigenous systems of medicine — inscriptions & manuscripts — print history of tamil
+books.
+
+TEXT BOOK:
+
+1. S.Muthuramalingam, M.Saravanakumar, Heritage of Tamils, Yes Dee Publishing Pvt Ltd, 2023, for Units 1, II,III,IV,V.
+
+REFERENCES:
+
+Historical Heritage of the Tamils (Dr.S.V.Subatamanian, Dr.K.D. Thirunavukarasu) (Published by : International
+Institute of Tamil Studies). :
+
+The Contribution of Tamil of the Tamils to Indian Culture(Dr.M.Valarmathi)(Puplished by International Institute of
+Tamil Studies).
+
+Keeladi — ‘Sangam City C ivilzation on the banks of river Vaigai; (Jointly Published by: Department of Archaeology &
+Tamilnadu Text Book and Educational Services Corporation, Tamilnadu).
+
+*includes Term Work(TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES: BT Mapped
+
+LG HEML (LP ig.5HeYL oT, LOMO Her (Highest Level)
+CO1 explain valuable concepts in language and literature of tamils.
+
+Understanding (K2)
+
+co2 illustrate about the tamils sculpture and their paintings. . Understanding (K2) .
+CO3 “summarize about the tamils folk and martial arts. _ | Understanding (K2)
+co 4 explain the thinai concept of tamils. Understanding (K2)
+cos | explain the contribution of Tamils to the Indian National Movement and Indian culture. tien (K2)
+. ) Mapping of COs with POs and PSOs
+COs/POs | PO1 | PO2 O9 | PO10 | PO11 | PSO1 PSO2
+co1 2 3 ‘ 3
+co2 2 3 3
+CO4 3 2 2 3
+i CO5 2 3 2 2 3
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Test / Bloom’s Remembering | Understanding | Applying | Analyzing Evaluating Creating (K6) | Total
+Category* K1) % K2) % K3) % K4) % K5) % Yo %
+
+ESE NA
+
+* +3% may be varied (CAT 1, 2 & 3 — 50 marks )
+
+
+
+24TAMO1-Suilipiy Loy
+| (Common to All Engineering and Technology Branches)
+Programme a
+& Branch All B.E/B.Tech Branches Sem. | Category L | T | P | SL* Total Credit
+Prerequisites | NIL 1 HS 15 | 0 | 0 | 15 | 30 1
+Preamble SUupTseler Gump, QeosAuwb, galumse, Amusésnoecn, HILOLYMS Smee, ath
+AMnmui_ Oss, Anos Car_umGsenr, QHAW usmuriomhes suiMilipjscher umiseNtionucs
+LMM Seno AUPMIGuCs OHS uUTL_SHHloot ConéG.orGw.
+AVG -! | QwomMA wHmib Qeos&uud | 3
+
+QoAw GuomAls EGwumsen - pro. GuompPlascr - slip ew GewOwompA - sulip AecualosAuumusen - sinus |
+QvsAuHHet FOws ENTUHM HeTemw - HS OQosAwsAed uAjgeo gimb - AGs@mMaied Coconsinmws
+SG5H55e - SMD srudumaen, siipsshed scm Qunss Fowmeciest sense - uss OeoosAuid,
+AMampac wooMid Bruce - AHMovsgAumasc - sped paler QosAus Heo cups - siHrp
+OosAu cusjpFAuled umjpHwny womb unjAsrecs BAGuMIPeT ume.
+
+AVE - ll LOY - UTM Qalumacn Ips Hafor galumact aismy - Aus sSeneo 3
+BGs sed Halor Amumsen cumy - gQidQunst Amos - upMiIGquiley wommid soups Hwunps@w
+MAMET QUTMBL SEN, QUIOMOaGET - CHT CeFWUjL) seme - eHwctr AHumsct - prLGuyMs ASwWeumisen -
+GMA ymauled AGgumezeuy Ameo - Qosrs sQolacn - HNGsmswb, Umm, afer, wimp, HTserveupid -
+SUIpTSeor Ferns AurGentsiy ampaes Caneoaaiet ume.
+
+21606 - Ml
+Q5GSé551, STSTLLD, MedaylunlG, sahunet so.H5), QuloM_Lw, CHrevutmud soHH), Aoordum_Lw,
+auf, YEOWIMLLb, SipTseier aNenenum_ Ose.
+
+SMYSS Hoo STAPHEEZD, MNomGse,w - Asrevanriiqwud womb sms QPosAugHMed ged wmmid yms
+GanLun@sen - siiipjecr CummHwu saméGenLunG- sMmaésrogHed sSMpsSAed oTUpSS May sevaiuyid -
+FHEETO HSIHFELD FIOM Wsmnsepd - shissrvsHed gmmiws womb Pmse@usH - srvsrts
+BIGseles Cemprseilet Cour.
+
+HoHw CG5Aw Qudab ommibd OHAw ucirum4hHes Suilipfacihe ume ,
+OoHAw MGsmeoiGurpe Siipjscer umG - OiHwuroalesr AMuGHesahed siulip ucimunLiqe: Hiss -
+
+RULHuTns Qusad - OoHMw weEsgudsseo ASH wEsHusHMesr umG - sevGan_Gacn,
+MAGCIPSHIUUIGSET - SMD Y‘SSHIGSHSAMNCT BFs OoomMy.
+
+TEXT BOOK:
+
+1. M4. LyuiMevett, SAMO LOWLY, VRB Publishers Pvt Ltd, 2022, HUG UIb,lV,V.
+
+REFERENCES:
+
+SOLS QTE MI- WSS EGLO LIGTLNOLD- CS CH Neronen (CheuahuiG sulipHr@ ured ommMLd scveaiuNed
+LIM BET SLY SLD)
+2. FOMONHSMD - Nemevteuly Qrov. HHS TLD (QNSLoot MyeyDd)
+3. Eig. - MUMS HHNSSOTUNG FHSS HST HTSHSLd.( AHMevewied Him QeueusG)
+4. GLITZ - WOOHOO] HTSHSLD (MF TevOWed Hienm Qeueuig)
+*includes Term Work(TW) & Online / Certification course hours
+
+
+
+COURSE OUTCOMES: BT Mapped
+LIQHIEMLI (LP ig. 5H eYL oT, LOMeoIEUy sen (Highest Level)
+co1 | SUD GLomA ommiwb QvsAusAed WHUYMSES 5SG5al sam Moss Wpiqguyw.
+
+Understanding (K2)
+
+C02 SULpTSeeot ADU MMM Haupacier QaMwumae UM) Nets pig wD. Understanding (K2)
+co3 | SMLpFseiet Hr OuYM oHMId SHaMlys smoot UM s(HSS0TSS GoM) (Pig uj. Understanding (K2)
+co4 | SUUpFEahesr Aono Cam_um@sonent! up oends pig wd. Understanding (K2)
+_— QbAw CaAw Qwssw wmmw QHAw usu MEesS SOo7sefer umseNoy uh Understanding (K2)
+Mets (LPig WjLd.
+Mapping of COs with POs and PSOs
+
+COs/POs PO
+
+CcO1
+
+co2
+
+CO3
+
+CO5
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Test / Bloom’s Remembering | Understanding | Applying | Analyzing Evaluating Creating
+K1) % %
+
+_
+
+1
+
+severe Monomer
+
+he Chairman i
+
+jos = S&HCChemists)
+
+4 nero ELE
+
+Roard of
+
+roars see en
+
+
+
+24PHL11 - PHYSICS LABORATORY FOR COMPUTER SYSTEMS
+
+(Common to CSE, IT, CSD, AIDS & AIML branches)
+
+Programme& | BE/B.Tech- CSE, IT, CSD, AIDS and AIML ) . —
+Branch Branches Sem. | Category | L | T | P | SL* | TOT Credit
+Prerequisites | Nil 1 BS 0/0/30] o | 30 1
+
+Preamble
+
+This course aims to impart hands on training in the determination of the physical parameters such as AC
+frequency, compressibility of a liquid, wavelength of laser, particle size, acceptance angle and numerical
+aperture of an optical fiber, specific resistance, band gap, thickness of a thin film and knowledge on the
+working of p-n diode and UJT, and also to impart skills on writing coding / developing project / product
+
+related to societal requirement.
+LIST OF EXPERIMENTS / EXERCISES: ;
+1. Determination of the frequency of alternating current using electrically vibrating tuning fork (Melde’s apparatus).
+
+Determination of the wavelength of the given semiconductor laser.
+
+Determination of the particle size of the given powder using laser.
+
+Determination of the acceptance angle and numerical aperture of the given optical fiber.
+
+Observation of the I-V characteristics of a p-n junction diode.
+
+Observation of the I-V characteristics of a uni junction transistor.
+
+2
+
+3.
+
+4.
+
+5.
+-———+
+
+6.
+
+t
+
+Determination of the specific resistance of the given metallic wire using Carey Foster's bridge.
+
+‘8. Determination of the band gap of a given semiconducting material using post-office box.
+
+10.
+
+Determination of the thickness of a thin film using air-wedge arrangement.
+
+Writing coding for any one of the above experiments / developing a project / a product.
+
+ncanel
+
+REFERENCES/ MANUAL /SOFTWARE:
+
+1. | Laboratory Manual
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to (Highest
+; Level)
+Cot determinethe frequency of an alternating current, the wavelength of a semiconductor laser and the | Analyzing (K4),
+_Particle size of a powder material, Precision (S3)
+co2 determinethe acceptance angle and numerical aperture of an optical fiber, the I-V characteristics of Analyzing (K4),
+a p-n diode and the I-V characteristics of a UJT. | Precision (S3)
+CO3 | determine the specific resistance of a metallic wire, the band gap of semiconducting materials, the Analyzing (K4),
+| a | thickness of a thin film and develop a coding / project / product. Precision (S3)
+
+Mapping of COs with POs and PSOs
+
+COs/POs
+
+LPOr | Po2 | POs | Pos | POs | Pos | Por | Fo Pos | POs ~f29 |___ Pott
+2
+
+PSO1 | PSO2
+
+|
+
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+*includes Term Work (TW) & Online / Certification course hours
+
+wr NE
+. LY. _ aS ae Niet
+Signature of the Chairman eB Coad \ \
+a = > tas
+Board of Studies- SLBC va J& }
+\a \ Sy
+\
+
+~
+
+i . % Unio
+
+
+
+c-pc_
+
+24GCL11 — FOUNDATION LABORATORY - MANUFACTURING, DESIGN AND ROBOTICS
+(Common to all BE/BTech branches)
+
+programme & All BE/BTech Branches Sem. | Category | L | T | P | SL* | Total | credit
+Prerequisites Nil 1/2 ES 0 | 0|90| 0 9 | 3
+
+This course provides the hands-on experience to develop a prototype model with the basic knowledge
+Preamble of Computer-aided Design, Manufacturing Processes, 3D Printing Technology, Robotics and
+Embedded Control.
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+PART A — Manufacturing Laboratory (30 Hours)
+
+Selection of product, free hand sketching and detailing
+
+Construction of model using Arc/TIG/MIG/Gas/Spot welding operations
+
+Enhancing the model with sheet metal
+
+Creating the parts of the model using lathe
+
+Creating the parts of the model using milling and drilling machines
+
+PART B — Product Design and Development Laboratory (30 Hours)
+
+' Free hand sketching and detailing of the component
+2 3D part modelling of the component using CAD software
+a | tengiedring Analysis of the component model
+} 4 Generate the component using 3D printer
+PART C — Robotics Laboratory (30 Hours)
+' Design of electronic circuit and its debugging |
+
+Assembly and interfacing of sensors, actuators and wireless communion modules with audrino UNO
+
+Development of embedded programming and interfacing for motion control and obstacle avoidance
+
+Demonstration and testing of robot in static environment
+
+REFERENCES/ MANUAL /SOFTWARE:
+Foundation Engineering Laboratory Manual
+
+J
+
+SOLID WORKS 2022 Software
+
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+co1 develop the prototype model using mechanical operations like welding, . Applying (K3),
+forming and machining processes Precision (S3)
+CO2 sketch 3D model and develop the prototype using 3D printer Applying(is3),
+Precision (S3)
+CO3 design and develop the autonomous robot for real-time applications a ee
+
+Mapping of COs with POs and PSOs
+
+COs/POs
+
+iPsOs | PO1 | PO2 | Pos | Po4 | POs | POs | PO7 | POs | POS | POt0 | PO11 Psor | PSO2
+cot 3 | 3 | 3 | 2 3 | 2
+
+coz | 3 | 3 | 3 | 3 3 | 2
+
+cos | 3 | 3 | 3 | 2 3 | 2 |
+
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+SSID SATUS PETRA cnc
+
+Signature of the Chairman
+
+Board of Studies - Mecheani cob
+
+‘ 5 Ks V << yy,
+
+fi:
+
+
+a
+
+24MNT12 - QUANTITATIVE APTITUDE - |
+(Common to all Engineering and Technology branches)
+
+Searamimne & | All B.E/B.Tech Branches Sem. | Category | L | T | P | SL* | Total | Credit
+Prerequisites Basic Mathematical skills 1 Mc 20 | 0 | 0 10 30 0
+Preamble To impart problem solving skills and enhance analytical skills.
+
+Unit —I Number system and Equations: 6
+
+Number systems: Classification of numbers — Rules of divisibility - BODMAS Rule — HCF and LCM — Decimal fractions
+—Simplification — Problems.
+
+Equations: Solving equations with one variable — Solving simultaneous linear equations with two variables — Applications
+of simultaneous linear equations — Problems on ages — Simple problems.
+
+Unit — Il | Ratio, Proportion and Percentage: [6
+Ratio and Proportion: Third, Fourth and mean proportional - Comparison of ratios - Compound ratio — Duplicate ratio —
+Sub duplicate ratio — Triplicate ratio — Sub triplicate ratio — Chain rule — Simple problems.
+
+Percentages: Basic Concepts — Problems on percentages — Problems on population — Problems on depreciation.
+
+Unit — Il | Profit and Loss, Interest: | 8
+Profit and Loss: Basic concepts — Cost price — Selling price — Profit and Loss — Simple problems.
+
+Simple and Compound interest: Concepts — Percentage of interest — Difference between simple interest and compound
+interest — Simple problems.
+
+TEXT BOOK:
+
+1 Dr R.S.Agarwal, “Quantitative Aptitude for Competitive Examinations”, Revised Edition, S.Chand and company
+: limited, 2022.
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+Abhijit Guha,”Quantitative Aptitude for Competitive Examination”, 7° Edition, McGraw Hill Education, India,
+2020.
+https://www. indiabix.com/aptitude/questions-and-answers
+
+htt
+
+s:/Iwww.geeksforgeeks.org/aptitude-questions-and-answers
+
+COURSE OUTCOMES: BT Mapped
+
+On completion of the course, the students willbe ableto = _|_ (Highest Level)
+Co1 Solve equations with one and two variables. Applying (K3)
+CO2 Solve ratio, proportion and percentage problems. Applying (K3)
+CO3 Solve profit and loss, simple interest and compound interest problems. Applying (K3)
+
+Mapping of COs with POs and PSOs
+
+COs/POs | PO1 01 {roa | roa | ros | Pos | Pos PO7 Pos | Poo | Po11 | Pso1 | Psoz
+00% _ |
+co2 |
+CO3 | = :
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy |
+ASSESSMENT PATTERN - THEORY
+Test / Bloom's Remembering | Understanding | Applying | Analyzing | Evaluating {asi Total %
+Category (K1) % (K2) % (K3) % (K4) % (K5) % K6) %
+CAT1 30 70 100
+CAT2 30 | 70 | | 100
+CAT3 30 70 | 100
+
+*+3% may be varied (CAT 1, 2 & 3-50 marks & ESE — 100 marks)
+*includes Term Work (TW) & Online / Certification course hours
+
+Signature of the Chairman
+Board of Studies -
+
+
+
+| 24VEC11 - YOGA AND VALUES FOR HOLISTIC DEVELOPMENT
+| (Common to All Engineering and Technology Branches)
+
+eae & | All B.E./B.Tech. Branches Sem. | Category | L | T | P | SL* | Total | Credit
+Prerequisites _| Nil 1 HS 15 | 0 1s; 0 | 30 | 14
+Preamble Yoga or yogasanas are considered as art and science of healthy living by our ancient gurus. It
+
+is method to bring harmony of body and mind for general wellbeing. Yoga is considered as one
+of the greatest gifts to the world by Indians for healthy living. Students in particular are
+benefitted by learning yoga.
+
+Unit -I Introduction: i LT 2
+
+The Origins of Yoga — Definitions - Concepts - Aims and objectives of Yoga — Yoga is a Science and Art — Rules
+
+and Regulations of Asanas — Classifications of Yogasanas — Patanjali’s Ashtanga Yoga — Pranayama — Mudras
+
+& Bandhas - Shatkarma (Cleansing Practice) - Streams of Yoga — Modern Trends in yoga.
+
+Unit — Il Yoga and Mind: . 2
+
+The Nature of Mind - Five Elements and the Mind - Meditation and the Mind - Functions of the Mind - Role of
+
+Yoga in Psychological problems: Mood Disorders, Major Depressive Disorder, Cyclothymic Disorder.
+
+Unit — Ill Yoga and Values, Diet: 2
+
+Human Values — Social Values — Role of Yoga in Personality Integration - Concepts of Natural Diet - Naturopathy
+
+Diet — Eliminative Diet — Soothing Diet — Constructive Diet.
+
+Unit — IV Asanas: 2
+
+Prayer - Starting & Closing - Preparatory practices — Loosening Practices — Meaning, Definitions and Objectives
+of Asanas - Principles of Practicing Asanas. Asanas: Standing — Sitting — Prone — Supine — Suryanamaskar.
+Unit-V Pranayama and Meditation: 2
+Breathing Practices for awareness - Definitions and Objectives of Pranayama - Principles of Practicing
+Pranayama. Pranayama: Nadi Shuddhi - Kapalabathi — Sitali — Sitkari - Bhranari — Ujjayi — Relaxation
+Techniques — Meditation.
+
+|
+
+TEXT BOOK:
+4 Swami satyananda saraswathi, “Asana pranayama mudra bandha”, Bihar school of yoga, 4" Edition,
+: 1969.
+
+2. Swami mukthi Bodhanandha, “Hatha yoga pradipika”, Bihar school of yoga, 4" Edition, 1985.
+REFERENCES:
+
+B.K.S. lyenkar, “Yoga the path of holistic health’, DK Limited, ~ Edition, 1969.
+
+2 Selvarasu, “Kriya cleansing in yoga”, Aruvi yoga, 3 Edition, 2002.
+
+
+
+COURSE OUTCOMES: BT Mapped
+
+On completion of the course, the students will be able to (Highest Level)
+CO1 | realize the importance of yoga in physical health. Applying (K3)
+CO2 | realize the importance of yoga in mental health. Applying (K3)
+CO3 | realize the role of yoga in personality development and diet. Applying (K3)
+CO4 | do the loosening practices, Asanas and realize its benefits. Applying (K3)
+
+| cos do the practice of Pranayama, meditation and realize its benefits | Applying (K3)
+
+. Mapping of COs with POs and PSOs
+
+COs/POs
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Test / Creating
+Bloom’s (K6) %
+(J
+Category*
+
+* +3% may be varied (CAT3 — 100 marks)
+
+Q\ye
+RTE a A CRT Se
+
+nature of the Chairman
+
+B
+
+gerd of Studies - S
+
+
+
+24EGT21 - ENGLISH FOR EFFECTIVE COMMUNICATION - II
+
+(Common to all Engineering and Technology branches)
+
+| reeeramime & | All B.E/B.Tech Branches | Sem Category L T | P SL* Total | Credit
+Prerequisites _| Nil | 2 Hs | 45 | 0 | 0 | 45 90 | 3
+Preamble This course aims at up skilling the learners to listen, speak, read, and write as well as to facilitate the
+
+students in practicing the language skills to acquire verbal and communicative proficiency in professional
+| and academic contexts.
+
+sUnit —I Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing | 9
+Grammar: Simple, Compound, and Complex Sentences — Verbal Aptitude: Odd Words — Paired words — Listening: Listening
+to a Match Commentary and Filling in a Table — Listening to TED talks - Speaking: Apologizing — Talking about Manners and
+Etiquette — Reading: Scanning a Text, Power Point Presentations — The Best Way to Start a New Habit : An Excerpt from
+Atomic Habits Writing: Business Letters: Enquiry and Complaint
+Unit — Il __| Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing — | 9
+Grammar: Direct and Indirect Speech — Verbal Aptitude: Words often Confused — Verbal Analogy — Listening: Listening to a
+Lecture and Sorting Information — Career Related Conversation — Speaking: Group Discussion — Speaking about Career
+Choices and Professional Skills — Reading: Reading for Local and Global Comprehension — How to Find and Fix the Causes of
+Your Bad Habits: An Excerpt from Atomic Habits - Writing: Job Application: Cover Letter and Resume — Student Portfolio
+Unit — Ill | Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing | | 9
+Grammar: Active and Passive Voice — Verbal Aptitude: Error Spotting — Sentence Improvement — Abbreviations and Acronyms
+— Listening: Listening to Podcast Interviews and News/Motivational Speeches — Speaking: Presenting a Point of View — Giving
+Opinions about Podcast — Reading: Reading a Procedure — Cross Cultural Communication - How to Make Good Habits
+Inevitable and Bad Habits Impossible: An Excerpt from Atomic Habits — Writing: Types of Essays: Argumentative and Opinion
+
+based Essays
+Unit —IV Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing _ 9 |
+
+Grammar: If/Conditional Clause — Modals Verbs — Conversational Devices - Verbal Aptitude: Sentence Correction — Sentence
+Selection — Listening: Listening and Filling a Mind Map — Listening to Interviews, Celebrity talks — Speaking: Giving Advice and
+Suggestions — Interviewing Classmates - Reading: Reading for Information, Researching for Supporting Evidence — Technical
+Communication: Modes of Technology-based Communication — How to Stick with Good Habits Every Day : An Excerpt from
+
+Atomic Habits Writing: Dialogue Writing — Writing Reviews: Product and Documentary films/Web Series
+
+Unit -V Grammar, Verbal Aptitude, Listening, Speaking, Reading & Writing LL 9
+Grammar: Common Errors in Tenses — Verb - Preposition combinations — Verbal Aptitude: Coding and Decoding —
+Listening: Listening for key points - Speeches of New Inventions — Speaking: Asking for and Giving Permission — Talking
+about Gadgets, Inventions and Technology — Reading: Categorizing Information — Technical Communication: Effective use of
+Technology-based Communication — The Goldilocks Rule: How to Stay Motivated in Life and Work: An Excerpt from Atomic
+Habits — Writing: Report Writing: IV Report and Case Study Report
+TEXT BOOK: ' _|
+
+1 Sudharshana N P and Savitha C, English for Technical Communication, 2"4 Edition, Cambridge University Press, New
+
+: Delhi, 2016.
+
+REFERENCES:
+
+1. Ashraf Rizvi. Effective Technical Communication, 2"? Edition, McGraw-Hill India, 2017.
+
+S. P. Dhanavel. English and Communication Skills for Students of Science and Engineering, Orient Black Swan
+Publishers, Hyderabad, 2009.
+
+2
+3. James Clear. Atomic Habits By James Clear. Dnarman, 2023.
+
+* includes Term Work (TW) & Assignments, Tutorials and Case Studies
+
+
+COURSE OUTCOMES: BT Mapped
+
+On completion of the course, the students will be able to (Highest Level)
+CcO1 | construct contextual and functional grammar to enhance the linguistic competence Applying (K3)
+CO2 | listen, comprehend and infer implied meanings of the given text Applying (K3)
+C03 a eich bs Te aa ones oe kd Lil in oral discourses such as discussions 7] Creating (K6)
+co4 eee various texts by understanding contextual meanings and respond Understanding (K2)
+CO5 analyze arent genres of writing and making precise non-technical and technical Analyzing (K4)
+Mapping of COs with POs and PSOs |
+ron | Pot | Po2 | pos | PO4 | po11 | Pso1 | pso2
+cot
+C
+E
+| |
+1 — Slight, 2 —- Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Ti msl Remembering | Understand Applying Analyzing Evaluating Creating Total %
+. ing (K2) % (K3) % (K4) % (K5) % (K6) % alii
+
+- 100
+
+100
+
+% 100
+
+15 100
+
+* +3% may be varied (CAT 1, 2& 3 — 50 marks & ESE — 100 marks)
+
+¢:
+signature of the Chairman
+
+a of Studies - A,
+dof Studies - 8 aH CEng sd
+
+
+24MAC24 — PROBABILITY THEORY AND INFERENTIAL STATISTICS
+
+(Common to AIDS and AIML branches) |
+
+Programme & | B.Tech - Artificial Intelligence and Data
+
+Branch Science * .
+B.Tech - Artificial Intelligence and Machine Sem. | Category | L | T | P | SL* | Total | Credit
+Learning
+
+Prerequisites | Nil 2 BS |45|7[16| 52] 120 | 4
+
+Preamble To impart knowledge and problem solving capability in probability and statistical concepts necessary for
+handling real time applications in Artificial intelligence.
+
+Unit —I Probability and Random Variables: | 9
+
+Probability — Axioms of probability — Conditional probability — Total probability — Baye’s theorem — Random variable —
+Discrete and Continuous random variables — Probability mass function — Probability density function — Cumulative
+distribution function - Moment generating functions.
+
+Unit — Il Standard Probability Distributions: 9
+Discrete Distributions: Binomial distribution — Poisson distribution — Continuous Distributions: Uniform distribution —
+Exponential distribution — Gaussian distribution.
+
+Unit — Ill Two Dimensional Random Variables: 9
+
+Introduction — Joint probability distributions — Marginal and conditional distributions — Covariance — Correlation and
+| regression.
+
+Unit —IV Testing of Hypothesis: 9
+=a oa
+
+Introduction — Critical region and level of significance — Types of Errors — Large sample tests: Z-test for single mean and
+difference of means — Small sample tests: Student's t-test for testing significance of single mean and difference of means
+— F-test for comparison of variances — Chi-square test for independence of attributes.
+
+Unit —V Design of Experiments: 9
+Analysis of variance — One way classification: Completely Randomized Design — Two way classification: Randomized
+
+Block Design — Three way classification: Latin Square Design.
+
+LIST OF EXPERIMENTS / EXERCISES:
+ial = 2a
+1. Introduction to R studio.
+
+Identifying probability involving discrete and continuous random variables.
+
+Computation of probability using Binomial, Poisson and Normal distributions.
+
+Finding the Marginal and conditional distributions of two-dimensional random variable.
+
+Computation of correlation coefficient for the given data.
+
+Testing significance of means by student's t — test.
+
+Testing the independence of attributes by Chi-square test.
+
+ON ora) ® Lars
+
+Analyze whether the difference in means is statistically significant by completely randomized design.
+
+N
+
+TEXT BOOK:
+
+Douglas C.Montgomery, George C.Runger, “Applied Statistics and Probability for Engineers’, 7" Edition, John
+Wiley & Sons, Inc, USA; 2018.
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+William Mendenhall, Robert J. Beaver and Barbara M. Beaver, “Introduction to Probability and Statistics”, 14!
+Edition, Cengage Learning, USA, 2013.
+Jay L. Devore., “Probability and Statistics for Engineering and the Sciences”, 9" Edition, Cengage Learning, USA,
+
+1.
+
+—___—_
+
+1.
+
+2. | 2016
+
+3 Johnson. R.A., Miller. | and Freund. J., "Miller and Freund’s Probability and Statistics for Engineers", 9'" Edition,
+. Pearson Education, India, 2018.
+
+4 S.C.Gupta, V.K.Kapoor, “Fundamentals of Mathematical Statistics”, 12'" Edition, Sultan Chand & Sons, New Delhi,
+. 2022.
+
+5. Probability Theory and Inferential Statistics Laboratory Manual.
+
+*includes Term Work (TW) & Online / Certification course hours
+
+
+\e
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+BT Mapped .
+(Highest Level)
+
+Applying (K3)
+
+Cco1 Interpret the concept of random variables and know the basics of R studio Manipulation ($2)
+CO2 Apply the standard probability distributions in engineering problems. eel
+Co3 Apply the concepts of two dimensional random variables and regression in intelligent Applying (K3)
+systems. Manipulation (S2)
+CO4 Apply statistical tests for solving engineering problems involving small and large Applying (K3)
+samples. Manipulation (S2)
+CO5 Apply the concepts of analysis of variance to experimental data. ManEL aie)
+——
+
+Mapping of COs with POs and PSOs
+
+cos/Pos | P01 | Po2 | Po3 | Po4 | POs ree. Po7 | Pos | Pos | Poto | Po11 | Pso1 | Psoz |
+cot 3 13 | 4 3
+
+coz | 3 | 3 3 | |
+
+Co3 3 | 3 3 3 | | ia
+coe | 3 | 3 | 3 |] 3 3
+
+cos | 3 / 3/3 /] 3 3 =
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN - THEORY
+
+Test / Bloom’s Remembering Understanding | Applying | Analyzing Evaluating - Creating | Total
+Category* K1) % K2) % K3) % K4) % K5) % K6) % %
+ESE 70 100
+
+CY
+
+
+
+24CYT13 - CHEMISTRY FOR ELECTRONICS AND COMPUTER SYSTEMS
+
+(Common to EEE, EIE, ECE, CSE, CSD, IT, AIDS & AIML branches)
+
+Programme & B.E - EEE, EIE, ECE, CSE, CSD, Fi , _.
+Branch B.Tech - IT, AIDS & AIML branches Sem." | Category | L | T | P| SL*| Total | Credit
+Prerequisites _| Nil | 1/2 Bs |45/0/0|45| 90 | 3
+Preamble This course aims to emphasize the engineering students to realize the importance of water technology, energy
+
+storage devices, organic electronic materials, fabrication of PCBs, insulating materials and the need for e-waste
+management. It aims to impart the fundamentals of chemistry towards innovations in engineering and also for
+societal applications.
+
+Unit - | WATER TECHNOLOGY | 9
+
+Introduction - types of water - hardness of water- expression of hardness - units of hardness —water quality parameters-estimation of
+hardness of water by EDTA method — determination of alkalinity - DO, BOD and COD (Definition and Significance only) -
+disadvantages of using hard water in industry: scale, sludge and boiler corrosion - softening of water: Internal treatment process -
+carbonate and calgon conditioning - External treatment method - demineralization process and reverse osmosis.
+
+Unit - Il | ENERGY STORAGE DEVICES | 9
+Batteries: Introduction - discharging and charging of battery - characteristics of battery - types of batteries — primary battery: silver
+button cell - secondary battery: Ni-Cd battery -modern battery: lithium-ion battery - choice of batteries for electric vehicles. Fuel
+
+Cells: Introduction - Importance and classification of fuel cells - description, principle, components and working of fuel cells: alkaline
+fuel cell, phosphoric acid fuel cell and direct methanol fuel cell - comparison of batteries with fuel cells.
+Unit - Ill ORGANIC ELECTRONIC MATERIALS | 9
+
+Organic Electronic Materials: Introduction — types of organic semiconducting materials — comparison of organic with inorganic
+semiconducting materials — organic light emitting diodes — construction and working mechanism — comparison of LCD vs OLED.
+Fabrication of PCB: Introduction — electroplating (copper) process - electroless plating (nickel) process — printed circuit board (PCB)
+fabrication.
+
+Unit — IV INSULATING MATERIALS 9
+
+Introduction - requirements - classification (solid, liquid & gas) - preparation, properties and applications of solid inorganic insulator:
+ceramic materials - solid organic insulator: epoxy resin - liquid insulator: transformer oil - gas insulator: SFe - electrical resistivity -
+factors influencing electrical resistivity of materials - composition, properties and applications of high resistivity materials: Nichrome -
+polymers as electrical insulator.
+
+Unit —V E-WASTE AND ITS MANAGEMENT 9
+
+Introduction - E- Waste definition - sources of e-waste — hazardous substances in e-waste - effects of e-waste on environment and
+human health - need for e-waste management - waste minimization techniques for managing e-waste — chemistry of recycling of e-
+waste (magnetic separation, eddy current, density separation - recovery of metals using acid leaching process) - disposal treatment
+methods of e- waste - Incineration, pyrolysis, land fill - global scenario of e-waste — e-waste in India- case studies.
+
+TEXT BOOK:
+
+1 Roussak , O.V. Gesser, H. D." Applied Chemistry: A Textbook for Engineers and Technologists", 2" Edition ,Springer,
+; 2013, for Unit |, Il.
+
+Palanisamy P.N., Manikandan P., Geetha A., Manjula Rani K., Kowshalya V.N., “Chemistry for Engineering”, Revised
+
+= Edition, Pearson Education, New Delhi, 2024,for Units III, IV, V.
+
+REFERENCES:
+
+1. Payal B. Joshi, Shashank Deep, “Engineering Chemistry”, Oxford University Press, New Delhi, 2019.
+
+2. | Shuichiro Ogawa, "Organic Electronics Materials and Devices", 15‘ Edition, Springer, 2015.
+
+*includes Term Work(TW) & Online / Certification course hours
+# 1st sem for EEE, EIE, ECE & 2nd sem for CSE, CSD, IT, AIDS & AIML
+
+
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+BT Mapped
+(Highest Level)
+
+CO1 | analyze the water quality parameters for suitability of industrial and domestic applications. Analysing (K4)
+
+CO2 some the chemistry of energy storing devices and meeting the future prospectus of energy Analysing (K4)
+simplify the working mechanism of organic electronic materials and apply the concept of plating ‘
+
+co3 techniques in PCBs fabrication. Analysing (K4)
+
+| coa | identify the suitable insulating materials for industrial applications. Analysing (K4)
+
+CO5 | categorize the e-waste and reduce its impacts on future environment. Analysing (K4)
+
+Mapping of COs with POs and PSOs
+
+1 — Slight, 2 —- Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+cosipos | po1 | poz | po3 | Po4 pos | po7 | pos | pos | poto | po11 | pso1 | pso2
+cot 3 2 2 { 1 |
+co2 3 2 1 1 | | )
+CO3 3 2 1 1 |
+co4 3 2 1 { | |
+COS 3 2 3 1 | | 2 | ot
+
+ASSESSMENT PATTERN - THEORY
+
+CAT2
+
+ESE
+
+* +3% may be varied (CAT 1, 2 & 3—50 marks & ESE — 100 marks)
+
+Fem
+
+L ¢ ek
+
+Test / Bloom’s Remembering Understanding | Applying | Analyzing Evaluating Creating (K6) | Total
+Category* K1) % K2) % K3) % K4) % K5) % % _%
+
+
+
+@®, kongu Engineering College, Perundurai, Erode — 638060, India
+
+24ADC21 - PYTHON PROGRAMMING
+
+(Common to Artificial Intelligence and Data Science &Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech — Artificial Intelligence and Data
+Branch Science & B.Tech — Artificial Intelligence and
+Machine Learning
+
+Prerequisites | 2 | es |[a5[o0|30] 45 | 120 [ 4 |
+
+Preamble This course provides practical exposure to basic concepts of Python Programming including object- oriented
+programming, GUI and Web programming.
+
+| Unit-1 Introduction: 9
+
+Basic Concepts: Keywords, identifiers and variables- Data types — type casting — user input — operators — Flow control statements
+Calendars and clocks.
+
+| Unit-I! —_| Functions and Data Structures: 9
+
+Functions: Basics function arguments — modules — Recursion — Special functions. Lists: Creating, traversing and slicing -functions
+— nested lists. Tuples: Creating, initializing and accessing — tuple functions — swapping tuples, unpacking tuples — Dictionaries:
+Basics of Creating, initializing and accessing — dictionary functions and methods.
+
+| Unit-m Object Oriented Prog ramming: 9
+
+Concepts of OOP — OOP concepts for Python — Built in Attributes and methods — polymorphism — operator Overloading —
+Inheritance and Namespace — Method types — Exceptions: Built-in and User defined exceptions.
+
+Unit -IV Strings, Files and Regular Expressions: 9
+Strings: Built-in methods for string manipulation — Modules and Packages: import statement — creating user defined modules and
+packages. Files: File operations — Reading and Writing a file. Regular Expressions: match, search, sub, find all and finite functions.
+Unit —-V Databases and Web Frameworks: 9
+
+Databases: Database operations - Web Frameworks: Web servers — Introduction to web server frameworks - Creating and running
+a flask application.
+
+Category | L | T | P | SL* | Total | Credit
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+tl, Demonstrate the use of control structures
+2. Demonstrate tuple, list and dictionary operations
+
+3. Demonstrate the use of constructors
+
+A. Implement different types of inheritance
+
+5 Demonstrate the usage of exception handling
+
+Explore string manipulation functions
+
+Use file concepts to perform operations
+
+Perform validation of inputs using Regular Expressions
+
+Develop a web application using Flask
+*includes Term Work(TW) & Online / Certification course hours
+
+TEXT BOOK:
+Anurag Gupta, G P Biswas. “Python Programming”, 1*Edition, McGraw Hill Education, 2020 for Units III IIL,IV.
+https://www.javatpoint.com/flask-app-routing for Unit V.
+
+B.Tech — Artificial Intelligence and Data Science, Regulation— R2024
+
+
+3
+
+Ta
+tore
+
+@®, Kongu Engineering College, Perundurai, Erode — 638060, India
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+1. Bill Lubanovic, “Introducing Python Modern Computing in Simple Packages”, 2nd Edition, O’Reilly Media, 2019.
+
+Samuel Dauzon, Aidas Bendoraitis and Arun Ravindran. “Django: Web Development with Python”, 1st Edition, Packt Publisher,
+2017.
+
+3. Software: Python
+Laboratory Manual
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+BT Mapped
+Highest Level
+Applying (K3),
+
+Precision(S3
+ie)
+
+ie)
+
+Cc
+
+demonstrate the use of input, output and flow control function in python
+
+O01
+C02 design and develop Python Programs using core data structures like Lists, Tuples and Applying (K3),
+Dictionaries. Precision(S3
+leot-tnt rca’ Applying (K3),
+implement the concepts of object-oriented programming using Python.
+C04 develop python programs using File Operations and searching pattern using regular Applying (K3),
+expressions. ision(S3
+implement web applications related to Databases using flask and Web Services.
+
+Mapping of COs with POs and PSOs
+
+COs/POs
+
+s-crature of the Chairman
+
+Boara of Studies - CSB . PT
+
+men marae tr ncew ne ARETE BEE:
+
+B.Tech — Artificial Intelligence and Data Science, Regulation— R2024
+
+
+co
+
+Kongu Engineering College, Perundurai, Erode — 638060, India
+
+24ADC22 - FOUNDATIONS OF ARTIFCIAL INTELLIGENCE
+(Common to Artificial Intelligence and Data Science and Artificial Intelligence and Machine Learning branches)
+
+B.Tech — Artificial Intelligence and Data ;
+Category |L | T SL* | Total | Credit
+4
+
+Science & B.Tech — Artificial Intelligence and
+2 | pc [aslo [ao] as | 120
+
+Machine Learning
+
+This course imparts knowledge on data science and its relationship with other fields. It focuses on data
+processing and visualization. It also aims to provide knowledge on regression, classification and feature
+engineering techniques..
+
+| Unit-| ——s«| “Fundamentals of Data Science
+
+Introduction to Artificial Intelligence - Machine Learning - Data Science and its Relationships — Data Science: Applications —
+Relationship with other fields — Relationship between data science and information science — Computational Thinking — Skills —
+Tools. Data: Types of data — Data Collection — Data Preprocessing.
+
+Unit — Il Data Processing and Visualization 9
+Numpy: Declaration — Reshaping - Operations. Matplotlib: Scatterplot — Lineplot — Piechart - Bar Graph - Histogram. Pandas:
+
+Dataframe - Summary - accessing rows and columns - conditional access of data- adding and deleting columns.
+Unit — Ill
+
+Introduction to Regression — Regression Models — Linear Regression Model and Machine Learning — Evaluating Model Quality using
+different metrics — Insurance cost prediction problem.
+
+Unit — IV | FeatureEngineering tC C“‘~*drt:C‘<‘( :SCdC
+Feature Engineering — Insurance cost modelling problem — Reasons for Model Errors — Rectification of Model Errors — Overfitting
+and Underfitting — Deriving Data to Train the Model — Train/Test Split on the Insurance Problem.
+
+Introduction to Classification — Approach followed by Classification Algorithms — A Visual Representation of Logistic Regression —
+Evaluating Classification Model Accuracy — Classification with Logistic Regression — Introduction to Confusion Matrix — Hands-on
+with Confusion Matrix- Importance of Class wise Accuracy. :
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+1. Perform operations using Numpy
+2. Perform visualization using Matplotlib
+. Perform operations using Pandas
+
+Perform linear regression on datasets
+
+Programme &
+Branch
+
+Prerequisites
+
+Preamble
+
+5 Perform feature engineering for the given dataset .
+
+Perform logistic regression on datasets
+
+7. Programs to illustrate confusion matrix
+
+*includes Term Work(TW) & Online / Certification course hours :
+TEXT BOOK: .
+
+1. Chirag Shah, “A hands on introduction to Data Science”, Cambridge University Press, First edition, 2020 for Unit 1.
+
+Sujit Bhattacharyya, Subhrajit Bhattacharyya, “Practical Handbook of Machine Learning”, Career Launcher Infrastructure
+Pvt Ltd and G.K. Publications Pvt Ltd, First Edition, 2021 for Unit 2,3,4,5.
+
+B.Tech — Artificial Intelligence and Data Science, Regulation— R2024
+
+
+© Kongu Engineering College, Perundurai, Erode — 638060, India
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+Arthur K. Kordon “Applying Data Science: How to Create Value with Artificial Intelligence”. Springer Nature, Switzerland, 1st
+Edition, 2020.
+
+Avrim Blum, John Hopcroft and Ravindran Kannan. “Foundations of Data Science”. Cambridge University Press, ‘st
+Edition, England, 2020.
+
+Software: Python
+
+Laboratory Manual
+
+COURSE OUTCOMES: ; BT Mapped
+On completion of the course, the students will be able to (Highest Level) |
+CO1 adapt the data science for finding solution for given problems pena)
+
+cor | 3 |
+coz | 3 |
+cos | 3 |
+cos | 3 |
+cos | 3 |
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN - THEORY
+
+Test / Bloom’s Remembering Understanding | Applying | Analyzing Evaluating Creating (K6) | Total
+Category* K1) % K2) % K3) % K4) % K5) % % %
+
+Signature of the Chairman
+ra of Studies CSB , Ay .
+
+te emcee nO ne eae sercsezeameto
+
+B.Tech — Artificial Intelligence and Data Science, Regulation— R2024
+
+
+24TAMO02 - TAMILS AND TECHNOLOGY
+(Common to All Engineering and Technology Branches)
+| aeanele = = | a BE/BTech Branches Sem. | Category | L|t| P| st*} TOT | Credit
+Prerequisites | Nil 2 Hs [15/0] 0 [15 | 30 1
+Preamble | This course aims to impart the essential knowledge on the tamil culture and related technology
+ca -I | WEAVING AND CERAMIC TECHNOLOGY | 3
+Weaving Industry during Sangam Age — Ceramic technology — Black and Red Ware Potteries (BRW) — Graffiti on Potteries.
+
+UNIT — Il DESIGN AND CONSTRUCTION TECHNOLOGY 3
+
+Designing and Structural construction House & Designs in household materials during Sangam Age — Building materials and Hero
+stones of Sangam age — Details of Stage Constructions in Silappathikaram — Sculptures and Temples of Mamallapuram — Great
+Temples of Cholas and other worship places — Temples of Nayaka Period — Type study (Madurai Meenakshi Temple) — Thirumalai
+Nayakar Mahal — Chetti Nadu Houses, Indo — Saracenic architecture at Madras during British Period.
+
+UNIT — Ill MANUFACTURING TECHNOLOGY | 3
+
+Art of Ship Building — Metallurgical studies — Iron industry — Iron smelting, steel - Copper and gold — Coins as source of history —
+Minting of Coins — Beads making — industries Stone beads — Glass beads —Terracotta beads —Shell beads/ bone beats —
+Archeological evidences — Gem stone types described in Silappathikaram.
+
+UNIT - IV | AGRICULTURE AND IRRIGATION TECHNOLOGY | 3
+
+Dam, Tank, ponds, Sluice, Significance of Kumizhi Thoompu of Chola Period, Animal Husbandry — Wells designed for cattle use —
+Agriculture and Agro Processing — Knowledge of Sea — Fisheries — Pearl — Conche diving — Ancient Knowledge of Ocean —
+Knowledge Specific Society.
+
+UNIT -V SCIENTIFIC TAMIL & TAMIL COMPUTING 3
+
+Development of Scientific Tamil — Tamil computing — Digitalization of Tamil Books — Development of Tamil Software — Tamil Virtual
+Academy — Tamil Digital Library — Online Tamil Dictionaries — Sorkuvai Project.
+
+TEXT BOOK:
+
+Social Life of Tamils (Dr.K.K.Pillay) A joint Publication of TNTB & ESC and RMRL - (in print)
+
+2. Social Life of the Tamils — The Classical Period (Dr.S.Sigaravelu) (Published by: International Institute of Tamil Studies).
+REFERENCES:
+
+SUIPS auyeorM) - WSHEHWM UCKCTUTOW - GH CS Meronon CeuuiG sMioHnG umMmMed tommy
+HOONUNE MST SNH), 20HH SHUMUIMPMUEA Meco, Qe coreneet, 2002
+
+2. | STMOMFASMD Upmovouy Qev. HHH, aNsLcor MNysywd, 2016
+
+3. | SIig MacHs HASSOHUND FHSSTO HE) HTEPSw.QgZrevewued Fomm Qeusuid)
+4
+
+. | QUTGO AHomiamy Hrapsebd CaredOwedr genm Ceuchuig
+Historical Heritage of the Tamils (Dr.S.V.Subatamanian, Dr.K.D. Thirunavukarasu) (Published by : International Institute of
+
+Tamil Studies)
+
+The Contribution of the Tamils to Indian Culture (Dr.M.Valarmathi)(Puplished by International Institute of Tamil Studies).
+
+7 Keeladi — ‘Sangam City Civilzation on the banks of river Vaigai; (Jointly Published by: Department of Archaeology &
+*__| Tamilnadu Text Book and Educational Services Corporation, Tamilnadu
+8. | Studies in the History of India with Special Reference to Tamilnadu (Dr.K.K.Pillay) (Published by : The Author)
+
+9 Porunai Civilization (Jointly Published by: Department of Archaeology & Tamilnadu Textbook and Educational Services
+
+*__| Corporation, Tamilnadu)
+10. | Journey of Civilization Indus to Vaigai (R.Balakrishnan) (Published by: RMRL) — Reference Book.
+
+*includes Term Work (TW) & Online / Certification course hours -
+
+
+
+COURSE OUTCOMES: | BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+CO1 | explain weaving and ceramic technology in tamil culture and tamil society. Understanding (K2)
+CO2 | Illustrate about the design and construction technology. Understanding (K2)
+CO3_| summarize about the manufacturing technology. Understanding (K2)
+CO4 | explain the agriculture and irrigation technology. Understanding (K2)
+CO5 | explain the significance of tamil in scientific and computing. Understanding (K2)
+_|
+Mapping of COs with POs and PSOs
+COs/POs | PO1 | PO2 PO3 | PO4 | POS | POG | PO7 PO8 | PO9 PO10 | PO11 PSO1 PSO2
+
+co1 2
+
+CcO2 2
+
+cos. 3 3 2 2 |
+
+CO4 3 3 2 2
+
+COS 3 3 2 2
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+| ASSESSMENT PATTERN — THEORY
+Test / Bloom’s Remembering | Understanding | Applying | Analyzing F 7 Creating | Total
+Category* K1) % K2) % (K3)% | (K4)% | Evaluating (K5)% | (Key, | %
+
+CAT 60 100
+CATS a ee ee 100
+NA
+
+ESE
+* +3% may be varied (CAT 1,2,3 — 50 marks)
+
+ae eee. tae
+e Unairman
+
+5 = S&H CRhysics j
+aad
+
+
+
+24TAMO2 - SLMINGEL QamPled mi ucpL
+
+(Common to All Engineering and Technology Branches)
+
+ naemamas All BE/BTech Branches Sem. Category | L | T | P| SL* | TOT | Credit
+Prerequisites Nil 2 HS 15; 0,0] 15 30 1
+(Porson SMD soonéenjgsGar® gor CamPed mUuMBemer UAL THES MOTH Sod
+
+AVE - | ABFA, LOMMLb uinener QsmiPled mL i 3
+
+FHS STVHAPH ed Chea, CemAled -— unenors CEmAPeomlubd aGuy Aeuly uncom mse — unsinseafleo
+SMe @mMuiGeen
+
+AVG - l | UIQ EUEOLOLIL] LOMMIM SoS CHmAed mi ud | 3
+
+FAG STVHH|E AUQOEMWULY MMI s_Owncoimecd & MS srovgHoo ol _GuQui@HLsalled euigeusmwov1y
+- 6H STVSHed S Ovi AUT se5d HOsevay - AcowuMsnmsHcd Com sismwty uw
+MeaujymMgsen — LomosvevijysAMuMISEGd, Canleosepi — Cenpy arose CuGEmiGaruleosen LommLo mM
+UpuT Gs Soman - HUssy snes GCanuldscn -orAfelLrmooyss uh sie, wang
+HornLA sus sould UHM Aun Hussy wammed - AeLiqnmG afPacr -— MPfiqeio
+STVHAA Ed Cecremcsr QiHCHT-ENCHTAFoNs SLIQLS Sonev.
+
+AVE - ill 2 MUSHAS QSmipled mI vid | 3
+SUL SLOW smo - 2Georsalucd - Qwbys AsmAmenme - QGbmu 27Gs6GH0, 1-6 -
+AVTOTOMFS rooms CFD WMI FMS HleoTUMGd - HIeMUMBT BsFFiqghHd - owl
+
+2(HUTSG OSmMAmenneoacr — scowowmhsc — Heineoitg Woolas — aHwooin wolact — she Woes
+- cee AHTvOWEd FraTMISeT — AvwusasnpsZHfed worlsailesr aumassen.
+
+AVE - | GalmnenTenw Mb HyouTsers QsmPled mud 3
+
+HOO EVO, oil Gms, WHG - Cempjsreo GUNS gmbiler HSAwssioud — ancodmHoor upmopcey —
+STVHOL_AFACHATS Ug UMOSSUUL_L ATM SEN — GUCTMSHIEOLO LOM MIL Gouenroivenwo FIjhs QewicdunGhsen
+- 6LeeEny Sey - Kooreuend — pss) wommyid VSHISSMESO — QUGBMGL oO GMHH usttemw sHhley —
+AMYSMT & ELS.
+
+IG -v__| aMalusd sip Hyd somes sip ae
+aManuc sFiMiflost unjéA - soMoNZ5 SMO cunjésA - SMP mrevscmen MeuUAOy Cewiged — sip
+GsTOUTG sen oGounssbd - FMD Qenonus sooleaypsbd — Sulip Mot mova — Goncmudssled
+sip Serhan enmEGonous Hid.
+
+TEXT BOOK: ,
+
+SMS QTM) - WSHEGD UsiTLUTG - C5 CS Meromon CouhuiG sMipprG@ um_mMed como
+SoOMNUNE LEMS SPS), 2055 SMNMMUEA MAmiusod, Esttonest, 2002
+
+| 2. | HOMOMADSUMD (pencrouy Qo. HHHTW, NG_oot Myjsyud, 2016
+
+REFERENCES:
+
+EPlg- MUMS HANSSON FHESTOO HST HTSHG1d.AsmedeOwer HOM Ceueuie)
+
+QUTGO-AOMOMEOT HTSEHSL QereveNwued Hlonm Ceuefuid)
+Social Life of Tamils (Dr.K.K.Pillay) A joint Publication of TNTB & ESC and RMRL — (in print)
+Social Life of the Tamils — The Classical Period (Dr.S.Sigaravelu) (Published by: International Institute of Tamil Studies).
+
+—
+
+Historical Heritage of the Tamils (Dr.S.V. f SEAT. Dr.K.D. Thirunavukarasu) (Published by : International Institute of Tamil
+Studies)
+
+The Contribution of the Tamil to Indian Culture (Dr.M.Valarmathi) (Puplished by International Institute of Tamil Studies).
+
+Keeladi — ‘Sangam City Civilzation on the banks of river Vaigai; (Jointly Published by: Department of Archaeology & Tamilnadu
+Text Book and Educational Services Corporation, Tamilnadu)
+
+(9 |) N [O) OH PIO; Ny) =
+
+Veena in the History of India with Special Reference to Tamilnadu (Dr.K.K.Pillay) (Published by: The Author)
+
+Porunai Civilization (Jointly Published by: Department of Archaeology & Tamilnadu Textbook and Educational Services
+Corporation, Tamilnadu)
+
+=
+2
+
+Journey of Civilization Indus to Vaigai (R.Balakrishnan) (Published by: RMRL) — Reference Book.
+
+*includes Term Work (TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES: BT Mapped
+LIQ HCO (Plo FHOYL OT, LOMovoIeUuy ser (Highest Level)
+sup seréengbd womb sip sepsshfaimrw Ansa, wommd umes
+
+co1
+
+gs mPed mL Lr Meds pig wyLd. Understanding (K2)
+SLPS OUIGOCHLOLIL LOMMLD SLigLS ASEmPeomLuU a,mmMev um olnss
+CO2 Understanding (K2)
+| pig. uid.
+CO3 | SUIPFaafet 2 MUSAS VEMAedMi ud uD) &GHFSW0GS Fam (Pig wii. Understanding (K2)
+seit SiG pp eeiienr GoustTsienlo WOM Hyuunées CamPedmrud uh alos Understanding (K2)
+__ | Aig ip.
+CO5 | Siipjaaier sifianuic Sip HMM somMoMssiMhio um MNenshs Upig uj. Understanding (K2)
+
+Mapping of COs with POs and PSOs
+
+COs/POs | PO1| PO2 | PO3 | PO4 | Pos | Po7 | Pos | Pog PO10 PO11 Pso1__| PSO2
+cot 3 3 2
+
+co2 3 3
+
+CO3 3 3
+
+2
+2 2
+2 2
+co4 ee ee |
+coo | | | | {| [3] |afte2t 2 ] ff
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+CAT P| of | 00 |
+CAT2 cs Es ee rc ee
+CAT3 40
+
+ESE NA
+
+* +3% may be varied (CAT 1,2,3 — 50 marks)
+
+V/
+
+
+24CYL13 —- CHEMISTRY LABORATORY FOR ELECTRONICS AND COMPUTER SYSTEMS
+(Common to EEE, EIE, ECE, CSE, CSD, IT, AIDS & AIML branches)
+
+Programme & B.E & EEE, EIE, ECE, CSE, CSD, # . .
+Branch B.Tech & IT, AIDS & AIML branches Sem." | Gategory | L | T | P | SL" | Total | Credit
+Prerequisites Nil 1/2 Bs |0]|o0 |30| 0 | 30 | 4
+
+Preamble This course aims to impart the basic concepts of volumetric, conductometric, spectrophotometric and pH
+
+metry experiments for the estimation of given samples and thereby, to improve the analytical skills. This
+course also aims to impart the knowledge on hardness, DO, COD, alkalinity, Fe?*, Cu2* and Cr in computer
+
+systems.
+LIST OF EXPERIMENTS / EXERCISES:
+1 Assessment of the given water sample for the suitability of drinking / industrial purpose by estimating the carbonate, non-
+. carbonate and total hardness by EDTA method.
+2. Estimation of type and amount of alkalinity present in the given river/bore well water sample.
+3 Perform Winkler's method for the determination of dissolved oxygen in the given wastewater sample.
+4 Determination of COD in the given water sample.
+5 | Estimation of strength and amount of acid in a given solution using pH meter.
+6. Determination of strength and amount of mixture of acids present in the given solution using Conductivity meter.
+7. Determination of concentration of Nickel by Spectrophotometric method.
+8. Estimation of copper content from discarded PCB's by lodometric method.
+9 Determination of iron present in the given sample by permanganometric method.
+10. Volumetric estimation of chromium from electroplating sludge using permanganometric method.
+14 Electroplating process (Demonstration).
+12. Report preparation -based on the data received from the analysed water quality parameters (Demonstration).
+
+REFERENCES/ MANUAL /SOFTWARE:
+
+Palanisamy P.N., Manikandan P., Geetha A. and Manjula Rani K., “Chemistry Laboratory Manual”, 1 st Edition,
+Rajaganapathy Publishers, Erode, 2024.
+
+COURSE OUTCOMES: BT Mapped
+
+On completion of the course, the students will be able to (Highest Level)
+estimate the amount of hardness, alkalinity, DO and COD present in the given sample. Analyzing (64),
+
+: : Precision (S3)
+
+CO2 interpret the experimental results obtained from conductivity meter and pH meter. ee (KA),
+recision (S3)
+
+C03 demonstrate the determination of Nickel by Spectrophotometer, Copper by lodometry, Iron and Analyzing (K4),
+bs Chromium by Permanganometry. Precision (S3)
+
+Mapping of COs with POs and PSOs
+
+COsiPOs | PO1 | PO2 | PO3 | PO4 | Pos | Pos | Po7 | Pos | Pog | Poto | PO11 | Psot | PSO2
+cot 2 2 3 | 2 2 1 | |
+co2 2 2 3 2 2 1
+CO3 2 2 t 3 2 | 2 1 | |
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+*includes Term Work(TW) & Online / Certification course hours
+
+# 1st sem for EEE, EIE, ECE & 2nd sem for CSE, CSD, IT, AIDS & AIML
+
+Signature of the Chairman
+‘lof Studies - oS
+
+
+
+24GCL12 - FOUNDATION LABORATORY - ELECTRICAL, IOT AND WEB TECHNOLOGIES
+(Common to all BE/BTech branches)
+
+ee All BE/BTech Branches | sem. Category | L | T | P | SL* | Total | Credit
+Prerequisites | Nil | 1/2 ES 0 | 0 | 90 0 | 9 | 3
+
+Preamble | This course is designed to provide a foundational knowledge on engineering with hands-on experience
+on the house wiring, Internet of Things and Web Technologies.
+LIST OF EXPERIMENTS / EXERCISES:
+PART A — Electrical Installation (30 Hours)
+
+1. Determination of load currents and select suitable components for Protection
+
+Develop a wiring circuit for incandescent lamp and fluorescent lamp using Simple and Staircase Wiring
+
+2
+3. | Develop and Investigate wiring circuits for Calling Bell System and Dimmable Light
+4
+
+. Create wiring circuit for single phase motor
+5 Development of OT based energy monitoring and control |
+6 Measurement and analysis of electrical parameters for Photovoltaic Solar Panel
+PART B — Internet of Things (30 Hours)
+L
+1 Design a Single layer PCB layout designing
+
+Assembling, soldering and desoldering practice on single layer PCB
+
+Sensor and actuator interfacing with internet enabled microcontroller
+
+ra Fabricate Single layer PCB printing
+3
+4
+5
+
+Sensor and actuator calibration
+
+Integration of microcontroller based system with Cloud platform
+
+PART C — Web Technologies (30 Hours)
+
+1. Design a simple web page using basic HTML tags and CSS properties
+
+2. Design a responsive webpage using Bootstrap framework
+
+3. Design a webpage for signup and login validation form using Javascript and PHP
+
+4. Create a database connectivity using PHP, MySQL and host the website in the server.
+REFERENCES/ MANUAL /SOFTWARE:
+
+1. Laboratory Manual
+2 Eric T.Freeman,Elisabeth Robson, "Head First JavaScript Programming A Brain-Friendly Guide”, 1st Edition,
+; O'Reilly , 2014.
+[s Eric T.Freeman,Elisabeth Robson, "Head First HTML and CSS",2nd Edition, O'Reilly , 2012
+
+4. Lynn Beighley,”Head First SQL”, 1st Edition, O’Reilly,2007.
+
+COURSE OUTCOMES: BT Mapped
+
+On completion of the course, the students will be able to (Highest Level)
+. . re Pon . . Applying(K3)
+
+Cco1 Design electrical wiring circuits for buildings based on their requirement Precision ($3)
+
+CO2 | Develop loT based solutions and PCB for real world use cases. Applying (K3),
+
+Precision (S3)
+
+; ; P 5 F Applying(K3),
+
+CO3_ | Design and host an interactive dynamic website. Precision ($3)
+
+Mapping of COs with POs and PSOs
+
+i Po1.| Po2| po3 | pos | pos | Pos | PO7 a Pog | po10 | PO11 | PSO1 | Pso2 |
+cot 3 | 3 3 2 3 1 | 3 | 2 2 2
+coz | 3 | 3 3 2 3 1/3 | 2 | 2 2
+coz | 3 | 2 | 1 1 3 3 | 2] 2 | 3 |
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+
+
+24MNT21 - QUANTITATIVE APTITUDE - Il
+
+(Common to all Engineering and Technology branches)
+
+_ fogramnye = All B.E/B.Tech Branches Sem. | Category | L | T | P | SL* | Total.) Credit
+Prerequisites | Basic Mathematical skills 2 mc |20|0/0| 10 | 30 0
+Preamble To impart problem solving skills and enhance analytical skills.
+
+Unit -1 Averages, Alligations, Time and Work: 6
+
+Mixture rule — Applications — Problems.
+Time and Work: Concepts — Work and wages — Pipes and Cisterns — Simple problems.
+
+Averages, Alligations or Mixtures: Concepts — Definition — Formula — Simple problems on averages — Alligation or |
+
+Unit -Ill | Time and Distance:
+
+| 6
+
+and streams — Upstream and downstream — Simple problems.
+
+Time and Distance: Time, speed and distance — Conversions — Average speed — Relative speed — Problems on boats
+
+Unit — Ill | Permutation and Combination, Probability:
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+| 8
+Permutation and Combination: Concepts — Simple problems.
+Probability: Basic Concepts — Applications — Simple problems.
+TEXT BOOK:
+1 Dr.R.S.Agarwal, “Quantitative Aptitude for Competitive Examinations’, Revised Edition, S.Chand and company
+° limited, 2022.
+
+1 Abhijit Guha,"Quantitative Aptitude for Competitive Examination”, 7° Edition, McGraw Hill Education, India,
+
+2020.
+2. https://www. indiabix.com/aptitude/questions-and-answers
+3. https://www.geeksforgeeks.org/aptitude-questions-and-answers
+COURSE OUTCOMES:
+
+On completion of the course, the students will be able to
+
+BT Mapped
+(Highest Level)
+
+Solve averages, alligations or mixtures, time and work problems.
+
+Solve the problems on time and distance, upstream and downstream oriented
+applications problems.
+
+Applying (K3)
+
+Applying (K3)
+
+Solve problems involving permutation, combination and probability concepts.
+
+Mapping of COs with POs and PSOs
+
+COs/POs
+
+Applying (K3)
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN - THEORY
+
+Test / Bloom’s Remembering Understanding | Applying | Analyzing Evaluating Creating Total %
+Category* (K1) % (K2) % (K3) % (K4) % _(K5) % (K6) %
+CAT1 30 | 70 100
+CAT2 30 | 70 : 100 |
+CAT3 30 70 | 100
+
+*+3% may be varied (CAT 1, 2 & 3— 50 marks & ESE — 100 marks)
+
+*includes Term Work (TW) & Online / Certification course hour
+
+studies
+
+aw
+ig
+
+Board o
+
+
+
+24MAT32 — DISCRETE MATHEMATICS AND LINEAR ALGEBRA
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+Programme B.Tech - Artificial Intelligence and
+& Branch Data Science &
+B.Tech - Artificial Intelligence and
+
+Sem. | Category | L | T | P | SL* | Total | Credit
+
+Machine Learning
+Prerequisites | Nil 3 BS 45|15| 0 | 60 | 120 4
+Preamble To provide in-depth knowledge in various concepts of linear algebra, mathematical logic and
+
+relations, which serve as a foundation for machine learning and data science and also develop skills
+to apply algebraic structures in coding theory.
+
+Unit —1 Mathematical Logic: [| 9+3
+Propositional Calculus: Propositions — Logical connectives - Compound propositions — Conditional and biconditional
+propositions — Truth tables — Tautologies and contradictions — Theory of Inference — Rules of inference — Arguments
+— Validity of arguments.
+
+Predicate Calculus: Predicates — Statement function — Variables — Quantifiers — Universe of discourse — Theory of
+inference for Predicate calculus — Rules of universal specification and generalization — Rules of Existential
+
+specification and generalization.
+
+Unit - Il Relations: 9+3 |
+Cartesian product of sets — Relations on sets — Types of relations and their properties — Matrix representation of a
+relation - Graph of a relation — Equivalence relation — Partial ordered relation — Poset — Hasse diagram — Lattices —
+Properties of lattices.
+
+Unit — Ill Group Theory: 9+3
+Groups and Subgroups (Definitions only) - Homomorphism — Cosets — Lagrange’s theorem — Coding Theory —
+Group codes — Basic notions of error correction — Error recovery in group codes (Excluding theorems in coding theory).
+Unit —IV Vector spaces 9+3
+
+Vector spaces — Subspaces — Linear combinations and Span — Linear independence — Bases and dimension — Row
+space, Column space and Null Space — Rank and nullity.
+
+Unit -—V Inner Product Spaces: 9+3
+Inner products — Inner Product Spaces — Angle and Orthogonality in inner product spaces — Orthonormal vectors —
+Gram Schmidt orthonormalization process — QR decomposition.
+
+TEXT BOOK:
+
+1 Veerarajan T., “Discrete Mathematics with Graph Theory and Combinatorics”, Reprint Edition, Tata McGraw
+° Hill Publishing Company, New Delhi, 2022 for Units |, Il, Ill.
+
+2 Howard Anton, Chris Rorres, “Elementary Linear Algebra”, 11" Edition, John Wiley & Sons, 2019 for Units IV,
+
+V.
+REFERENCES:
+1. Kenneth H. Rosen, Kamala Krithivasan, “Discrete Mathematics and its Applications”, 8° Edition, McGraw Hill
+
+Education Private Limited, New Delhi, 2023.
+
+2. Gilbert Strang, “Introduction to Linear Algebra", 4'" Edition, Wellesley-Cambridge Press, Wellesley, USA,
+2016.
+
+3. David C. Lay, Steven R. Lay, Judith McDonald, “Linear Algebra and Its Applications”, 5'° Edition, Pearson
+Education Limited, England, 2016.
+*includes Term Work (TW) & Online / Certification course hours
+
+
+
+COURSE OUTCOMES:
+
+On completion of the course, the students will be able to
+
+BT Mapped
+(Highest Level)
+
+CO
+
+2
+
+CO1_ | Apply propositional and predicate logic to validate the arguments. Applying (K3)
+Understand various types of relations which has applications in cryptography and s
+
+— combinatorial optimization. Understanding (K2)
+
+CO3 | Apply the concepts of group structures in coding theory. Applying (K3)
+
+CO4 | Illustrate the concept of vector spaces commonly used in intelligent systems. Understanding (K2)
+Apply the concepts of inner product spaces in orthogonalization and decomposition in .
+
+ia data reduction. Applying (K3)
+
+Mapping of COs with POs and PSOs
+COs/POs PO4 | POS PO11 | PSO1 PSO2
+Cco1
+
+CO5 3 3
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+a
+
+- Test / Bloom’s
+Category*
+
+Remembering
+
+CAT1
+
+CAT2
+CAT3
+
+ESE
+
+ASSESSMENT PATTERN - THEORY
+
+Understanding Applying
+K3
+
+"Analyzing Evaluating Creating | Total
+(K4)% |
+
+(K5) % (K6)% | %
+
+
+
+é : s), Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+24ADC31 - JAVA PROGRAMMING
+(Common to Artificial Intelligence and Data Science &Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech. Artificial Intelligence and Data Science * .
+
+Branch B.Tech. Artificial Intelligence and Machine Learning Sem. |Category| L | T| P| SL*| Total | Credit
+{——
+
+Prerequisites Nil | 3 | PC | 45 |0 | 30 45 | 120 4
+
+Preanble [This course concisely introduces Java programming, including inheritance, interfaces, exception handling, threads,
+generics and collections
+
+Unit - | Introduction to OOP and Java | 9
+
+Overview of OOP — Object-oriented programming paradigms - Features of Object- Oriented Programming - Java Buzz words —
+Overview of Java-Data Types, Variables and Arrays — Operators — Control Statements- Strings: Basic String class, methods and String
+Buffer Class
+
+Unit - Il Classes and Objects [9
+Classes: Class Fundamentals- -objects—Assigning Object Reference Variables — Introducing Methods — Constructors — this keyword 4
+Garbage Collection — Stack Class. Overloading Methods — Objects as Parameters — Argument Passing — Returning Objects — Recursion
+— Access Control-Static — Nested and Inner Classes —- Command-Line Arguments — Variable Length Arguments
+
+Unit - ll Inheritance, Packages and Interfaces | 9
+
+Inheritance: Basics — Super keyword -Multilevel Hierarchy-Method Overriding - Dynamic Method Dispatch —Abstract Classes — final
+with Inheritance. Packages and Interfaces: Packages — Packages and Member Access —Importing Packages — Interfaces.
+
+Unit -IV Exception Handling, Multithreading and I/O | 9 |
+Exception Handling basics — Multiple catch Clauses — Nested try Statements — Java’s Built-in Exceptions — User-defined Exception.)
+Multithreaded Programming: Java Thread Model—Creating a Thread and Multiple Threads — Priorities — Synchronization — Inter Thread
+Communication- Suspending —Resuming, and Stopping Threads —Multithreading - I/O Basics
+
+Unit - V String Handling, Generics, Collections 9
+
+Generics: Introduction — Example — Parameters — General Form — Generic Methods, Constructors and Interfaces. Collection
+frameworks: Overview — Collection Classes — Collection Interfaces. |
+
+List of Exercises / Experiments:
+
+1.
+
+Simple Java programs using operators, arrays and strings.
+
+2. Simple Java programs using control statements
+
+3. Demonstrate the concepts of inheritance & polymorphism. |
+4. Develop an application using interfaces by accessing superclass constructors and methods.
+
+S. Develop an employee payroll application using packages.
+6. Implement exception handling and creation of user-defined exceptions. |
+(fe "Implement a program to demonstrate multithreading and inter-thread communication. — : Oe
+8 Perform file operations. - |
+9. _ ‘Gewvalop | applications to demonstrate the features of generics classes and interfaces. - OO
+10. “Implement the concepts of collection frameworks. - - —_ a
+
+TEXT [BOOK: : Oe OB me
+1. Herbert Schildt., “Java: The Complete Reference”, 12th Edition, McGraw Hill Education, 2022.
+REFERENCES/MANUAL/SOFTWARE: |
+1. (Cay S.Horstmann, “Core Java Volume 1 - Fundamentals”, 12” Edition, Prentice Hall, 2024
+2 E Balagurusamy, " Programming with Java",7th Edition, Mc Graw Hill Publication, 2023
+3. / Software: JDK, Eclipse IDE, MySQL
+
+4 . alanine Manual Oe OO :
+
+‘Includes Term Work (TW) & Online / Certification course hours
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+COURSE OUTCOMES:
+
+BT Mapped (Highest
+
+On completion of the course, the students will be able to Level)
+cot . ; Applying (K3)
+lapply fundamental programming concepts to solve diverse problems Precision($3)
+co2 develop solutions to various problems by employing object-oriented programming principles, Applying (K3)
+"_|utilizing classes and objects Precision(S3)
+C03 make use of programming features like inheritance, package usage, and interface implementation Applying (K3)
+across various applications. ; Precision(S3)
+co4 develop robust Java applications by effectively utilizing I/O packages, implementing exception- Applying (K3)
+handling mechanisms, and managing concurrency with threads Precision(S3)
+| . a . . . ae Applying (K3)
+CO5 effectively utilize collection frameworks to manage and manipulate data in software applications Precision($3)
+Mapping of COs with POs and PSOs
+==
+COs/ POs | poi | PO2 PO4 | PO5 | PO6 | PO7 PO11 PSO1 PSO2
+cot 3 2 2 2 3 2
+3 2 3 2
+CO3 3 2 3 2
+| C04 3 2 38 2
+CO5 3 2 3 2
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+Board of Studies. (
+
+Portal: Code Tantra
+
+Signature of the Chairman
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+
+Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+24ADT31 - COMPUTER ORGANIZATION
+
+(Common to Artificial Intelligence and Data Science &Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech. Artificial Intelligence and Data Science & . j
+
+Branch B.Tech. Artificial Intelligence and Machine Learning sent. | Gaegery | L | T P | SL* |Totall Credit
+
+Prerequisites Nil 3 ES | 45 | 15 | 0 | 60 | 120 | 4
+
+Preamble This course provides knowledge on basics of computer organization, introduces various arithmetic
+operations and discusses the performance issues of processor, memory and I/O units.
+
+Unit -1 Basic Structure of Computers and Machine Instructions: | 9+3
+
+Functional Units — Basic Operational Concepts — Number Representation and Arithmetic Operations — Performance — Memory
+Locations and Addresses — Memory Operations — Instruction and Instruction Sequencing — Addressing Modes — CISC Instruction
+Sets.
+
+Unit - 1 ‘Arithmetic Unit: | 943
+
+Addition and Subtraction of Signed Numbers — Design of Fast Adders — Multiplication of Unsigned Numbers — Multiplication of
+Signed Numbers — Fast Multiplication — Integer Division
+
+_ - {
+
+Unit Il Processing Unit: | 9+3
+
+Fundamental Concepts — Instruction Fetch and Execution Steps — Control Signals - Hardwired control — Pipelining : Pipelining |
+- Basic concepts — Pipeline Organization — Pipelining Issues - Data Dependencies — Memory Delay — Branch Delay
+
+Unit - IV Memory System: | g+3
+
+Basic Concepts — Semiconductor RAM Memories — Read-Only Memories — Direct Memory Access — Memory Hierarchy —Cache
+Memories : Mapping Functions —Virtual Memory — Secondary Storage : Magnetic Hard Disks.
+
+. Unit -V /O Organization: 9+3
+
+Accessing I/O Devices — Interrupts — Enabling and Disabling Interrupts — Handling Multiple Devices — Bus Structure — Bus
+Operation — Arbitration — Interface Circuits — Interconnection Standards: USB.
+
+[TEXT BOOK: |
+1. Carl Hamacher, ZvonkoVranesic, SafwatZaky and NaraigManjikian, “Computer Organization and Embedded Systems”,
+
+____6!M Edition, McGraw Hill International Edition, 2023. — ees |
+REFERENCES:
+4. Patterson David, A. and Hennessy John L., “Computer Organization and Design: The Hardware / Software-Interface”, 5th Edition, |
+
+Harcourt Asia, Morgan Kaufmann, Singapore, 2014. _|
+
+2 Stallings William, “Computer.Organization and Architecture: Designing for Performance", 9th Edition, Pearson Education, New
+; Delhi, 2012. uN : _|
+3. M. Morris Mano,” Computer System Architecture”, 3"¢ Edition, Pearson Education, New Delhi, 2012. |
+
+‘Includes Term Work(TW) & Online / Certification course hours
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+oe . Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+[COURSE OUTCOMES: ‘| BT Mapped (Highest
+On completion of the course, the students will be able to Level)
+apply the basic structure, arithmetic, and memory operations of a digital computer, along with .
+
+a addressing modes, to solve computational problems effectively. ; Applying (K3)
+CO2~ ability to design, Implementation and Analysis of data path for instruction execution. Applying (K3)
+design a data path for a simple processor and compare the various techniques related to :
+cO3 simultaneous execution of multiple instructions from a program. Applying (K3)
+organize the computer memory to speed up the performance and facilitate the transfer of data :
+
+CO4 between the computer’s central processing unit and the external devices. Applying (K3)
+Make use of different I/O devices and standard I/O interfaces and identify the various types of :
+
+COs interrupts in I/O transfer. Applying (K3)
+
+Mapping of COs with POs and PSOs
+COs/ ] ] |
+POs | PO1 | PO2 | PO3 PO4 | POS | PO6 | PO7 PO8& | PO9 | PO10 = PO11 PSO1 PSO2
+[ rs
+cor 3 3 | 3 | 3 2
+| coz | 3 | 3 | 2 | 3 2
+‘| cos | 3 | 2 | 3 | | iz 3 3
+co4 | 300 (2B | | 3 | 3
+T T T
+COS ‘3 | 2 1° 2 | 3 3
+1 — Slight, 2 - Moderate, 3 - Substantial, BT- Bloom's Taxonomy
+ASSESSMENT PATTERN — THEORY
+Test/Bloom’s | Remembering | Understanding | Applying (K3) | Analyzing Evaluating | Creating (K6)| Total
+Category* | (K1) % (K2) % | % (K4) % (K5) % % %
+CAT1 | 50 | 100
+| CAT2 50 100
+| CAT3 50 100
+ESE | | 50 100
+r +3% may be varied (CAT 1, 2, 3 — 50 marks & ESE — 100 marks)
+
+a
+Signature of the Chairman S
+Board of Studies - CSE \ 5 We
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+2. Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+24ADT32 - MACHINE LEARNING
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech. Artificial Intelligence and Data Science & Sem. | Getaue tL tilplste Credi
+
+FSreaiictt B.Tech. Artificial Intelligence and Machine Learning , gory Total Credit
+
+Prerequisites Nil | 3 PC | 45 0 |0/45) 90 | 3
+
+Preamble The course provides the concepts and algorithms in machine learning and the methods to apply them in real
+time problems.
+
+Unit —1 Introduction to Machine Learning | 9
+
+Need for Machine Learning — Machine Learning in relation to other fields — Types of Machine Learning — Challenges of Machine
+Learning — Machine Learning Process and Applications — Data — Data Analytics —Descriptive Statistics— Univariate, Bivariate and
+Multivariate Data — Feature Engineering — Dimensionality Reduction techniques
+
+Unit — Il Similarity based Learning and Regression Analysis | 9
+Introduction to Similarity based Learning — Nearest Neighbor Learning — Weighted K-Nearest Neighbor Algorithm — Nearest Centroid
+Classifier — Locally weighted Regression — Introduction to Regression — Linearity, Correlation and Causation — Linear Regression —
+Nalidation Methods for Regression - Multiple Linear Regression. |
+Unit — Ill Decision Tree Learning | 9
+Decision Tree learning Model — Decision Tree Induction Algorithms: ID3 Tree Construction — C4.5 Construction — Classification _
+and Regression Trees Construction — Regression Trees — Validating and Pruning of Decision Trees. \
+Unit -— IV Bayesian Learning and Support Vector Machines | 9
+Probability based Learning — Bayes Theorem Fundamentals — Classification using Bayes Model: Naive Bayes Algorithm, Brute Force
+Bayes Algorithm, Bayes Optimal Classifier, Gibbs Algorithm — Other Naive Bayes Classifiers — Introduction to Support Vector Machine — |
+
+Optimal Hyperplane — Functional and Geometric Margin
+Unit — V Ensemble Learning, Clustering Algorithms and Reinforcement Learning. 9
+
+Introduction — Parallel Ensemble Models — Incremental Ensemble Models — Sequential Ensemble Models -Introduction to Clustering
+Approaches — Proximity Measures — Hierarchical Clustering Algorithms —Partitional Clustering Algorithm— Overview of Reinforcement
+Learning - Reinforcement Learning as Machine Learning - Components — Markov Decision Process.
+
+T EXT BOOK:
+1. S.Sridhar, M.Vijayalakshmi, “Machine Learning”, 1st Edition, Oxford University Press, 2021. i:
+REFERENCES:
+We David Forsyth, “applied fleschiins Leaming’, ‘Soringer, 2019.
+2. Saikat Dutt, Subramanian Chandramouli, Amit Kumar Das , “Machine Learning”,1st edition, Pearson Education, 2019
+3 ShaiShalev-Shwartz and Shai Ben-David, “Understanding | Machine Learning: From Theory to Algorithms”, 1 st Edition,
+‘ Cambridge University Press, USA, 2014.
+
+*Includes Term Work (TW) & Online / Certification course hours
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+!. Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+BT Mapped (Highest
+Level)
+
+| CO1 [extrapolate basic concepts of machine learning data and apply feature engineering
+
+Applying (K3)
+
+CO2_ apply similarity based learning and regression analysis for sample datasets
+
+Applying (K3)
+
+| CO3_ japply ID3, C4.5 and CART algorithms for constructing, validating and pruning decision tree
+
+Applying (K3)
+
+' CO4 Japply bayesian learning and support vector machine models for sample datasets
+
+Applying (K3)
+
+CO5 Pee ensemble learning, clustering algorithms and reinforcement learning
+
+Applying (K3)
+
+Mapping of COs with POs and PSOs
+
+nae PO1| PO2 PO3 | PO4 POS | POG | Po7 | pos | Pog | PO10 | Pott PSO1 | PSO2
+cot 3 | 2. 2 2. 2 | 21 | tT 2 ae er |
+co2 3 | 2 2 2 2 | 2 | “of 3 | a |
+CO3 3 2 2 2 2 | 2 | 2 3 2 |
+CO4 3 2 2 2 2 | 2 | 2 3 2
+COS 3 | 2 2 | 2 2 | 2 | [2 | 3 r 2
+
+1 -— Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN — THEORY
+
+Test / Bloom’s Remembering | Understanding Applying (K3) | Analyzing | Evaluating (K5) | Creating (K6) Total
+Category* (K1) % (K2) % % (K4) % % % | %
+CAT1 40 60 | | ‘100
+| a i
+CAT2 | 40 60 | 100
+CAT3 7 40 60 fees i 100
+—— ae — | ‘
+ESE | 40 60 | L 100
+
+* +3% may be varied (CAT 1, 2, 3-50 marks & ESE — 100 marks)
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+SxS
+
+5 : CSE WAT...
+
+fFihe Chairman
+
+ORE EPG LRRD iw BA
+
+BaD wane oe eee ts ee
+
+
+
+ei Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+24ADT33- DATA STRUCTURES
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech. Artificial Intelligence and Data Science & sem. | Cat L tT |Pist« .
+Branch B.Tech. Artificial Intelligence and Machine Learning . aaeey Total! Credit
+Prerequisites Nil 3 PC 45 0 |0|45| 90 | 3
+Preamble The course focuses on the basic concepts and applications of linear data structures and nonlinear data structures
+Unit - 1 List: 9
+
+Data Structures — Abstract Data Types (ADT)}-List ADT and Array Implementation — Linked List — Doubly Linked List — Circular Linked
+List — Applications of Linked Lists.
+
+Unit — 1! Stack and Queue: 9
+
+Stack ADT — Array and Linked List implementation of Stacks — Applications of Stacks - Queue ADT — Array and Linked List
+implementation of Queue — Circular Queue — Applications of Queue.
+
+I
+|
+Unit — Ill Trees: 9
+Preliminaries: Implementation of trees -Tree Traversals — Binary trees: Implementation— Expression trees — The Search Tree ADT —
+Binary Search Trees: Construction — Searching — Insertion — Deletion — Find Min — Find Max — AVL trees: Rotation — Insertion —
+Deletion.
+
+Unit — IV Graphs: a 9
+Definitions - Representation of Graphs — Types of Graph — Depth-first traversal — Breadth-first traversal — Topological Sort —
+Applications of DFS: Bi-connectivity — Euler circuits — Finding Strongly Connected Components — Applications of BFS: Bipartite graph —
+Graph Coloring
+
+Unit —V Searching, Sorting and Hashing: | 9
+
+Searching: Linear search — Binary Search — Sorting: Bubble sort — Shell sort - Bucket sort —- Hashing: Hash Functions — Separate
+ehalning = Open Addressing: Linear Probing — Quadratic Probing —- Double Hashing — Rehashing — Extendible Hashing.
+
+TEXT BOOK:
+
+4
+i
+
+1. Weiss N mt. A., » ta aieieinn alla riggatinn oon imam in a detent Edition, Paareon Boneh, London, 2019,
+REFERENCES: 7
+4 Thomas H. Cormen, Charles E. Leiserson, Ronald L.Rivest, Clifford Stein, “Introduction to Algorithms”, 3ra Edition, McGraw Hill, _
+: 2009.
+| in =
+2. Narasimha Karumanchi, “Data Structures and Algorithms Made Easy”, Career Monk Publications, 2016.
+
+“Includes Term Work (TW) & Online / Certification course hours
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+Ss. Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+COURSE OUTCOMES: BT Mapped (Highest |
+On completion of the course, the students will be able to Level) |
+' CO1 solve problems using various implementations of linked list. Applying (K3)
+| CO2 make use of ADTs like stack and queue for solving real world problems. Applying (K3) |
+\ —
+| |
+| CO3 implement the tree structure and its operations. Applying (K3)
+| CO4 apply appropriate graph algorithms for computing problems. L Applying (K3)
+| CO5 demonstrate the concept of sorting, searching and hashing techniques. Applying (K3)
+
+Mapping of COs with POs and PSOs
+
+COs/POs | PO1 | PO2 PO3 | PO4 POS | POG | PO7 | PO8 | PO9| PO10, PO11 PSO1 PSO2
+T ——_____ —-_______-—_-
+co1 3 | 2 2 | 2 | 2 3 2
+coz 3. 2 2 2 | ; 2 | 38 2
+————$ —___—___ +—
+co3. | (3 2 2 | 2 2 3 2
+| : —__ 1: =
+co4 33st 2 2 | 2 3 2
+CoS 33s 2 2 2 2 3 2
+
+1 — Slight, 2 - Moderate, 3 - Substantial, BT- Bloom’s Taxonomy ;
+ASSESSMENT PATTERN - THEORY
+
+Test / Bloom’s | Remembering | Understanding | Applying Analyzing — Evaluating (K5) | Creating (K6)
+Category* | (K1) % | (K2) % | (K3)% (K4) % % | %
+ca 50 50 - ; 7 | 100
+CAT2 / | 40 i; 60 TO [ i | 100 ;
+CAT3 | 40 60 | | 100
+ESE 40 60 | 4100
+
+* +3% may be varied (CAT 1, 2, 3 - 50 marks & ESE — 100 marks)
+
+Board of Studies -
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+24MNT31 - ENVIRONMENTAL SCIENCE
+
+(Common to All Engineering and Technology Branches)
+
+oatenun & All B.E/B.Tech Branches Sem. | Category L|T|P | SL* | Total | Credit
+Prerequisites NIL 3/6 Mc | 30; 0] 0 | 0 30 0
+Preamble This course provides an approach to understand the various natural resources, ecosystem, bio-diversity,
+
+pollution control & monitoring methods for sustainable life and also to provide knowledge and to create
+awareness for engineering students onsocial Issues and the environment.
+
+Unit -1 Environmental Studies and Natural Resources 6
+
+Introduction to Environmental Science — uses, over-exploitation and conservation of forest, water, mineral, food, energy and land
+resources—case studies.
+
+Unit - Il Ecosystem and Biodiversity | 6
+Ecosystems: concept and components of an ecosystem -structural and functional features — Functional attributes (Food chain and
+Food web only). Biodiversity: Introduction — Classification — Bio geographical classification of India- Values of biodiversity — Threats
+and Conservation of biodiversity - case studies.
+
+Unit — Ill | Environmental Pollution | 6
+
+Environmental Pollution: Definition — causes, effects and control measures of:(a) Air pollution - Climate change, global warming, acid
+rain, ozone layer depletion (b)Water pollution (c) Soil pollution - Role of an individual in prevention of pollution - case studies.
+
+Unit — IV Environment Quality Standards and Monitoring | 6
+Ambient air quality standards - Water quality parameters and standards: Turbidity, pH, Suspended solids, hardness, residual
+chlorine, sulfates, phosphates, iron and manganese, DO, BOD, COD (definition, specifications and limits only) - Introduction to EIA —
+objectives and process of EIA - environment protection act — air (prevention and control of pollution) act — water (prevention and
+control of pollution) act- case studies
+
+Unit — V Social Issues and the Environment | 6
+
+From Unsustainable to Sustainable development - three pillars of sustainability- factors affecting environmental sustainability-
+approaches for sustainable development- Social issues: Urban problem related to energy - population growth and explosion - issues
+related to resettlement and rehabilitation, E-waste recycling - role of IT in environment and human health - case studies.
+
+TEXT BOOK:
+
+AnubhaKaushik, and Kaushik C.P., “Environmental Science and Engineering”, 6th Multicolour Edition, New Age International
+Pvt. Ltd., New Delhi, 2023.
+
+REFERENCES:
+
+Palanisamy P.N., Manikandan P., Geetha A., Manjula Rani K., Kowshalya V.N., “Chemistry for Engineering’, Revised
+Edition ,Pearson Education, New Delhi, 2024.
+
+ErachBharucha, —Textbook of Environmental Studies for Undergraduate Coursesll, University Grands Commission,
+Universities Press India Private Limited, Hyderguda, Hyderabad, 2005.
+
+1.
+
+1.
+
+2.
+
+*includes Term Work(TW) & Online / Certification course hours
+
+
+
+COURSE OUTCOMES:
+
+BT Mapped
+On completion of the course, the students will be abie to (Highest Level)
+CO1 | illustrate the various natural resources and role of individual for its conservation Understanding (K2)
+CO2 | elaborate the features of ecosystem and biodiversity to find the need for conservation. Understanding (K2)
+CO3 | manipulate the sources, effects and control methods of various environmental pollution. Applying (K3)
+make use of the knowledge of Quality standards, EIA and environmental legislation laws to .
+pas monitor the environment. Applying (K3)
+utilize the knowledge of various social issues and impact of population explosion on environment .
+e085 towards sustainability. | Understanding (K2)
+
+Mapping of COs with POs and PSOs
+
+COs/POs |
+
+co1
+
+“PO10 | PO11 PSso1 PSO2
+
+CcO2
+
+CO3
+
+1 — Slight, 2 — Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN - THEORY
+
+Test / Bloom’s Remembering | Understanding Evaluating | Creating (K6) | Total
+Catego (K1) % K2) % K3) % K4) % % %
+ci % “es aa |
+CAT2 | 25 35 100
+CAT3 | 25 100
+| ESE NA
+
+* +3% may be varied (CAT 1, 2 & 3-50 marks )
+
+iy Wiebe I ee |
+
+t
+
+'
+
+L
+
+“4 aft th Cly-stemar
+
+Stanature of the Chairman
+3
+
+}
+
+£
+
+" ' ¢ QF cs
+2Oara OF Ores - S 4
+Lat Se ew ta dreaneiaceameaaieelEm ) STE scenes nasi ais aN,
+
+
+
+Se. Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+24ADL31 -MACHINE LEARNING LABORATORY
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+(=a . 2 . : T
+Programme & B.Tech. Artificial Intelligence and Data Science & z .
+Branch B Tech Artificial Intelligence and Machine Learning nam Cc ategory | L)T | P |SL"/Total\Credit
+Prerequisites _NNil 13 | pc [ojo 30/0/30 | 14
+Preamble he course focuses on the algorithms in machine learning and the methods to apply them in real time
+problems.
+LIST OF EXPERIMENTS / EXERCISES:
+—
+1. Create a sample dataset and explore statistical operations using Pandas and visualize the results through plots.
+2. ‘Apply preprocessing techniques for sample dataset. |
+3. Perform dimensionality reduction using PCA and SVD.
+‘4. Implement K-Nearest Neighbor Algorithm.
+5. Implement linear regression and multiple linear regression algorithms. |
+6. Implement and demonstrate decision tree based ID3 algorithm.
+7. Implement Naive Bayes algorithm. |
+8. Implement Support Vector Machine algorithm.
+9. Implement and compare the working of Random Forest classifier with Adaboost model. |
+—|
+10. Implement K-Means clustering algorithm. |
+REFERENCES/ MANUAL /SOFTWARE:
+1. Laboratory Manual |
+2. Software : Python
+COURSE OUTCOMES: BT Mapped (Highest
+On completion of the course, the students will be able to Level) _]
+| i ; Applying (K3)
+CO1 create dataset and explore statistical operations Precision ($3)
+i . . . ' Applying (K3)
+| | Igorith th led
+Cco2 pa ement supervised learning algorithms with sample dataset Precision (S3)
+. Applying (K3)
+h fe |
+SER PRP PRB GRRE ete BARE PRELIM Ut SERS SERRE Precision ($3)
+
+Mapping of Cos with POs and PSOs
+COsiPOs | PO1 | PO2 PO3 P04) POS POG PO7 PO8 PO9 | PO10 PO11 PSO1 PSO2
+col 3 2 | 2 | 2 | 1 1 2 | 1 1 3 | 2
+coz = =— 3. | 2, 2,2 1 1 2 | 1 | 1 3 2
+CO3 / 3 | 2!t2ta2ij1 1 2 | 4 | 4 3 | 2
+1 - Slight, 2 —- Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+*Includes Term Work (TW) & Online / Certification course hours
+
+Signature of the Chairman
+
+Board of Studies - (. SE IT
+
+B.Tech Artificial Intelligence and Data Science - R2024.
+
+
+
+; Kongu Engineering College, Perundurai, Erode — 638060, India.
+
+24ADL32-DATA STRUCTURES LABORATORY
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+
+Programme & ‘B.Tech. Artificial Intelligence and Data Science & ‘ .
+Branch B.Tech. Artificial Intelligence and Machine Learning oa. paieaory Lit | P |SL"/TotallCredit
+Prerequisites Nil 3. Pc joo 30/0 | 30/ 1
+
+|The course focuses on developing applications using the concepts of Linear and Non-linear Data
+Structures.
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+Preamble
+
+1. Implementation of singly linked list and its operations
+
+2. Implementation of doubly linked list and its operations |
+3 Implementation of stack and its operations
+
+4. Infix to postfix conversion using stack ADT
+
+5 Evaluating postfix expression using stack ADT oe
+6. Implementation of queue and its operations
+
+7. Implementation of binary search tree traversals
+
+8. Implementation of graph traversal techniques
+
+9. Implementation of linear and binary search algorithms
+
+10. implementation of sorting algorithms |
+
+REFERENCES/ MANUAL /SOFTWARE:
+
+f.. Operating System : Windows/Linux
+
+2. Software : C / Java
+
+3. Laboratory Manual
+
+COURSE OUTCOMES: BT Mapped (Highest
+On completion of the course, the students will be able to Level) _
+CO1 implement linear and non linear data structures to solve the given problem | Applying (K3)
+Precision(S3)
+: Applying (K3)
+
+PO? _ bse. a data Struature to implement another deta stucire : _____ Precision (S3)
+CO3 implement searching and sorting operations for a given problem Applying (K3)
+
+Precision (S3)
+
+Mapping of Cos with POs and PSOs
+
+COsiPOs | PO1 | PO2_ PO3 PO4 POS PO6 PO7 PO8 POS PO10 | PO11  PSO1 — PSO2
+Cot | 3 [2/2 2 3 2 2; 2 3 3 | 2
+con | 3 |2/2i:>2 3. fT eo te -+~2 3
+CO3 3 [2/2 2 3 7,22 2 | 3 3 >
+
+1 — Slight, 2 — Moderate, 3 Substantial, BT- Bloom's Taxonomy
+
+*Includes Term Work (TW) & Online / Certification course hours
+
+Artifici Atellig reiheee e ~R2024.
+ES eT Tare e alrman
+
+..oard of Studies - CSE iT,
+
+
+
+24ADT41 - DESIGN AND ANALYSIS OF ALGORITHMS
+(Common to Artificial Intelligence and Data Science & Artificial 2 and Machine Learning branches)
+
+Programme & B.Tech — Artificial Intelligence and Data
+exes, SL* | Total | Credit
+seine ah 15 60 120 4
+
+Branch Science & B.Tech. Artificial Intelligence and
+Machine Learning
+
+Preamble This course focuses on various algorithm design techniques and methods for analyzing the performance of
+
+algorithms.
+
+Introduction: 943 |
+
+Notion of an Algorithm — Fundamentals of Algorithmic Problem Solving — oo Problem Types — Fundamentals of the
+Analysis of Algorithm Efficiency — Analysis Framework — Asymptotic Notations and its properties - Mathematical analysis for
+Recursive and Non-recursive algorithms — Empirical analysis of algorithm — Algorithm visualization.
+
+Brute Force & Divide and Conquer: 9+3
+Brute Force: Selection sort—- Sequential search and String Matching — closest pair and convex hull problem — Divide and Conquer:
+Merge sort — Quick sort — Binary search - Multiplication of large integers and Strassen’s Matrix Multiplication — closest pair and
+convex hull problem.
+
+Unit — Ill Decrease and Conquer & Transform and Conquer:
+Decrease and Conquer: Insertion sort — Topological Sorting — Fake coin problem — Computing a Median and the Selection Problem
+— Transform and conquer: Presorting — Balanced search trees — AVL trees — 2 — 3 Trees — Heaps and Heap sort.
+
+Unit — IV Dynamic Programming & Greedy technique: 9+3
+
+Dynamic Programming: Warshall’s and Floyd’s algorithm — Optimal Binary Search Trees — Knapsack Problem and
+Memory functions — Greedy Technique: Prim’s algorithm — Kruskal’s Algorithm — Dijkstra’s Algorithm — Huffman Trees.
+
+Backtracking & Branch and Bound: 9+3
+
+Backtracking: n-Queens problem — Hamiltonian Circuit Problem — Subset Sum Problem — Branch and Bound: Assignment
+problem — Knapsack Problem — Traveling Salesman Problem — Overview of P, NP and NP-Complete Problems —
+Randomized algorithms.
+
+TEXT BOOK:
+Anany Levitin, “Introduction to the Design and Analysis of Algorithms”, 3rd Edition, Pearson Education, 2017s.
+
+Prerequisites Nil
+
+REFERENCES:
+
+1 Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein, “Introduction to Algorithms", 3rd Edition,
+E Prentice Hall of India, 2009.
+
+2 Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman, "Data Structures and Algorithms", Reprint Edition,
+: Pearson Education; 2006.
+‘includes Term Work(TW) & Online / Certification course hours
+
+Roe
+
+
+COURSE OUTCOMES:
+On completion of the course, the students will be able to
+
+BT Mapped
+(Highest Level)
+
+analyze the efficiency of algorithms using various frameworks
+
+co2 efficienc’
+
+apply brute force and divide and conquer techniques to solve various problems and analyze their
+
+Analyzing (K4)
+
+CO
+
+CO4
+
+3
+
+make use of dynamic programming and greedy techniques to solve problems
+
+solve difficult combinatorial problems with backtracking and branch &amp; bound tech
+
+Analyzing (K4)
+Applying (K3)
+
+utilize decrease and conquer and transform and conquer strategies for solving problems
+
+Applying (K3)
+Applying (K3)
+
+niques
+
+Mapping of COs with POs and PSOs
+
+PO1 PO2 PO3 | Pos | PO5 PO6 PO7 PO8 PSO1 PSO2
+Sid BEA ae a a fei
+Ste alee | ical] < wads a Gees ee ee tee Ee Ain | orms re
+
+2G | es Rel ee et tn ae inh el be A icine
+
+fae ee emcee eee epee re ren (oe ee ae ee
+Cotalai aE coe A Saeed [oes aa sea th
+1 — Slight, 2 —- Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+ASSESSMENT PATTERN - THEORY
+Rememberi | Understand | Applying Analyzing | Evaluating Creating Total %
+Catego ng (K1) % ing (K2) % K3) % K4) % K5) % K6) %
+
+me ese eens me ae ease eel pres Sa lesen gcetepee ese
+
+| me ee gee eens ee care] te Speer ae eon iri aed
+
+Pe 2 eer eee Re ae a es
+
+* +3% may be varied (CAT 1, 2 & 3-50 marks & ESE — 100 marks)
+
+100
+
+ep Nearer 2
+
+
+
+24ADT42 - OPERATING SYSTEMS
+
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech — Artificial Intelligence and Data
+Branch Science & B.Tech. Artificial Intelligence and P | SL* | Total | Credit
+Machine Learnin
+
+Prerequisites
+
+Preamble This course provides basic operating system abstractions, system call interface, process, threads, and inter-
+process communication. Various management functions of an operating system will also be explored
+
+Operating Systems Overview: lL. 9+3
+Introduction - Computer System Organization - Computer System Architecture —- Operations - Resource Management — Security
+and Protection — Virtualization - Computing Environments. Operating Systems Structures: Services — User and OS Interface —
+System Calls.
+
+| Unit-tt _—_—[| _ Process Management:
+
+Process Concept — Process Scheduling — Operations on Processes — Interprocess Communication — IPC in Shared Memory and
+Message Passing Systems. CPU Scheduling: Scheduling Criteria — Scheduling Algorithms. Multithreaded Programming: Threads
+Overview — Multicore Programming — Multithreading Models.
+
+| Unit-m Process Synchronization:
+
+The Critical Section Problem - Peterson’s solution — Hardware support for Synchronization — Mutex Locks — Semaphores — Monitors.
+Deadlocks: Deadlock Characterization — Methods for handling deadlocks - Deadlock Prevention and Avoidance — Deadlock
+Detection — Recovery from Deadlock.
+
+Unit -— IV Memory Management:
+
+Main Memory: Background — Contiguous Memory Allocation - Segmentation — Paging — Swapping. Virtual Memory: Background —
+Demand Paging — Page Replacement.
+
+Storage Management:
+
+Mass Storage Structure: Overview — HDD Scheduling. File System: File Concept — Access Methods — Directory Structure —
+Protection. File System Implementation: File System Structure — File System Operations — Directory Implementation — Allocation
+Methods - Free Space Management.
+
+TEXT BOOK:
+Silberschatz, Peter Baer Galvin and Greg Gagne, “Operating System Concepts”, Global Edition, John Wiley & Sons Inc.,
+
+REFERENCES:
+
+William Stallings, “Operating Systems Internals and Design Principles”, 9th Edition, Prentice Hall, 2018.
+
+Andrew S. Tanenbaum, “Modern Operating Systems”, 4th Edition, Pearson Education, 2016.
+
+*includes Term Work(TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to Highest Level
+
+discuss the basic structure and architectural components of the operating system and interpret .
+Goi how application programs interact with the operating system through APIs. Understanding (K2)
+apply the various scheduling algorithms and synchronization techniques to achieve better .
+performance of a computer system. Applying (K3)
+CO3 | apply deadlock detection and handling methods Applying (K3)
+
+make use of memory management strategies and apply page replacement policies to address .
+demand paging _ Applying (K3)
+
+apply the various file handling strategies to manage files on a secondary storage structure and ina .
+COS | distributed environment. Applying (K3)
+
+Mapping of COs with POs and PSOs
+
+ASSESSMENT PATTERN - THEORY
+Test / Bloom’s Remembering Understanding | Applying | Analyzing Evaluating Creating (K6) | Total
+Category* K1) % K2) % K3) % K4) % K5) % % %
+
+* +3% may be varied (CAT 1, 2 & 3— 50'marks & ESE — 100 marks)
+
+1 -— Slight, 2 —- Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+lo)
+Oo
+
+100
+
+Se
+Ne UN ee
+RN ONE as mA,
+ee
+
+Signature of the Chairman
+
+Board of Stu dies _ hai ja T
+— et anes TES shieailieeled ‘ j
+
+
+
+24ADT43 - DATABASE MANAGEMENT SYSTEMS
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech — Artificial Intelligence and Data
+Branch Science & B.Tech. Artificial Intelligence and Sem. | Category | L | T | P| SL* | Total | Credit
+
+Machine Learning
+
+Prerequisites Nil 4 PC 45|o|o| 45 | 90 | 3 |
+
+Preamble The course provides an emphasis on how to organize, maintain and retrieve information from a database
+management system more efficiently and effectively.
+
+Unit -I Basics of Database and Relational Model:
+Introduction — Database System Applications — Purpose of database systems — View of data - Database Languages Database
+Architecture — Database Users and administrators — Relational Model — Structure of Relational Databases - Database Schema—
+Keys — Schema Diagrams — Relational Query Languages — Relational Algebra.
+
+SQL and Database Design:
+SQL: Basic structure — Operations — Aggregate Functions — Nested Sub queries — Modification of the database — Intermediate
+SQL: Joins — Views— Integrity Constraints - SQL data types and schemas — Index— Authorization- Database Design: ER model —
+Constraints — ER diagrams — Reduction to Relational Schema — ER design issues.
+Relational Database Design:
+
+Features of good relational designs — Functional dependency — Decomposition using functional dependencies — Normal Forms:
+1NF, 2NF, 3NF, BCNF, 4NF, SNF.
+
+Unit - IV Indexing and Query Processing: [Eames ) ]
+Ordered indices— B+ Tree index files— B tree index files — Multiple key access— Bitmap indices — Overview of Query Processing-
+Measures of Query cost.
+
+Transaction concept — Transaction model —Storage structure — Transaction atomicity and durability — Isolation — Serializability—
+Conflict Serializability-View Serializability-Concurrency control: Lock-based Protocols-Deadlock Handling.
+
+TEXT BOOK:
+1 Silberschatz Abraham, Korth Henry F. and Sudarshan S., "Database System Concepts", 7th Edition, McGraw Hill, New York,
+
+2019.
+REFERENCES:
+
+Elmasri Ramez and Navathe Shamkant B., "Fundamental Database Systems", 6th Edition, Pearson Education, New
+Delhi, 2010.
+
+Date C.J., Kannan A. and Swamynathan S., "An Introduction to Database Systems", 8th Edition, Pearson Education, New
+Delhi, 2006.
+
+*includes Term Work(TW) & Online / Certification course hours
+
+s
+
+
+
+COURSE OUTCOMES: BT Mapped
+
+On completion of the course, the students will be able to (Highest Level)
+co1 design a relational model for a given application Applying (K3)
+CcO2 design an ER model and write SQL queries for a given scenario Applying (3)
+CO3 design a relational database using normalization methods for a given application Applying (63)
+Cco4 apply indexing techniques in the design of relational database Applying (K3)
+CO5 apply the concept of concurrency control in transaction processing Applying (K3)
+
+Mapping of COs with POs and PSOs
+
+ae eae [Sse Ere ee ee
+<2 ea a ee es ee,
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+ASSESSMENT PATTERN - THEORY
+Test / Bloom’s Remembering Analyzing Evaluating Creating (K6) | Total
+Category* K1) % K2) % K3) % K4) % K5) % % %
+ee aaa caren ee
+
+* +3% may be varied (CAT 1, 2 & 3-50 marks & ESE — 100 marks)
+
+
+
+ne 24ADC41 - WEB TECHNOLOGY
+
+(Common to Artificial Intelligence and Data Science &Artificial Intelligence and Machine ‘Learning branches)
+
+B.Tech — Artificial Intelligence and Data
+Programme | Science & B.Tech - Artificial Intelligence and Category | L T SL* | Total | Credit
+& Branch Machine Learning
+ed CTI
+
+This course provides a concise introduction to the fundamental concepts of data analysis using IE BI
+PUnit=1 | JavaScript
+
+Introduction — Operators — Control Structures — Repetition — break and continue. Functions: Function Definition — Scope — -
+Recursion. Array: Basics — Growing Arrays — Passing Arrays to Function —map-filter - reducer- Event Handling — DOM — Local Storage.
+
+| Unit-Il | Advanced JavaScript:
+
+Error handling — try -catch —finally -Callback — Callback hell — promises — await and async — Destructuring objects- OOPS- this
+keyword — closures- Lexical scope - API Integration with AXIOS.
+
+Unit — Ill Server-side JS Framework:
+
+Node JS: Introduction — Architecture — Features — Creating Web Servers with HTTP Request — Response — Event Handling -GET
+and POST Methods — Modules — Express: Routing — Middleware — Error Handling. MongoDB: Basics- Connect to NoSQL Database
+using Node JS — Implementation of CRUD operations.
+
+Unit — IV ReactJS — Features:
+
+React: Introduction — Installation — createReact app - components — importing and exporting components - props — props validation
+— conditional rendering - managing state - component Life cycle — Events - React Router — map -List — keys.
+
+Unit -V ReactJS - Hooks:
+Introduction to hooks - Rules of hook - Building hooks- useState — useEffect — useReducer — userefs - usecontext — Forms —controlled
+
+and uncontrolled component - Hooks API integration.
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+Perform form validation using JavaScript.
+
+Integrate API in a webpage using JavaScript.
+
+Design a web application using HTTP Request and HTTP Response.
+
+Develop an application using GET and POST method in NodeJS.
+
+Implement CRUD operations using MongoDB and NodeJS.
+
+Design a web application using components, modules and router in React.
+
+Mini Project: Design and develop web application using client-side framework react and host it free hosting service.
+
+TEXT BOOK:
+
+Paul Deitel, Harvey M.Deitel and Abbey Deitel, “Internet and World Wide Web - How To Program”, 5th Edition,
+
+Prentice Hall, 201 1-for Unit I.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript for Unit II.
+Infosys campus connect material shared by infy for Unit III.
+https://react.dev/learn for Units IV and V.
+
+REFERENCES/ MANUAL / SOFTWARE:
+
+Wieruch, Robin, “The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js.”,
+Edition,Germany, Lean Publishing, 2017.
+
+Operating System : Windows/Linux
+
+Software: MongoDB, NodeJS, Express and React
+
+Laboratory Manual
+
+*includes Term Work(TW) & Online / Certification course hours
+
+
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+Applying (K3)
+
+develop an interactive and dynamic web pages using JavaScript. Precision (S3)
+
+Applying (K3)
+Precision (S3)
+Applying (K3)
+Precision (S3
+Applying (K3)
+Precision (S3)
+Applying (K3)
+Precision (S3
+
+apply JavaScript features and integrate API in a website.
+
+create a web application using NodeJS with database connectivity.
+
+Make use of react features to create components, modules and state management.
+
+Build a web application for real world problems using React Library.
+PSOs
+
+Mapping of COs with POs and PSOs
+
+Cco1 3 2 2
+CO2 3 2 2
+[2
+:
+
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+| ef] em
+
+Category* (K1) % (K2) % (K3) % (K4) % (K5) % %
+A OO
+a
+Dee fm a Si
+
+* +3% may be varied (CAT 1, 2 & 3-50 marks & ESE — 100 marks)
+
+4
+
+—S —+
+
+omen
+
+Signature of the Chairman
+
+QT
+
+ard of Studies -
+
+
+
+24ALC41- DEEP LEARNING
+(Common to Artificial Intelligence and Data Science & Artificial Intelligence and Machine Learning branches)
+
+Programme & B.Tech — Artificial Intelligence and Data Senn T t
+
+Branch Science & B.Tech. Artificial Intelligence and Category | L | T SL* 7 Credit
+Machine Learning ;
+
+Prerequisites (Ni SSSS*~—~sS |e af | 30 | 8 | 20 |
+
+Preamble This course is designed to impart the skills required to build different deep neural network EARS
+
+Perceptron and Gradient Based Learning:
+Perceptron: Two-Input Perceptron - The Perceptron Learning Algorithm -Limitations of the Perceptron -Combining Multiple
+Perceptrons - Implementing Perceptrons with Linear Algebra - Bias Term. Gradient-Based Learning: Intuitive Explanation of the
+Perceptron Learning Algorithm - Derivatives and Optimization Problems - Solving a Learning Problem with Gradient Descent -
+Constants and Variables in a Network - Analytic Explanation of the Perceptron Learning Algorithm - Perceptron to Identify
+Patterns
+
+pagation and Classification:
+
+Sigmoid Neurons And Backpropagation: Modified Neurons to Enable Gradient Descent for Multilevel Networks - Activation
+Function - Function Composition and the Chain Rule - Using Backpropagation to Compute the Gradient - Backpropagation with
+Multiple Neurons per Layer - Programming Example: Learning the XOR Function - Network Architectures. Classification-
+Datasets used in training network - Hyperparameter Tuning and Test Set Information Leakage - Training and Inference -
+Extending the Network and Learning Algorithm for Multiclass Classification - Network for Digit Classification - Loss Function for
+Multiclass Classification - Programming Example: Classifying Handwritten Digits - Mini-Batch Gradient Descent
+[| Unit-I___—|_ Deep Learning Frameworks andRegression: CT
+DL frameworks: Programming Example: Moving to a DL Framework - The Problem of Saturated Neurons and Vanishing
+Gradients - Initialization and Normalization Techniques to Avoid Saturated Neurons - Cross-Entropy Loss Function to Mitigate
+Effect of Saturated Output Neurons - Different Activation Functions to Avoid Vanishing Gradient in Hidden Layers - Experiment:
+Tweaking Network and Learning Parameters - Hyperparameter Tuning and Cross-Validation. Regression: Output Units- The
+Boston Housing Dataset - Programming Example: Predicting House Prices with a DNN - Improving Generalization with
+Regularization - Experiment: Deeper and Regularized Models for House Price Prediction
+| Unit-IV___|_ Convolutional Neural Networks And Pretrained Model:
+CNN: The CIFAR-10 Dataset - Characteristics and Building Blocks for Convolutional Layers - Combining Feature Maps into a
+Convolutional Layer - Combining Convolutional and Fully Connected Layers into a Network - Effects of Sparse Connections and
+ee Sharing - Programming Example: Image Classification with a Convolutional Network.
+
+Recurrent Neural Networks: peiae Oat
+were of Feedforward Networks - Recurrent Neural Networks - Mathematical eniesentalian of a Recurrent Layer -
+Combining Layers into an RNN - Alternative View of RNN - Backpropagation Through Time - Programming Example: Forecasting
+Book Sales - Dataset Considerations for RNNs. LONG SHORT-TERM MEMORY: Introduction to LSTM - LSTM Activation
+Functions - Creating a Network of LSTM Cells - Alternative View of LSTM - Encoding Text- Longer-Term Prediction and
+Autoregressive Models- Beam Search- Programming Example: Using LSTM for Text Autocompletion
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+Implement a Deep Neural Networks(DNN) for regression problems
+: Implement Convolutional neural networks and use them to classify images
+Implement Recurrent neural networks for prediction problems
+
+Implement LSTM to predict next word
+Develop a mini project using DL Architectures
+
+TEXT BOOK:
+
+NYO
+
+1 Magnus Ekman, Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, NLP, and
+: Transformers using TensorFlow, Addison —Wesley, 1st edition, 2021
+
+REFERENCES:
+ale
+
+Aggarwal, Charu C, “Neural Networks and Deep learning”, Springer Cham, 1st Edition, 2018.
+Lovelyn, S., Rose, L. Ashok kumar, D. KarthikaRenuka, Deep Learning using Python, Wiley India Pvt. Ltd., First
+
+- Edition, 2019..
+3. Operating System : Windows/Linux |
+4.
+
+SoftWare: Python |
+*includes Term Work(TW) & Online / Certification course hours
+
+
+
+= 4
+
+COURSE OUTCOMES: BT Mapped
+On completion of the course, the students will be able to (Highest Level)
+co1 make use of perceptron and Gradient-Based Learning for classification
+make use of back propagation and classification to solve real world problems s
+CO3 apply different deep learning frameworks to solve real world problems
+
+co4 sorely the concepts of CNN models and apply it for solving computer vision related BUR
+; : ; Applying (K3)
+
+h
+ae the concepts of RNN models and apply it for solving Natural Language Precision(S3)
+
+Mapping of COs with POs and PSOs
+
+[°GHED® [ror roa [ros | pow | os | roe [ vor | vos | ron [rove wor] peor | soa
+gl a il 3h: alee Burl liga en ab bool ee sac
+
+2602. | a) Sopp foams o gi=ci|= miee pire can es, lapiess apo 2
+opis | ale Gila i) aol oo Deluna 2
+com | 3 [Pee | Sa rte a Loa
+i 8 amr ad meg free tre eet ee yaar ee
+
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom’s Taxonomy
+
+ASSESSMENT PATTERN - THEORY
+
+Understanding | Applying | Analyzing | Evaluating -
+KA) % Kemer el ala
+
+Test / Bloom’s Remembering
+
+Category” (K1) %__
+CAT1 f
+
+CAT2
+
+
+
+24ADL41 —- DATABASE MANAGEMENT SYSTEMS LABORATORY |
+(Common to Artificial Intelligence and Machine Learning & Artificial Intelligence and Data Science branches) |
+
+Programme & B.Tech. Artificial Intelligence and Machine » | Total | Credit |
+Branch Learning & B.Tech. Artificial Intelligence Sein) Sateery) | Ge | ae
+and Data Science
+Prerequisites NIL 4| pc |o]|o {30} 0 30 | 1
+Preamble This course provides hands-on experience in applying machine learning algorithms for real world |
+problems.
+LIST OF EXPERIMENTS / EXERCISES:
+1. Demonstrate Data Definition Language and integrity constraints.
+2. Demonstrate Data Manipulation Language commands.
+3. Demonstrate Data Control Language and Transaction Control Language commands.
+4. Execute nested and sub queries in SQL.
+5. Demonstrate Join operations in SQL.
+6. Create Views and index and perform SQL operations in it.
+T Implement Cursors and its types
+8. Implement Triggers and its operations.
+9. Demonstrate the concept of looping using PL/SQL statements.
+
+10. Develop Procedures and Functions to perform operations in SQL.
+
+REFERENCES/ MANUAL ISOFTWARE:
+
+1. Front End: Microsoft .NET Framework SDK v2. 0, Java etc.,
+2. Back End: ORACLE / MYSQL
+3. Marae: https://docs.oracle. erica 1882 -OtiSeever: 112/e41085. ade
+4. Laboratory Manual
+COURSE OUTCOMES: - | BT Mapped
+On completion of the course, the students will be able to : i. _(Highest Level) _
+Cco1 develop SQL commands to create and manipulate databases | ees
+] :
+CO2 | execute queries using concepts of PL/SQL ish i week
+-
+CO3 | execute queries using the concepts of triggers and cursors in PL/SQL | eee
+Mapping of Cos with POs and PSOs
+s/PO | | |
+es Sh PO1 | PO2 | PO3 | PO4 PO5 | PO6 | PO7 | PO8; PO9 | PO10 | PO11 PSO1  PSO2 |
+| | |
+T
+cor| 3 | 2/2i{2/ 2/1 | Eee ae 0 3 | 2
+‘i i] |
+Goa ova) 3h a] | Bees ee i>
+ce oe Le le ee | ae wee a0) Se
+1 — Slight, 2 - Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+*includes Term Work(TW) & Online / Certification course hours
+
+
+
+24EGL44 - COMMUNICATION SKILLS LABORATORY
+
+(Common to all Engineering and Technology branches)
+
+Programme &
+Branch
+
+All B.E/B.Tech branches Sem Category
+
+Prerequisites
+
+Credit
+
+NIL 415 HS
+
+1
+
+Preamble This course is designed to impart necessary skills to listen, speak, read and write in order to acquire
+better professional communication skills, soft skills and verbal aptitude skills.
+
+LIST OF EXPERIMENTS / EXERCISES:
+
+Self Introduction & Mock Interviews
+
+Resume Writing - One Page Resumes and Conventional Resumes
+
+Reading Aloud: Techniques and Practices
+
+1. Lab Manual
+
+Group Discussions
+Book/Movie Reviews
+Soft Skills (Computer Based Test)
+Listening Test (Computer Based Test)
+Verbal Aptitude (Computer Based Test)
+
+| REFERENCES/MANUAL/SOF TWARE:
+
+‘Presentation: Technical Topics/Case Studies
+
+Situational Dialogues/Conversational Practices
+
+COURSE OUTCOMES:
+On completion of
+
+cee skills
+
+the course, the students will be able to /
+acquire career-related soft skills and verbal skills :
+
+enhance essential professional and workplace communication
+
+2. Orell Talk Corporate Language Lab Software
+
+t
+
+CO3
+
+communicate effectively in English in different contexts
+
+Mapping of Cos with POs and PSOs
+
+BT Mapped
+(Highest Level)
+Understanding (K2),
+
+Imitation (S1)
+Applying (K3),
+Naturalization (S5)
+
+Articulation (S4)
+
+Applying (K3), =
+
+
+
+24GCL41 - PROFESSIONAL SKILLS TRAINING - I
+
+(Common to all Engineering & Technology Branches) 1
+oe & | all B.E/B.Tech Branches Sem. | Category | L | T|P | SL* | Total | Credit
+Prerequisites _| Nil 4 Ec |0 |0|45| 35 | 80 2
+Preamble | This subject is to enhance the employability skills and to develop career competency.
+
+Unit - 1 Soft Skills - | | 20
+
+Soft skills and its importance: Pleasure and pains of transition from an academic environment to work environment-Need for
+change- Fear, stress and competition in the professional world-Importance of positive attitude- Self motivation and continuous
+knowledge upgradation-Self-confidence. Professional grooming and practices: Basics of corporate culture-Key pillars of business
+etiquette- Basics of etiquette-Introductions and greetings-Rules of the handshake, earning respect, business manners-Telephone
+etiquette- Body Language.
+
+Unit - Il Quantitative Aptitude & Logical Reasoning - | | 30
+
+Problem solving level I: Quantitative Aptitude: Numbers, H.C.F. and L.C.M. of Numbers, Square Root and Cube Root,
+Simplification, Percentage, Average, Ratio and Proportion, Partnership, Profit and Loss, Alligation or Mixture, Permutations and
+Combinations, Probability. Logical Reasoning : Series, Analogy, Coding Decoding, Directions Decision Making, Blood Relations.
+
+TEXT BOOK:
+
+4 Nishit Sinha, Dinesh Khattar& Showick Thorpe, “Placement Training Companion: Think. Solve. Succeed”, Pearson
+; Education 2025
+
+REFERENCES:
+1. | Dr. R.S. Agarwal, “Quantitative Aptitude for Competitive Examinations”. S. Chand publications New Delhi, 2025.
+9 Gopalaswamy Ramesh & Mahadevan Ramesh - The Ace of Soft Skill: Attitude, Communication and Etiquette for Success,
+: Pearson Education, 2024.
+COURSE OUTCOMES: BT Mapped
+_On completion of the course, the students will be able to _ (Highest Level) __
+develop the soft skills of learners to support them work efficiently in an organization as an Applying(K3),
+CcO1 se,
+individual and as a team. Precision(S3)
+, 5 : 3 Applying(K3),
+CO2_ | solve real time problems using numerical ability. Precision(S3
+. . . . . —e . Applying(K3),
+CO3_ | solve basic problems in logical reasoning by applying standard problem-solving techniques. Precision(S3
+
+Mapping of COs with POs and PSOs
+
+4 — Slight, 2 —- Moderate, 3 — Substantial, BT- Bloom's Taxonomy
+
+ASSESSMENT PATTERN - THEORY
+
+Test / Bloom’s Remembering | Understanding | Applying | Analyzing | Evaluating ] Creating Total %
+Category* (K1) % (K2) % (K3) % (K4) % (K5) % (K6) % °
+CAT1 50 50 100
+CAT2 50 50 100
+CAT3 50. 50 _ 100 |
+ESE NA
+
+* 43% may be varied (CAT 1,2& 3- -50 rier)
+
+|
+
+Signature of the Chairman
+Board of St dies - CS
+

@@ -1,0 +1,159 @@
+ANSWERS FOR Q3.TXT - MCA SPECIFIC QUESTIONS
+
+Questions 1-15 Response:
+
+R2024-MCA Regulations apply if you joined MCA in 2024.
+
+Yes, regulation can change if you take break of study - you'll be governed by regulations in force at the time of rejoining.
+
+Duration: MCA should be completed in 2 years (4 semesters) normally, but not more than 4 years (8 semesters).
+
+Extension not permitted beyond 8 semesters.
+
+Minimum 84 credits required to complete MCA programme.
+
+6-9. Bridge courses:
+
+Yes, compulsory for non-CS/IT/CA background students
+Four bridge courses: Problem Solving Techniques, C++ Programming, Computer Organization, Discrete Mathematics
+No credits assigned - they are non-credit courses
+Evaluated through 2 continuous assessment tests (50 marks each)
+NOT included in CGPA calculation
+10-12. Electives: Number specified in curriculum. Can choose from Professional Electives (PE). Exemptions possible if you earn required credits through one/two credit courses, online courses, or self-study courses in advance (up to third semester).
+
+13-15. Credit limits:
+
+Maximum 30 credits per semester
+Maximum 15 credits total through one/two credit, online, and self-study courses
+Maximum 6 credits through Add/Drop courses during entire programme
+Must earn total credits specified in curriculum
+Questions 16-30 Response:
+
+16-18. Attendance: BOTH semester-wise AND subject-wise:
+
+80% overall attendance required
+60% minimum per course required
+19-20. Medical condonation:
+
+Yes, if you have 70%+ attendance, can apply with medical certificate and condonation fee
+Can avail twice during entire MCA programme
+21-24. Startup concession:
+
+Not explicitly mentioned in MCA regulations provided
+Other programmes show startup concession - check with institution
+25-26. Lab attendance: Yes, 60% required in each course. Lacking lab attendance prevents writing that course's exam specifically.
+
+27-30. Mini Project:
+
+MCA has Mini Project as part of curriculum
+Evaluated: 50% continuous assessment + 50% end semester (viva-voce)
+Semester offerings specified in curriculum
+Failure: Must redo in subsequent semester when offered
+Questions 31-45 Response:
+
+Yes, can be repeated if failed - must reenroll and satisfy attendance requirements.
+32-33. Internship:
+
+Projects through Internships option available
+Submit report and certificate from organization
+Evaluated: continuous assessment (50%) + viva-voce (50%)
+Yes, project marks included in CGPA.
+35-37. Project submissions:
+
+Non-submission by specified date = deemed failed, must redo
+<50% in internal (CA) = cannot submit report, must redo with attendance
+Fail viva (<50% ESE) = resubmit report within 30 days, fresh viva-voce
+Publication NOT mandatory for MCA Mini Project (unlike ME/MTech where it's required for major project).
+39-41. Online courses:
+
+Yes, allowed from NPTEL/SWAYAM/approved agencies
+Maximum 15 credits through all one/two credit, online, and self-study courses combined
+Yes, affect CGPA - credits transferred and grades assigned
+42-45. Audit courses:
+
+Optional courses not in your curriculum, taken without grade pressure
+Maximum one per semester, two total during programme
+NO effect on GPA/CGPA
+Grade: SC (Successfully Completed) if performance grade achieved
+Questions 46-60 Response:
+
+46-48. Passing requirements:
+
+50% total (CA + ESE combined)
+Minimum 45% in ESE - YES, ESE passing mandatory
+Yes, internal marks carried forward from first attempt (valid until 4th attempt)
+49-52. Withdrawal:
+
+Yes, allowed once during entire programme
+Must apply before last examination of semester
+Does NOT count as attempt for classification
+Cannot withdraw in final semester
+53-54. Absence:
+
+Marked as AB (Absent), treated as fail
+Counted for classification - considered as appeared attempt
+55-56. Grade improvement: NOT allowed - once passed, cannot reappear for improvement.
+
+57-60. GPA/CGPA:
+
+GPA = Σ(credit×grade points in semester) ÷ Σ(credits in semester)
+CGPA = Σ(credit×grade points all semesters) ÷ Σ(credits all semesters)
+Only computed when all courses passed
+CGPA to percentage conversion not specified in provided context
+Questions 61-75 Response:
+
+61-62. Classification (based on MSc pattern shown - MCA likely similar):
+
+First Class: CGPA ≥ 6.50 (complete within 12 semesters)
+Distinction: CGPA ≥ 8.50 (all courses first appearance within consecutive semesters)
+63-64. Arrears and withdrawal:
+
+Yes, arrears disqualify for Distinction (requires all first-time passes)
+Withdrawal does NOT count as appearance for classification
+65-67. Break of study:
+
+Yes, allowed for valid reasons
+Once normally for max 1 year; extraordinary: additional 1 year with fee
+Yes, counted in maximum duration (still cannot exceed 8 semesters total)
+68-69. After rejoining:
+
+Regulations in force at rejoining time apply
+Yes, additional/equivalent courses may be prescribed to bridge old and new curriculum
+70-71. Non-reporting:
+
+Not reporting for two consecutive semesters without intimation
+Name deleted permanently - no readmission allowed
+72-74. Grade withholding:
+
+Yes, can be withheld if unsettled dues, pending disciplinary case, or other valid reasons
+Disciplinary action pending prevents degree award
+Results generally cannot be changed after declaration without proper revaluation process.
+Questions 76-90 Response:
+
+76-78. Revaluation and supplementary:
+
+Yes, revaluation allowed for Theory and Theory-cum-Practical courses with ESE
+Yes, photocopy of answer script - apply with fee, faculty reviews, then apply for revaluation
+Supplementary exams: Yes, for project viva failures (resubmit within 30 days)
+79-80. Graduation eligibility:
+
+Cannot graduate with pending courses
+Must have: (i) Successfully completed all courses (ii) Earned minimum 84 credits within stipulated time (iii) Passed additional prescribed courses if any (iv) No pending disciplinary action
+Approvals:
+Regulations: Academic Council of Kongu Engineering College
+Programme approved by Anna University and AICTE
+82-84. Regulation authority:
+
+Academic Council reserves right to modify/amend regulations without notice
+Final authority: Academic Council
+Department must follow institutional regulations
+85-87. Regulation changes:
+
+College can change regulations without notice
+Students responsible for compliance
+Department cannot override - must follow regulations
+88-90. Degree award:
+
+Degree awarded after satisfying all eligibility conditions
+Timing per institutional procedures
+Subject to disciplinary clearance and completion of all requirements

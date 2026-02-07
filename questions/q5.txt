@@ -1,0 +1,86 @@
+1. Which regulation applies if I joined MSc 5-year in 2024?
+2. What is the total duration of the programme?
+3. What is the maximum duration allowed?
+4. What happens if I exceed maximum duration?
+5. How many total credits are required to graduate?
+6. Is attendance calculated semester-wise or course-wise?
+7. What is minimum attendance required overall?
+8. What is minimum attendance per course?
+9. Can medical reasons reduce attendance?
+10. How many times can medical condonation be used?
+11. Is startup attendance concession allowed?
+12. What is minimum attendance for startup students?
+13. Who approves startup attendance?
+14. What happens if one course attendance is low?
+15. Do lab courses have separate attendance?
+16. Can I pass theory if lab attendance is short?
+17. What are employability enhancement courses?
+18. Are professional skills training courses mandatory?
+19. How many credits do skill training courses carry?
+20. Can startup replace skill training?
+21. How are startups evaluated?
+22. Is internship mandatory?
+23. Can internship replace project?
+24. How many credits does internship carry?
+25. What happens if internship certificate is missing?
+26. What is Mini Project?
+27. What happens if I fail Mini Project?
+28. What is Project Work I and II?
+29. Are project marks included in CGPA?
+30. Is publication mandatory for MSc project?
+31. What happens if project report is late?
+32. Can project be repeated?
+33. What are audit courses?
+34. How many audit courses can I take?
+35. Do audit courses affect CGPA?
+36. What grade is given for audit course?
+37. What are mandatory courses?
+38. Do mandatory courses affect CGPA?
+39. What is minimum mark to pass a course?
+40. Is ESE passing mandatory?
+41. Are internal marks retained for arrears?
+42. From which attempt grade is capped?
+43. Is revaluation allowed?
+44. Is photocopy of answer script allowed?
+45. Can I withdraw from exams?
+46. How many times can withdrawal be used?
+47. Can I withdraw final semester project viva?
+48. Does withdrawal affect classification?
+49. Is absence treated as attempt?
+50. Can I improve grade after passing?
+51. How many times grade improvement allowed?
+52. How is GPA calculated?
+53. How is CGPA calculated?
+54. Is CGPA calculated if arrears exist?
+55. How is CGPA converted to percentage?
+56. What CGPA is required for First Class?
+57. What CGPA is required for Distinction?
+58. Do arrears affect distinction?
+59. Does withdrawal affect distinction?
+60. Can I take break of study?
+61. How many times break allowed?
+62. Is break counted in max duration?
+63. Which regulation applies after rejoining?
+64. Can extra courses be imposed after rejoining?
+65. What happens if I don’t report for two semesters?
+66. Can my name be removed permanently?
+67. Can grades be withheld?
+68. Under what conditions grades are withheld?
+69. What happens if disciplinary case exists?
+70. Can results be changed later?
+71. Are supplementary exams allowed?
+72. Can I write arrears with regular exams?
+73. Can I graduate with arrears?
+74. What are final eligibility conditions for degree?
+75. Who approves regulations?
+76. Can regulations be amended anytime?
+77. Can amendments apply mid-course?
+78. Who resolves rule conflicts?
+79. Can department override regulations?
+80. Are students informed about changes?
+81. Is ignorance of rules accepted?
+82. Can degree be cancelled later?
+83. When is degree officially awarded?
+84. Is provisional certificate issued?
+85. When is consolidated marksheet issued?
+90. Can students appeal academic decisions?

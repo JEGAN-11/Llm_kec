@@ -1,0 +1,90 @@
+1. If I joined in 2024, which regulation applies to me?
+2. Can my regulation change in the middle of my course?
+3. What happens if a new regulation is released while I am studying?
+4. How many years do I actually have to finish the degree if I get arrears?
+5. Is the maximum duration counted including breaks of study?
+6. If I fail one subject every semester, can I still finish within max duration?
+7. What is the minimum total credit needed to get the degree?
+8. Can I graduate if I miss just one mandatory course?
+9. Is attendance calculated course-wise or semester-wise?
+10. If my overall attendance is 80% but one subject is 60%, can I write exams?
+11. If I have 74% attendance overall, am I automatically detained?
+12. Can attendance shortage be adjusted using medical + OD together?
+13. How many times can I use medical attendance condonation?
+14. If I already used medical condonation once, can I use it again?
+15. Is startup attendance concession different from medical?
+16. If I have 62% attendance because of startup work, am I eligible?
+17. Who approves startup attendance concession?
+18. If my attendance is below 70% even for startup, what happens?
+19. Do lab courses also have attendance rules?
+20. Is attendance counted separately for theory and lab?
+21. What happens if I miss lab attendance but attend theory?
+22. What is the minimum mark to pass a subject?
+23. If I get 50 overall but fail ESE, do I pass?
+24. If I pass ESE but fail internal, do I pass?
+25. Are internal marks carried forward for arrear exams?
+26. If I repeat a course, do old marks matter?
+27. Can I improve my grade after passing a subject?
+28. Is grade improvement allowed for all subjects?
+29. How many times can I attempt grade improvement?
+30. If I improve a grade, which grade is considered?
+31. Does withdrawal from exam count as an attempt?
+32. Can I withdraw after writing one exam of the semester?
+33. Can I withdraw from final semester exams?
+34. If I am absent for an exam, is it treated as fail or withdrawal?
+35. Does absence affect my degree classification?
+36. Can I take a break of study for personal reasons?
+37. How many semesters can I take break of study?
+38. Is break of study included in maximum duration?
+39. If I take break of study, do regulations change for me?
+40. Can I rejoin with juniors after break of study?
+41. How many credits can I register in one semester?
+42. Can I overload credits to finish early?
+43. Is permission required to take extra credits?
+44. What happens if I register less than minimum credits?
+45. Are online courses counted towards degree credits?
+46. Is there a limit for online / MOOC credits?
+47. Do audit courses affect GPA or CGPA?
+48. What grade is given for audit courses?
+49. If I fail an audit course, what happens?
+50. Is GPA calculated if I have arrears?
+51. How is GPA calculated exactly?
+52. How is CGPA calculated across semesters?
+53. How is CGPA converted to percentage?
+54. Which CGPA is required for First Class?
+55. Which CGPA is required for Distinction?
+56. If I take more attempts, will distinction be affected?
+57. Does withdrawal affect classification?
+58. Are disciplinary cases reflected in marksheet?
+59. Can my degree be withheld?
+60. Under what conditions are grades withheld?
+61. Who decides the final result approval?
+62. Can results be cancelled after declaration?
+63. What happens if malpractice is proved?
+64. Are project marks included in CGPA?
+65. What happens if I fail project viva?
+66. Can I resubmit project?
+67. Can internship replace project work?
+68. Is internship mandatory?
+69. How is internship evaluated?
+70. What happens if internship report is not submitted?
+71. Can I change project guide?
+72. Is project evaluated internally or externally?
+73. What happens if I miss project review?
+74. Can I graduate with one pending project component?
+75. Who has authority to change regulations?
+76. Can regulations be relaxed for special cases?
+77. Are grace marks allowed?
+78. Can rules be overridden by college?
+79. Who resolves regulation interpretation issues?
+80. Is the regulation document final or can it be challenged?
+81. If two rules conflict, which one applies?
+82. Can department rules override regulations?
+83. Is there any appeal process for exam decisions?
+84. What happens if results are delayed?
+85. Can students request revaluation?
+86. Is photocopy of answer script allowed?
+87. Do practical exams have revaluation?
+88. Are end semester exams centralized?
+89. Can marks be changed after grade sheet is issued?
+90. When is the degree officially awarded?
