@@ -1,0 +1,140 @@
+ANSWERS FOR Q2.TXT - BSc SPECIFIC QUESTIONS
+
+Questions 1-15 Response:
+
+R2024-BSc Regulations apply if you joined BSc in 2024.
+
+Maximum duration: BSc degree must be completed in 3 years (6 semesters) normally, but not more than 5 years (10 semesters).
+
+3-4. Exceeding maximum duration: Extension beyond 5 years shall not be permitted. You cannot continue after max duration.
+
+5-6. Credits required: Total credits specified in curriculum must be earned. Cannot graduate with credit shortage - all required credits mandatory.
+
+7-8. Attendance calculation: BOTH semester-wise AND subject-wise:
+
+80% overall attendance required (semester-wise)
+60% minimum per course required (subject-wise)
+If overall is fine but one subject is low (<60%), you cannot write that course's exam
+9-11. Minimum attendance:
+
+Standard: 80% overall
+Medical condonation: 70% overall (can avail only once during entire BSc programme)
+Must also maintain 60% in each course
+Startup concession for BSc: Yes, applicable. Need 60% overall attendance with review committee recommendation and Principal approval.
+
+62% attendance: If for startup reasons and you have 60%+ in each course, you may be eligible with approval. Otherwise, you are detained.
+
+14-15. Practical/lab attendance: Yes, 60% attendance required separately in each course including labs. Missing lab attendance prevents you from appearing for that specific course exam.
+
+Questions 16-30 Response:
+
+16-17. Passing requirements:
+
+50% total marks (CA + ESE combined)
+Minimum 45% in ESE - YES, ESE passing is mandatory
+18-19. Internal marks for arrears: YES, carried forward. Continuous assessment marks from first attempt are retained and valid for subsequent attempts (until 4th attempt when only ESE marks count).
+
+20-22. Grade improvement: NOT allowed. Once you pass, you cannot reappear for improvement of grades/marks.
+
+23-25. Withdrawal:
+
+Yes, allowed once during entire programme for valid reasons
+Must apply before last examination of semester
+Does NOT count as attempt for classification purposes
+26-27. Absence: Marked as AB (Absent), treated as fail, and counts as an attempt.
+
+28-30. Break of study:
+
+Yes, allowed for valid reasons (hospitalization, medical emergencies)
+Maximum one year normally, can extend to two years in extraordinary situations
+YES, counted in maximum duration (total still cannot exceed 10 semesters)
+Questions 31-45 Response:
+
+Rejoin with different batch: Yes, after break of study, you rejoin and are governed by regulations in force at time of rejoining.
+32-34. Credit limits per semester:
+
+Maximum 30 credits per semester
+Additional courses limited to 8 credits total during entire programme (Add/Drop option)
+Minimum credit requirements must be met to progress
+35-36. Online courses:
+
+Yes, allowed from NPTEL/SWAYAM/approved agencies
+Credits transferred and grades assigned accordingly
+Maximum 24 credits through all value-added, online, and self-study courses combined
+37-39. Audit courses:
+
+NO effect on GPA/CGPA - no grade points assigned
+Grade given: SC (Successfully Completed) if performance grade obtained
+Failing audit course: Does not matter - won't be listed in grade sheet
+40-45. GPA/CGPA and Classification:
+
+GPA = Σ(credit×grade points in semester) ÷ Σ(credits in semester)
+CGPA = Σ(credit×grade points all semesters) ÷ Σ(credits all semesters)
+CGPA calculated from first semester through final semester
+GPA/CGPA only computed for candidates who passed all courses
+First Class with Distinction requires passing all courses in first appearance within consecutive semesters
+Number of attempts DOES affect classification - multiple attempts disqualify from Distinction
+Questions 46-60 Response:
+
+Arrears for graduation: No - must successfully complete all courses and earn required credits to graduate.
+47-48. Grades withheld: Yes, grades may be withheld if:
+
+Unsettled dues
+Pending disciplinary case
+Any other valid reason
+49-50. Result approval: Controller of Examinations handles examination processes. Results generally cannot be changed after grade sheet issued without proper revaluation.
+
+Malpractice: Liable for punitive action as per examination rules prescribed by college.
+52-53. Practical marks: Yes, included in CGPA. Each course (theory, practical, theory-cum-practical) contributes to CGPA. Must pass each course component independently.
+
+54-58. Project evaluation:
+
+Evaluated via continuous assessment (50%) + viva-voce (50%)
+Report submission mandatory by specified date
+Yes, project compulsory for degree completion
+Non-submission = deemed failed, must redo in subsequent semester
+Can be repeated if failed
+BSc offers internship option in final semester in place of Project Work II
+59-60. Skill enhancement courses: Programme-specific; evaluated and graded but may not carry credits or affect CGPA depending on course type.
+
+Questions 61-75 Response:
+
+Skill courses affect CGPA: Depends on course type - some carry credits and affect CGPA, others don't.
+
+Curriculum approval: Board of Studies and Academic Council approve curriculum.
+
+63-64. Regulations mid-course:
+
+Academic Council can modify/amend regulations without notice
+After break of study, regulations in force at rejoining time apply
+65-66. Rule conflicts and relaxation: Academic Council of Kongu Engineering College has final authority. Department must follow institutional regulations.
+
+67-68. Revaluation:
+
+YES, allowed for Theory and Theory-cum-Practical courses with ESE
+Process: First apply for photocopy of answer script, faculty reviews and recommends, then apply for revaluation
+NOT permitted for pure practical courses
+69-70. Supplementary exams and attempts:
+
+Supplementary exams conducted for project viva failures
+No specific limit on attempts, but must complete within maximum duration (10 semesters)
+From 4th attempt onwards, only ESE marks considered (must score 50% in ESE)
+71-72. Arrears with regular exams:
+
+YES, registration mandatory for both current semester and arrear courses
+Arrears disqualify for First Class with Distinction (requires all first-time passes)
+73-75. Appeals and certificates: Revaluation serves as appeal mechanism. Provisional and degree certificates issued per institutional procedures.
+
+Questions 76-85 Response:
+
+Degree certificate: Issued after satisfying all requirements in clause related to degree eligibility.
+
+Degree cancellation: Subject to disciplinary action, malpractice findings, or other violations.
+
+78-80. Unknowing violations:
+
+Regulations are binding on all students
+College reserves right to modify regulations without notice
+Students responsible for knowing applicable regulations
+Final authority: Academic Council of Kongu Engineering College has authority to modify/amend regulations, curricula, syllabi, examination schemes, procedures, requirements, and rules.
+

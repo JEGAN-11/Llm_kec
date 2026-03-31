@@ -1,0 +1,133 @@
+R2024 MBA Regulations apply to candidates admitted from academic year 2024–2025 onward.
+Yes. After break of study, you are governed by the rules and regulations in force at the time of rejoining.
+Normal duration: 6 trimesters (2 years).
+Maximum duration: 12 trimesters (4 years).
+Yes. Break of study counts within the maximum duration.
+Extension beyond the maximum duration is not permitted.
+Minimum credits to complete MBA: 102 (54 core + 42 elective + 6 field work).
+No. You must earn the total credits specified in the curriculum.
+Core Courses (CC) are mandatory.
+Elective Courses (EC) are required; total elective credits required = 42.
+Functional Electives: minimum 18 credits.
+Sectoral Electives: minimum 6 credits.
+Skill Enhancement Electives: minimum 3 credits (one-credit courses).
+Alternative Credit Courses: minimum 6 credits.
+No. Minimum credit requirements must be met in each elective category.
+Yes. You may earn more than the total credits prescribed.
+Extra credits are allowed; add/drop additional elective credits are capped at 8 total across the programme.
+Maximum credits per trimester: 24.
+No overload beyond 24 credits per trimester is permitted.
+Underload limits are not specified in the retrieved sections.
+Yes. Add/drop is permitted.
+Within two weeks from the start of the trimester.
+Optional.
+Max add/drop credits across the programme: 8.
+Yes. Online courses are allowed.
+Approved platforms include NPTEL, SWAYAM, NSE, IIBF, other online certifications, and courses offered by foreign universities, subject to BoS and Principal approval.
+Yes, if approved; credits may be transferred and grades assigned.
+If grades are assigned, they are treated like other courses for GPA/CGPA.
+Alternative Credit Courses include Outbound Experiential Learning, Business Plan Preparation, National/Global Virtual Team Project, Social Sensitization Project, Rural Innovation Project, International Visit, Environment Study, etc.
+Yes. International visits and similar industry projects can earn credits if approved.
+Board of Studies and the Principal approve alternative credit courses.
+Yes, self-study courses are permitted.
+Maximum one self-study course per trimester.
+Yes. Evaluation is the same as theory courses.
+Yes. Final trimester electives may be exempted if required credits are earned in advance (up to fifth trimester).
+Minimum overall attendance: 80% per trimester.
+No, unless medical condonation applies (minimum 70%).
+Yes, with medical reasons, Principal approval, and condonation fee.
+Minimum 70% attendance under medical condonation.
+Only twice during the entire programme.
+Yes. Minimum 60% attendance in each course.
+You cannot appear for that course’s end trimester exam; you must repeat the course later.
+Yes, other course exams are allowed if their attendance requirements are met.
+Yes, exam registration is mandatory.
+You will not be permitted to move to the next trimester.
+Yes, registration is mandatory for arrear courses.
+No. Without registration, you cannot move to the next trimester.
+Theory courses: CA 40 marks + ETE 60 marks (ETE conducted for 100 and reduced).
+Continuous assessment: 40 marks.
+End trimester exam: 60 marks.
+Two internal tests.
+A reassessment test/tutorial may be conducted for valid reasons approved by the Principal.
+Yes, reassessment is allowed in such valid cases.
+Practical courses: CA 60 marks + ETE 40 marks.
+Skill enhancement electives are one-credit practical courses; assessment is same as practical courses.
+Summer internship: compulsory; each candidate must do it.
+Four weeks after completion of first year.
+Assessed by weekly report (50), internship report (20), and viva (30).
+Consequence of not submitting internship report is not explicitly stated in retrieved sections.
+Capstone project: individual project done in an organization or on a research problem using data, producing solutions/recommendations.
+Yes, it is part of the programme structure (field work).
+Two reviews by the review committee during the trimester.
+CA 50 (Review I 20, Review II 30) and ETE 50 (Report 20, Viva 30), with detailed distribution per review committee/examiners.
+If CA < 50% in capstone, you cannot submit the report and must redo in the next trimester.
+If ETE < 50% in capstone, resubmit report within 30 days and appear for a fresh viva.
+Yes, resubmission is allowed as above.
+Publication requirement is not stated in the retrieved sections.
+Capstone has grades; GPA/CGPA are calculated from all courses with grades, so it is included.
+Minimum to pass: 50% total (CA + ETE) with at least 45% in ETE.
+Yes, minimum 45% in ETE is mandatory.
+Yes. CA marks from first attempt are retained for subsequent attempts.
+From the fourth attempt onward, only ETE marks are considered.
+No. Improvement after passing is not permitted.
+No. Grade improvement is not allowed.
+Yes, withdrawal is permitted for valid reasons.
+Only once during the programme.
+Withdrawal is not considered an appearance for classification.
+Yes. Final trimester withdrawal from project viva is allowed, with supplementary viva later.
+Absence after registering is treated as an appearance.
+Yes, it counts for classification.
+Yes, break of study is permitted.
+Once, with an additional one-year break in extraordinary cases.
+Maximum one year; an additional one year may be granted in extraordinary situations.
+Regulations in force at the time of rejoining apply.
+Yes, additional/equivalent courses can be prescribed to bridge curriculum changes.
+Name is deleted permanently after two consecutive trimesters of non-reporting.
+Yes, permanent cancellation; no readmission under any circumstances.
+GPA = 
+∑
+(
+course credits
+×
+grade points
+)
+∑
+(
+course credits
+)
+∑(course credits)
+∑(course credits×grade points)
+​
+  for that trimester.
+CGPA = 
+∑
+(
+course credits
+×
+grade points
+)
+∑
+(
+course credits
+)
+∑(course credits)
+∑(course credits×grade points)
+​
+  across all trimesters so far.
+No. GPA/CGPA are computed only if all courses are passed.
+CGPA-to-percentage conversion is not specified in the retrieved sections.
+First Class with Distinction: CGPA ≥ 8.5 and first appearance in all 6 trimesters within 6 consecutive trimesters (excluding authorized break).
+First Class: CGPA ≥ 6.5 and pass all courses within 9 consecutive trimesters (excluding authorized break).
+Yes. Distinction requires first appearance in all courses.
+No. Withdrawal is not treated as an appearance.
+Yes, grades can be withheld.
+If dues are not cleared, or if disciplinary case is pending, or for any other reason.
+Yes. Revaluation is allowed for theory courses with ETE, after obtaining a photocopy and recommendation.
+Yes, photocopy of answer script is allowed on payment of fee.
+Eligibility: completion of all courses; required credits within stipulated time; additional courses if readmitted; no disciplinary action pending.
+Yes. Pending disciplinary action makes you ineligible.
+Academic Council of Kongu Engineering College.
+Yes. Regulations can be modified/amended without notice.
+Conflict resolution authority is not specified in the retrieved sections.
+Officially awarded once eligibility conditions are satisfied (clause 15); exact timing not specified.

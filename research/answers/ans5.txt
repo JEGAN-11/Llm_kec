@@ -1,0 +1,269 @@
+ANSWERS TO MSC 5-YEAR PROGRAMME QUESTIONS (Q5.TXT)
+Questions 1-15: Programme Basics & Attendance
+1. Which regulation applies if I joined MSc 5-year in 2024?
+R2024 MSc Regulations apply for students joining in 2024.
+
+2. What is the total duration of the programme?
+10 consecutive semesters (5 Years).
+
+3. What is the maximum duration allowed?
+16 semesters (8 Years).
+
+4. What happens if I exceed maximum duration?
+Extension beyond 16 semesters is not permitted. You become ineligible for degree award.
+
+5. How many total credits are required to graduate?
+The document states minimum credits are required but doesn't specify the exact number in the retrieved sections. Refer to the programme curriculum for specific credit requirements.
+
+6. Is attendance calculated semester-wise or course-wise?
+Both - overall semester attendance AND per-course attendance must be satisfied.
+
+7. What is minimum attendance required overall?
+Not less than 80% (after rounding off to nearest integer) of overall attendance in a semester.
+
+8. What is minimum attendance per course?
+Not less than 60% attendance in each course.
+
+9. Can medical reasons reduce attendance?
+Yes. If you secure not less than 70% attendance due to medical reasons (hospitalization/accident/specific illness), you may appear for exams with Principal's approval on payment of condonation fee.
+
+10. How many times can medical condonation be used?
+Only twice during the entire duration of the degree programme.
+
+11. Is startup attendance concession allowed?
+Yes. Students in entrepreneurship/startup activities can get concession.
+
+12. What is minimum attendance for startup students?
+Not less than 60% in the current semester.
+
+13. Who approves startup attendance?
+Review committee recommendation + Principal's approval.
+
+14. What happens if one course attendance is low?
+If you don't meet the 60% requirement in a specific course, you cannot appear for that course's end semester examination. You must repeat that course when offered next.
+
+15. Do lab courses have separate attendance?
+Yes, practical courses have separate attendance tracked independently.
+
+Questions 16-30: Employability Courses & Projects
+16. Can I pass theory if lab attendance is short?
+No. You must satisfy attendance requirements for each course independently. If practical attendance is short, you cannot appear for that component's examination.
+
+17. What are employability enhancement courses?
+Courses like project work, internship, professional skills training/industrial training, and entrepreneurships/start ups to gain/exhibit knowledge/skills.
+
+18. Are professional skills training courses mandatory?
+Yes, it's part of the programme structure.
+
+19. How many credits do skill training courses carry?
+Two credits for Phase I (fifth semester) and two credits for Phase II (sixth semester), totaling 4 credits.
+
+20. Can startup replace skill training?
+Yes. Student entrepreneurs may earn maximum 2 credits per semester for two semesters in place of Professional Skills Training I/II.
+
+21. How are startups evaluated?
+Through periodic reviews by a panel of members constituted by the Principal.
+
+22. Is internship mandatory?
+Not mandatory but provided as an option for full-time internship during entire seventh semester and/or final semester.
+
+23. Can internship replace project?
+Yes. Internship credits can replace Project Work I in seventh semester and/or Project Work II in final semester.
+
+24. How many credits does internship carry?
+Same number of credits as corresponding Project Work (Project Work I or Project Work II).
+
+25. What happens if internship certificate is missing?
+The retrieved sections don't explicitly address this. Consult with college administration.
+
+26. What is Mini Project?
+A project component mentioned in the programme structure. Specific details not provided in retrieved sections.
+
+27. What happens if I fail Mini Project?
+Mini Project follows continuous assessment re-enrollment rules - you must re-enroll in subsequent semester and satisfy attendance requirements.
+
+28. What is Project Work I and II?
+Project Work I (seventh semester) and Project Work II (final semester) - major project components evaluated through 50 CA marks + 50 ESE marks.
+
+29. Are project marks included in CGPA?
+Yes, project marks are included in CGPA calculation.
+
+30. Is publication mandatory for MSc project?
+The retrieved sections do not explicitly state publication requirements for MSc projects.
+
+Questions 31-45: Project Details, Audit Courses & Exams
+31. What happens if project report is late?
+If you fail to secure 50% ESE marks in Project Work I/II, you must resubmit the Project Report within 30 days from result declaration date.
+
+32. Can project be repeated?
+Yes. If you fail project, you can register for supplementary examination and viva voce will be conducted.
+
+33. What are audit courses?
+Courses not listed in your programme curriculum that you can register for without getting a 'good' grade, only for learning purposes.
+
+34. How many audit courses can I take?
+One audit course per semester starting from second semester, maximum two courses during entire programme.
+
+35. Do audit courses affect CGPA?
+No. Since audit courses have no grade points assigned, they're not counted for GPA and CGPA calculations.
+
+36. What grade is given for audit course?
+SC (Successfully Completed) - if you obtain performance grade. Performance grade itself is not shown.
+
+37. What are mandatory courses?
+Student Induction Program including Universal Human Values and Yoga, etc. at the beginning of first semester.
+
+38. Do mandatory courses affect CGPA?
+No. No credits given and grade "SC" (Successfully Completed) is assigned. Not counted for GPA/CGPA calculations.
+
+39. What is minimum mark to pass a course?
+Not less than 50% of total marks (CA + ESE combined) with minimum 45% in ESE for courses with ESE. For continuous assessment only courses: minimum 50% in CA marks.
+
+40. Is ESE passing mandatory?
+Yes. Minimum 45% of marks prescribed for end semester examination is mandatory.
+
+41. Are internal marks retained for arrears?
+Yes. CA marks secured in first attempt are retained and considered valid for subsequent attempts (up to third attempt).
+
+42. From which attempt grade is capped?
+From fourth attempt onwards, only ESE marks are considered (CA is not counted), and you must secure minimum 50% in ESE. Grade awarded will be only the lowest passing grade irrespective of marks secured.
+
+43. Is revaluation allowed?
+Yes. Apply for photocopy first, then pursue with faculty member and course coordinator. Based on recommendation, apply for revaluation to Controller of Examinations.
+
+44. Is photocopy of answer script allowed?
+Yes. You can apply for photocopy of semester examination answer script on payment of prescribed fee.
+
+45. Can I withdraw from exams?
+Yes, for valid reasons.
+
+Questions 46-60: Withdrawal, GPA/CGPA & Classification
+46. How many times can withdrawal be used?
+Only once during the entire duration of the degree programme.
+
+47. Can I withdraw final semester project viva?
+Yes. Final semester candidates who withdraw from project viva-voce for genuine reasons can appear for supplementary viva-voce examination within reasonable time.
+
+48. Does withdrawal affect classification?
+No. Withdrawal is not considered as an appearance for deciding eligibility for First Class with Distinction/First Class.
+
+49. Is absence treated as attempt?
+Yes. Absence after registering for ESE is considered an appearance for classification purposes.
+
+50. Can I improve grade after passing?
+No. A candidate who has passed a course is not entitled to reappear for improvement of letter grades/marks.
+
+51. How many times grade improvement allowed?
+Not allowed. Once you pass, no improvement attempts permitted.
+
+52. How is GPA calculated?
+GPA = (Sum of course credits × grade points for all courses in the semester) / (Sum of course credits for all courses in that semester)
+
+53. How is CGPA calculated?
+CGPA = (Sum of course credits × grade points for all courses from first to final semester) / (Sum of course credits for all courses from first to final semester)
+
+54. Is CGPA calculated if arrears exist?
+No. GPA and CGPA are computed only for candidates with a pass in all courses.
+
+55. How is CGPA converted to percentage?
+Not explicitly mentioned in retrieved sections.
+
+56. What CGPA is required for First Class?
+Not less than 6.50 CGPA (must pass all courses within 12 consecutive semesters excluding authorized break).
+
+57. What CGPA is required for Distinction?
+Not less than 8.50 CGPA (if passed all courses in first appearance within 10 semesters). For transfer/readmitted students: not less than 9.00 CGPA.
+
+58. Do arrears affect distinction?
+Yes. Must pass all courses in first appearance within 10 consecutive semesters for distinction eligibility.
+
+59. Does withdrawal affect distinction?
+No. Withdrawal is not considered as an appearance for distinction eligibility.
+
+60. Can I take break of study?
+Yes, for valid reasons (accident, hospitalization, prolonged ill health, etc.).
+
+Questions 61-75: Break of Study, Degree Eligibility & Supplementary
+61. How many times break allowed?
+Once during entire period of study for maximum one year. In extraordinary situations, additional break not exceeding another one year may be granted on payment of prescribed fee.
+
+62. Is break counted in max duration?
+Yes. Total programme completion time including break cannot exceed 16 semesters (8 years).
+
+63. Which regulation applies after rejoining?
+Rules and regulations in force at the time of rejoining.
+
+64. Can extra courses be imposed after rejoining?
+Yes. If rejoining under new regulations, you must apply for prescribing additional/equivalent courses to bridge curriculum differences.
+
+65. What happens if I don't report for two semesters?
+Your name will be deleted permanently from college enrollment.
+
+66. Can my name be removed permanently?
+Yes. If you don't report for two consecutive semesters without intimation, permanent removal occurs. No readmission allowed under any circumstances.
+
+67. Can grades be withheld?
+Yes.
+
+68. Under what conditions grades are withheld?
+
+If you haven't cleared dues
+If disciplinary case is pending against you
+For any other reason as determined by authorities
+69. What happens if disciplinary case exists?
+Grades may be withheld. You won't be eligible for degree award if disciplinary action is pending.
+
+70. Can results be changed later?
+Results can be changed through revaluation process if applied for and approved.
+
+71. Are supplementary exams allowed?
+Yes. For Project Work I/II failures (less than 50% ESE marks), supplementary viva-voce examination is conducted. Also for sports participants during ESE period.
+
+72. Can I write arrears with regular exams?
+Yes. Registration is mandatory for both current semester and arrear courses.
+
+73. Can I graduate with arrears?
+No. Must successfully pass all courses required for the programme.
+
+74. What are final eligibility conditions for degree?
+
+Successfully completed all courses under different categories
+Gained required total credits within stipulated time
+Passed any additional courses prescribed after readmission
+No disciplinary action pending
+75. Who approves regulations?
+Academic Council of Kongu Engineering College.
+
+Questions 76-85, 90: Amendments & Certification
+76. Can regulations be amended anytime?
+Yes. The college through Academic Council reserves the right to modify/amend regulations without notice.
+
+77. Can amendments apply mid-course?
+Based on MBA regulations reference, amendments can be made anytime. Students rejoining after breaks follow regulations in force at rejoining time.
+
+78. Who resolves rule conflicts?
+Academic Council has final authority through the college.
+
+79. Can department override regulations?
+No. Regulations are institution-level approved by Academic Council.
+
+80. Are students informed about changes?
+Not explicitly stated, but amendments can be made "without notice" as per the regulations.
+
+81. Is ignorance of rules accepted?
+Not explicitly addressed, but typically ignorance is not accepted as excuse.
+
+82. Can degree be cancelled later?
+Not explicitly mentioned in retrieved sections, but implied through disciplinary provisions.
+
+83. When is degree officially awarded?
+After successfully meeting all eligibility conditions (clause 16).
+
+84. Is provisional certificate issued?
+Not explicitly mentioned in retrieved sections.
+
+85. When is consolidated marksheet issued?
+After final completion and when all requirements are satisfied. Grade sheet contains grades, GPA, and CGPA.
+
+90. Can students appeal academic decisions?
+Not explicitly mentioned in the retrieved sections. Consult college administration for appeal procedures.

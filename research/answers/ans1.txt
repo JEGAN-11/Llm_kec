@@ -1,0 +1,109 @@
+If I joined in 2024, which regulation applies to me? - The R2024 regulations apply to you.
+2-3. Regulation changes - Regulations remain applicable for your batch unless you take a break of study and rejoin, in which case new regulations may apply.
+
+4-6. Maximum duration - Maximum duration is specified in clause 5 of respective programme regulations and includes breaks of study.
+
+9-11. Attendance calculation - Attendance is calculated both semester-wise (overall 80% required) and course-wise (60% minimum per course required).
+
+80% overall but 60% in one subject - Yes, you can write exams as you meet both requirements (80% overall and 60% per course).
+
+74% overall attendance - If between 70-79%, you may be eligible for medical condonation (requires medical certificate and approval from Principal with condonation fee).
+
+12-14. Medical attendance condonation -
+
+Can be used if you have 70%+ attendance
+Number of times varies by programme: BSc allows once, MCA/MSc/MEMTech/BEBTech allow twice
+Medical + OD attendance are combined for overall calculation
+Startup attendance concession - Yes, it's different. For startup activities, you need only 60% attendance (vs 70% for medical), requires review committee recommendation and Principal approval.
+Questions 16-30 Response:
+
+62% attendance for startup - Yes, eligible if you have 62% or above and at least 60% in each course, with review committee recommendation and Principal approval.
+
+Startup approval - Requires review committee recommendation and Principal approval.
+
+Below 70% for startup - As long as you have 60%+ overall and 60%+ per course, you're still eligible for startup concession.
+
+19-21. Lab attendance - Yes, labs have attendance rules. You must secure 60% attendance in each course (applies to both theory and lab separately).
+
+22-24. Passing requirements - Need minimum 50% total (CA + ESE together) with minimum 45% in ESE. Both internal and ESE minimums must be met.
+
+25-26. Internal marks for arrears - Yes, continuous assessment marks from first attempt are retained and carried forward for subsequent attempts (until 4th attempt when only ESE marks count).
+
+27-30. Grade improvement - Not allowed. Once you pass a course, you cannot reappear for improvement of grades/marks.
+
+Questions 31-45 Response:
+
+Withdrawal as attempt - No, withdrawal shall not be considered as an appearance for deciding eligibility for First Class with Distinction/First Class.
+32-33. Withdrawal timing - Withdrawal application must be submitted prior to the last examination of that semester. Not permitted in final semester.
+
+34-35. Absence treatment - Absence is treated as fail (marked as AB - Absent), which affects your attempts count for classification purposes.
+
+36-40. Break of study -
+
+Yes, allowed for valid reasons (hospitalization, medical emergencies, etc.)
+Maximum one year normally, can extend to two years in extraordinary situations
+Yes, included in maximum duration
+Regulations change - You'll be governed by regulations in force when you rejoin
+Yes, you rejoin with juniors under new regulations
+41-44. Credit registration - Specific credit limits are defined in the curriculum. Registration for all courses is mandatory to move to higher semester.
+
+Online courses - Yes, counted - Credits from NPTEL/SWAYAM/approved agencies can be transferred and grades assigned.
+Questions 46-60 Response:
+
+Online/MOOC credit limits - Board of Studies decides methodology; credits from approved platforms (NPTEL/SWAYAM) can be transferred.
+47-49. Audit courses and GPA -
+
+No effect on GPA/CGPA - audit courses have no grade points assigned
+Grade given: SC (Successfully Completed) if performance grade achieved
+If fail: Not listed in grade sheet; no penalty
+50-52. GPA calculation with arrears - GPA and CGPA computed only for candidates with a pass in all courses.
+
+GPA formula: (Sum of credit×grade points in semester) ÷ (Sum of credits in semester)
+CGPA formula: (Sum of credit×grade points all semesters) ÷ (Sum of credits all semesters)
+CGPA to percentage - Not explicitly mentioned in provided context.
+54-55. Classification requirements - Specific CGPA requirements not in provided context, but First Class with Distinction requires passing all courses in first appearance within consecutive semesters.
+
+56-57. Distinction with multiple attempts - Yes, affected. Distinction requires passing all courses in first appearance.
+
+58-60. Disciplinary cases and withholding -
+
+Grades may be withheld for unsettled dues, pending disciplinary cases, or other reasons
+Disciplinary action pending prevents degree award
+Questions 61-75 Response:
+
+Final result approval - Controller of Examinations handles result processes.
+62-63. Result cancellation and malpractice - Liable for punitive action as per examination rules; subject to institutional disciplinary procedures.
+
+Project marks in CGPA - Yes, included. Project work evaluated with continuous assessment and viva-voce, contributes to CGPA.
+65-66. Failed project viva - Must resubmit report within 30 days and appear for fresh viva-voce examination.
+
+67-70. Internship -
+
+Programme-specific; some have internship cum project work
+Evaluated through reports, certificates, and viva-voce
+Non-submission treated as failure
+71-74. Project guide and evaluation -
+
+Project evaluated by committee of examiners and guide (internal and/or external depending on programme)
+Missing reviews affects continuous assessment
+Cannot graduate with pending project components
+Authority to change regulations - Academic Council of Kongu Engineering College has authority to modify regulations.
+Questions 76-90 Response:
+
+76-82. Regulation flexibility and authority -
+
+Academic Council reserves right to modify/amend regulations without notice
+College has authority through Academic Council
+Department rules must align with institutional regulations
+83-87. Appeals and revaluation -
+
+Yes, revaluation allowed for Theory and Theory cum Practical courses with ESE
+Process: Apply for photocopy of answer script, faculty reviews and recommends, then apply for revaluation through Controller of Examinations
+Practical exams - Revaluation not permitted for pure practical courses
+88-90. Exams and degree award -
+
+End semester exams conducted as per institutional schedule
+Degree awarded after satisfying all requirements specified in clause 16 of respective regulations
+Marks cannot be changed after grade sheet issued without proper revaluation process
+This is the complete response for all 90 questions from q1.txt. Now, would you like me to process the remaining question files (q2.txt through q6.txt)? Please share their contents and I'll query them the same way!
+

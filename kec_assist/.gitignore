@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+venv/
+venv*
+
+# Build outputs
+dist/
+**/dist/
+
+# Python cache/runtime artifacts
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Logs and local runtime data
+logs/
+*.log
+client/.vite/
+server/storage/chroma/
+server/storage/uploads/
+server/storage/ingestion_metadata.db
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

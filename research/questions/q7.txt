@@ -1,0 +1,90 @@
+1. If I joined this programme in 2024, which regulation applies to me?
+2. Will these regulations change if I take a break of study?
+3. What is the normal duration of this programme?
+4. What is the maximum time allowed to complete the programme?
+5. Is break of study counted within the maximum duration?
+6. What happens if I exceed the maximum duration?
+7. Can I request extension beyond the maximum duration?
+8. How many total credits are required to complete this programme?
+9. Can I graduate if I am short of one or two credits?
+10. Are all courses in the curriculum mandatory?
+11. Are there electives in this programme?
+12. How many elective credits are required?
+13. Can I choose electives from different areas?
+14. Can I skip one elective category and compensate with another?
+15. Is there a minimum credit requirement per semester?
+16. Can I overload credits in a semester to finish early?
+17. Is there a maximum credit limit per semester?
+18. What happens if I register for fewer credits in a semester?
+19. Is add/drop option available?
+20. When can I apply for add/drop?
+21. Is add/drop compulsory or optional?
+22. Is there a limit on add/drop credits during the programme?
+23. Are online courses allowed?
+24. Which platforms are approved for online courses?
+25. Do online course credits count towards degree completion?
+26. Do online course grades affect GPA or CGPA?
+27. Are self-study courses allowed?
+28. How many self-study courses can I take?
+29. Are self-study courses evaluated like regular courses?
+30. Are audit courses available in this programme?
+31. Do audit courses affect GPA or CGPA?
+32. What grade is given for audit courses?
+33. What happens if I fail an audit course?
+34. How is attendance calculated – semester-wise or course-wise?
+35. What is the minimum overall attendance required?
+36. What is the minimum attendance required in each course?
+37. If my overall attendance is fine but one subject attendance is low, what happens?
+38. Can I write exams for other subjects if one subject attendance is insufficient?
+39. Is medical attendance condonation available?
+40. What is the minimum attendance required for medical condonation?
+41. How many times can medical condonation be used?
+42. Is startup attendance concession allowed?
+43. What is the minimum attendance required for startup concession?
+44. Who approves startup attendance concession?
+45. Do lab courses have separate attendance requirements?
+46. What happens if I lack lab attendance but meet theory attendance?
+47. Is exam registration mandatory?
+48. What happens if I do not register for exams?
+49. Is separate registration needed for arrear courses?
+50. Can I move to the next semester without exam registration?
+51. How are theory courses evaluated?
+52. How many marks are for continuous assessment?
+53. How many marks are for end semester examination?
+54. Is passing the end semester exam mandatory?
+55. What is the minimum mark required to pass a course?
+56. Are internal marks carried forward for arrear attempts?
+57. Can I improve my grade after passing a course?
+58. Is grade improvement allowed in this programme?
+59. Is withdrawal from examination allowed?
+60. How many times can I withdraw during the programme?
+61. Can I withdraw from final semester examinations?
+62. Does withdrawal count as an appearance?
+63. What happens if I am absent for an exam?
+64. Is absence treated as a failed attempt?
+65. Does absence affect degree classification?
+66. Is break of study permitted?
+67. How many times can break of study be taken?
+68. What is the maximum duration of break of study?
+69. Which regulation applies after rejoining from break?
+70. Can additional courses be prescribed after rejoining?
+71. What happens if I do not report for two consecutive semesters?
+72. Can my admission be cancelled permanently?
+73. How is GPA calculated?
+74. How is CGPA calculated?
+75. Is GPA or CGPA calculated if I have arrears?
+76. How is CGPA converted into percentage?
+77. What CGPA is required for First Class?
+78. What CGPA is required for First Class with Distinction?
+79. Do arrears affect degree classification?
+80. Does withdrawal affect classification?
+81. Can grades be withheld?
+82. Under what conditions can grades be withheld?
+83. What happens if a disciplinary case is pending?
+84. Can results be changed after publication?
+85. Is revaluation allowed?
+86. Is photocopy of answer script allowed?
+87. Are supplementary exams conducted?
+88. What are the final eligibility conditions for award of the degree?
+89. Who has the authority to amend these regulations?
+90. When is the degree officially awarded?

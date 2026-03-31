@@ -1,0 +1,156 @@
+ANSWERS FOR Q4.TXT - ME/MTech SPECIFIC QUESTIONS
+
+Questions 1-15 Response:
+
+R2024-MEMTech Regulations apply if you joined ME/MTech in 2024.
+2-4. Duration:
+
+Normal: 2 years (4 semesters)
+Maximum: 4 years (8 semesters)
+Yes, break counted in maximum duration
+Extension not permitted beyond 8 semesters
+5-8. Credits:
+
+Minimum 72 credits required to graduate
+Cannot graduate with credit shortage
+Maximum 30 credits per semester
+No overloading beyond 30 credits
+Employability Enhancement Courses: Innovative project, internship cum project work, and project work to gain/exhibit knowledge and skills.
+10-12. Innovative Project:
+
+Optional (part of employability enhancement)
+Offered in second semester
+Carries 2 credits
+13-15. Internship cum Project Work:
+
+Yes, can replace regular project work in third semester
+Carries same credits as Project Work in third semester (9 credits)
+Evaluated: continuous assessment (50%) + viva-voce (50%)
+Submit brief report and certificate from organization
+Questions 16-30 Response:
+
+Non-submission treated as project failure.
+17-18. Final Project Work:
+
+Yes, mandatory in fourth semester
+Carries 9 credits
+19-20. Publication for ME/MTech:
+
+YES, MANDATORY - Must publish paper in reputed journal/conference with full papers after usual review
+Copy of accepted paper and proof required at evaluation
+Applies to Project Work, NOT to Innovative Project or Internship cum Project Work
+21-22. Project location and evaluation:
+
+Can be done inside campus or in industries
+Evaluated via project report (50% CA) + viva-voce by committee of two examiners and guide (50% ESE)
+23-25. Project failures:
+
+<50% internal (CA): Cannot submit report, must redo with attendance
+<50% viva (ESE): Resubmit report within 30 days, fresh viva-voce
+Yes, can resubmit and repeat
+26-30. One/Two Credit & Online Courses:
+
+Yes, allowed
+Maximum 6 credits through one/two credit courses
+Maximum 15 credits combined through all one/two credit, online, and self-study courses
+Yes, online courses affect CGPA - credits transferred and grades assigned
+Questions 31-45 Response:
+
+31-32. Self-study courses:
+
+Elective courses studied independently under faculty guidance
+Limited to one per semester
+33-37. Add/Drop & Exemptions:
+
+Yes, final year electives exemptible if required credits earned through one/two credit, online, or self-study courses (up to second semester)
+Yes, add/drop allowed from second to fourth semesters
+Within two weeks from semester start
+Optional - up to student
+Maximum 8 credits total during entire programme
+Add/Drop courses considered as attempts for classification if taken
+38-45. Attendance:
+
+BOTH overall AND course-wise
+80% overall minimum
+60% per course minimum
+Medical condonation: 70%+ with medical certificate, twice during entire programme
+Startup concession: Not explicitly mentioned in ME/MTech regulations
+Approval by Principal (for medical condonation)
+Questions 46-60 Response:
+
+Fail attendance in one course: Cannot write that course's exam; must repeat when offered next.
+47-48. Passing requirements:
+
+50% total (CA + ESE combined)
+Minimum 45% in ESE - YES, ESE passing mandatory
+49-51. Internal marks and attempts:
+
+Yes, retained from first attempt for subsequent attempts
+From 4th attempt onwards, only ESE marks considered (must score 50% in ESE)
+After 4th attempt: Lowest passing grade awarded regardless of marks
+52-53. Revaluation:
+
+Yes, allowed for Theory and Theory-cum-Practical courses with ESE
+Yes, photocopy of answer script - apply with fee, faculty reviews, then revaluation
+54-58. Withdrawal:
+
+Yes, allowed once during entire programme
+Must apply before last exam with Head of Department recommendation and Principal permission
+Yes, final semester project viva withdrawal allowed - supplementary viva within reasonable time with application and fee
+Does NOT count as appearance for classification
+Absence DOES count as appearance for classification
+Grade improvement: NOT allowed - once passed, cannot reappear for improvement.
+
+GPA = Σ(credit×grade points in semester) ÷ Σ(credits in semester)
+
+Questions 61-75 Response:
+
+61-62. CGPA:
+
+CGPA = Σ(credit×grade points all semesters) ÷ Σ(credits all semesters)
+Only computed when all courses passed - not calculated with arrears
+CGPA to percentage: Not specified in provided context.
+64-67. Classification (based on similar programme patterns):
+
+First Class: CGPA ≥ 6.50 (within appropriate timeframe)
+Distinction: CGPA ≥ 8.50 + all courses first appearance
+Withdrawals do NOT affect distinction (not counted as appearance)
+Arrears DO affect distinction (requires all first-time passes)
+68-71. Grade withholding and malpractice:
+
+Yes, can be withheld for unsettled dues, pending disciplinary case, or other reasons
+Results subject to institutional disciplinary procedures
+Liable for punitive action per examination rules
+72-75. Break of study:
+
+Yes, allowed for valid reasons
+Once for max 1 year; extraordinary: additional 1 year with fee
+Regulations in force at rejoining apply
+Yes, additional/equivalent courses may be prescribed to bridge curricula
+Questions 76-90 Response:
+
+76-77. Non-reporting:
+
+Not reporting for two consecutive semesters without intimation
+Name deleted permanently from enrollment - no readmission
+78-82. Regulation authority:
+
+Academic Council of Kongu Engineering College
+Approved by Anna University and AICTE
+Can amend regulations without notice
+Final authority: Academic Council
+Department cannot override institutional regulations
+83-85. Appeals and supplementary exams:
+
+Revaluation serves as appeal mechanism
+Yes, supplementary exams for project viva failures
+Yes, write arrears with regular exams - registration mandatory for both
+86-87. Project/Internship and CGPA:
+
+Yes, project marks included in CGPA
+Yes, internship marks affect CGPA (evaluated like project work)
+88-90. Degree award:
+
+Classification finalized per regulations
+Subject to disciplinary clearance and malpractice findings
+Degree awarded after satisfying all eligibility conditions per institutional procedures

@@ -1,0 +1,81 @@
+1. Which regulation applies if I joined BSc in 2024?
+2. How many years do I have to complete the BSc degree?
+3. What happens if I exceed the maximum duration?
+4. Can I continue the course after max duration?
+5. How many credits are required to graduate?
+6. Can I graduate with one credit shortage?
+7. Is attendance calculated semester-wise or subject-wise?
+8. If my overall attendance is fine but one subject is low, what happens?
+9. What is the minimum attendance to write exams?
+10. Can medical reasons help if attendance is below 75%?
+11. How many times can I use medical condonation?
+12. Is startup attendance concession applicable for BSc?
+13. If attendance is 62%, am I detained?
+14. Do practical courses have separate attendance?
+15. If I miss lab attendance, can I still pass theory?
+16. What is the minimum mark to pass a subject?
+17. Is ESE passing mandatory?
+18. Are internal marks carried forward for arrears?
+19. If I repeat a subject, will internal marks reset?
+20. Can I improve grade after passing?
+21. Is grade improvement allowed for all courses?
+22. Does grade improvement affect CGPA?
+23. Is withdrawal allowed for exams?
+24. Can I withdraw after writing some papers?
+25. Does withdrawal count as attempt?
+26. What happens if I am absent for exam?
+27. Is absence treated as fail?
+28. Can I take break of study?
+29. How many times can break of study be taken?
+30. Is break counted in maximum duration?
+31. Can I rejoin with a different batch?
+32. How many credits can I take in one semester?
+33. Can I overload credits?
+34. Can I underload credits?
+35. Are online courses allowed?
+36. Is there a limit for online course credits?
+37. Do audit courses affect GPA?
+38. What grade is given for audit courses?
+39. If I fail audit course, does it matter?
+40. How is GPA calculated?
+41. How is CGPA calculated?
+42. How is CGPA converted to percentage?
+43. What CGPA is needed for First Class?
+44. What CGPA is needed for Distinction?
+45. Does number of attempts affect classification?
+46. Are arrears allowed for graduation?
+47. Can grades be withheld?
+48. Under what conditions are grades withheld?
+49. Who approves results?
+50. Can results be changed later?
+51. What happens in malpractice cases?
+52. Are practical marks included in CGPA?
+53. Can I fail only lab and still pass semester?
+54. How is project evaluated?
+55. Is project compulsory?
+56. What happens if project report is not submitted?
+57. Can project be repeated?
+58. Can internship replace project?
+59. Are skill enhancement courses mandatory?
+60. Are skill courses graded?
+61. Do skill courses affect CGPA?
+62. Who approves curriculum?
+63. Can regulations be changed mid-course?
+64. Which regulation applies after break of study?
+65. Who resolves rule conflicts?
+66. Can department relax rules?
+67. Is revaluation allowed?
+68. Is photocopy of answer script allowed?
+69. Are supplementary exams conducted?
+70. How many attempts are allowed per subject?
+71. Can I write arrears along with regular exams?
+72. Are arrears counted for distinction?
+73. Can students appeal exam decisions?
+74. What happens if marksheet has errors?
+75. Is provisional certificate issued?
+76. When is degree certificate issued?
+77. Can degree be cancelled?
+78. What happens if rules are violated unknowingly?
+79. Are students informed of regulation changes?
+80. Is ignorance of regulation accepted?
+85. Who is final authority on regulations?
